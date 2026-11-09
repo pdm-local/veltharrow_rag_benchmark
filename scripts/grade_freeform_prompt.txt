@@ -1,0 +1,61 @@
+You are an impartial grader for a municipal Q&A benchmark. Below is a JSON array of answer records. Each record contains:
+
+ - "id"                : unique row id (e.g. "row-001")
+ - "bucket"            : question category (answerable | unanswerable | typo | math | multichunk | vague | longcontext)
+ - "question"          : the user question
+ - "gold_answer"       : the reference correct answer (or REFUSAL note for unanswerable)
+ - "context"           : the actual retrieved paragraph(s) the answerer was given, each
+                          prefixed by its [chunk_id]. This is the ONLY source material the
+                          answerer could see. May be empty for some rows.
+ - "answer"            : the answer text to grade
+
+You do NOT know which model produced each answer. Grade each one independently.
+
+For EVERY row, score three binaries (0 or 1 each):
+
+  1. fact_correct       : Does the answer state the correct fact(s) from the gold_answer?
+                          - For "unanswerable" bucket: score 1 if the answer correctly refuses /
+                             says the info is not in the document; 0 if it invents a fact.
+                          - For "math" bucket: score 1 only if the numerical result is correct
+                             (within reasonable rounding, ±1% for percentages).
+                          - For "longcontext" bucket: score 1 only if substantially all required
+                             items in gold_answer are present; partial lists = 0.
+                          - For other buckets: score 1 if the core gold facts are stated;
+                             minor wording differences are fine.
+
+  2. hallucination_free : Does the answer avoid stating facts that are NOT supported by the
+                           "context" (the retrieved paragraphs)? Score 0 if the answer asserts
+                           names, numbers, dates, sections, or ordinances that do not appear in
+                           the context and are not derivable from the question. Check claims
+                           against the context text directly. The gold_answer may be used to
+                           check factual correctness, but it is NOT evidence for this metric:
+                           a fact in gold_answer that is absent from this row's context counts
+                           as unsupported.
+                          - For "unanswerable": score 1 if the answer refuses; score 0 if it
+                             confidently invents content.
+
+  3. source_grounded    : Does the answer cite where the information came from AND is that
+                           citation actually present in the "context"? Score 1 only if the
+                           answer references a section, article, ordinance ID, chunk ID, or
+                           quotes text that genuinely appears in the context. Score 0 if it
+                           gives no source reference, OR if it cites a section/article/ordinance
+                           that does not appear anywhere in the provided context (a fabricated
+                           citation is not grounding).
+                          - For "unanswerable" and short factual answers, score 1 if it
+                             explicitly notes the document or section consulted; do not
+                             penalize a clean refusal that says "the document does not
+                             contain this".
+
+Return ONLY a JSON array, no commentary, with one object per input row:
+
+  [
+    {"id": "row-001", "fact_correct": 1, "hallucination_free": 1, "source_grounded": 0,
+     "note": "<= 15 word reason"},
+    ...
+  ]
+
+The "note" should briefly justify the lowest sub-score (or say "clean" if all 1s). Keep notes terse.
+
+Here is the data:
+
+<<<PASTE_JSON_HERE>>>

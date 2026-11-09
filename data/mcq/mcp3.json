@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "VCZC-001",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the official zoning map reference for the Municipality of Veltharrow?",
+    "options": {
+      "A": "Municipal Zoning Map VTH-ZM-2023",
+      "B": "Ordinance Z-1987-001",
+      "C": "Ordinance Z-2017-009",
+      "D": "VSVS-2017",
+      "E": "NVP-M1-2011-004",
+      "F": "Ordinance SP-2019-001"
+    },
+    "answer": "A",
+    "evidence": "The official zoning map for the municipality is Municipal Zoning Map VTH-ZM-2023, on file with the Director of Planning.",
+    "reasoning": "The document names Municipal Zoning Map VTH-ZM-2023 as the official zoning map reference."
+  },
+  {
+    "id": "VCZC-002",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "Which primary character is assigned to the R-3 zoning district?",
+    "options": {
+      "A": "small multifamily",
+      "B": "apartment and condominium buildings",
+      "C": "downtown core",
+      "D": "light manufacturing and warehousing",
+      "E": "parks, greenways, and conservation",
+      "F": "flood mitigation and restricted development"
+    },
+    "answer": "B",
+    "evidence": "R-3, High-Density Residential, primary character: apartment and condominium buildings.",
+    "reasoning": "The R-3 index entry states that its primary character is apartment and condominium buildings."
+  },
+  {
+    "id": "VCZC-003",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the standard minimum lot area in the R-1 District per dwelling unit?",
+    "options": {
+      "A": "511 square meters",
+      "B": "743 square meters",
+      "C": "695 square meters",
+      "D": "600 square meters",
+      "E": "465 square meters",
+      "F": "0.0695 ha only for corner lots"
+    },
+    "answer": "C",
+    "evidence": "The standard minimum lot area in the R-1 District shall be 695 square meters, equal to 0.0695 ha, per dwelling unit.",
+    "reasoning": "The standard R-1 minimum lot area is explicitly stated as 695 square meters per dwelling unit."
+  },
+  {
+    "id": "VCZC-004",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "Who is identified as the Director of Planning in the General Codified References?",
+    "options": {
+      "A": "Dunstan Worrall",
+      "B": "Cael Drossmund",
+      "C": "Colwick Durrath",
+      "D": "Ysabel Frondtke",
+      "E": "Rund Pallister",
+      "F": "Emmelyn Foscroft"
+    },
+    "answer": "D",
+    "evidence": "The Director of Planning is Ysabel Frondtke, with term start February 1, 2021, by civil service appointment for an indefinite career term.",
+    "reasoning": "The named Director of Planning is Ysabel Frondtke."
+  },
+  {
+    "id": "VCZC-005",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "During what standard hours may commercial establishments in the C-1 District operate?",
+    "options": {
+      "A": "4:30 AM to 11:00 PM",
+      "B": "6:00 AM to 1:30 AM",
+      "C": "7:00 AM to 10:00 PM",
+      "D": "10:00 PM to 7:00 AM",
+      "E": "6:00 AM to 11:00 PM",
+      "F": "First and third Tuesday at 6:30 PM"
+    },
+    "answer": "E",
+    "evidence": "Commercial establishments in the C-1 District may operate between 6:00 AM and 11:00 PM only.",
+    "reasoning": "The standard C-1 operating-hours rule is 6:00 AM through 11:00 PM."
+  },
+  {
+    "id": "VCZC-006",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the standard daytime sound limit at M-1 property lines?",
+    "options": {
+      "A": "71 dBA during daytime hours only",
+      "B": "48 dBA between 10:00 PM and 7:00 AM",
+      "C": "4 consecutive hours per event",
+      "D": "62 decibels between 10:00 PM and 7:00 AM",
+      "E": "38 millimeters of rainfall retained on-site",
+      "F": "62 decibels, measured as dBA, between 7:00 AM and 10:00 PM"
+    },
+    "answer": "F",
+    "evidence": "Sound levels at M-1 property lines shall not exceed 62 decibels, measured as dBA, between 7:00 AM and 10:00 PM.",
+    "reasoning": "The M-1 noise rule sets the daytime limit at 62 dBA between 7:00 AM and 10:00 PM."
+  },
+  {
+    "id": "VCZC-007",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the primary neighborhood subject to the PO-1 Lake Orvaine Reach Preservation Overlay?",
+    "options": {
+      "A": "Lake Orvaine Reach",
+      "B": "Pellgate Flats",
+      "C": "Wyndmere Spur",
+      "D": "Cornrath Central",
+      "E": "Drasswell Common near Drasswell Pond",
+      "F": "Upper Bryndmere"
+    },
+    "answer": "A",
+    "evidence": "The PO-1 Lake Orvaine Reach Preservation Overlay is established for environmental and mixed-use character. The primary neighborhood subject to this overlay is Lake Orvaine Reach.",
+    "reasoning": "The PO-1 section directly identifies Lake Orvaine Reach as the primary neighborhood."
+  },
+  {
+    "id": "VCZC-008",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "For how long may temporary structures associated with emergency flood response be placed without a permit in SP-1?",
+    "options": {
+      "A": "4 consecutive hours per event",
+      "B": "up to 90 days per declared event",
+      "C": "every 7 years",
+      "D": "within 55 meters of a SP-1 boundary",
+      "E": "until 1:30 AM",
+      "F": "within 12 meters of Drasswell Pond's ordinary high-water mark"
+    },
+    "answer": "B",
+    "evidence": "Exception SP-1.1(b): Temporary structures associated with emergency flood response may be placed without a permit for up to 90 days per declared event.",
+    "reasoning": "The SP-1 emergency-response exception gives a maximum of 90 days per declared event."
+  },
+  {
+    "id": "VCZC-009",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "Where are Veltharrow Municipal Council meetings held under the Code's general references?",
+    "options": {
+      "A": "Cornrath Square Station",
+      "B": "Drasswell Road Junction",
+      "C": "Veltharrow Civic Hall, Council Chamber B",
+      "D": "Municipal Zoning Map VTH-ZM-2023",
+      "E": "Quorrath Street and Civic Drive",
+      "F": "The Director of Public Works office"
+    },
+    "answer": "C",
+    "evidence": "The Council meeting location is Veltharrow Civic Hall, Council Chamber B.",
+    "reasoning": "The general Council reference states the meeting location as Veltharrow Civic Hall, Council Chamber B."
+  },
+  {
+    "id": "VCZC-010",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the maximum total signage area per building frontage in C-3?",
+    "options": {
+      "A": "0.75 spaces per dwelling unit",
+      "B": "12% of total street frontage width",
+      "C": "350 nits as measured at the sign face",
+      "D": "0.75 square meters per linear meter of frontage",
+      "E": "1.0 meter of the front property line",
+      "F": "75 meters of the Cornrath Civic Hall"
+    },
+    "answer": "D",
+    "evidence": "The maximum total signage area per building frontage in the C-3 District shall be 0.75 square meters per linear meter of frontage.",
+    "reasoning": "The C-3 signage rule states the maximum signage area as 0.75 square meters per linear meter of frontage."
+  },
+  {
+    "id": "VCZC-011",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "Which two locations are designated Veltharrow Transit Nodes for the R-2 parking exception?",
+    "options": {
+      "A": "Cornrath Avenue and Drasswell Road",
+      "B": "Municipal Lane and Quorrath Street",
+      "C": "Cornrath Avenue and Fellwick Lane",
+      "D": "Upper Bryndmere and Gorrath Ridge",
+      "E": "Cornrath Square Station and Drasswell Road Junction",
+      "F": "Veltharrow Civic Hall and Cornrath Civic Hall"
+    },
+    "answer": "E",
+    "evidence": "The designated Veltharrow Transit Nodes are Cornrath Square Station and Drasswell Road Junction.",
+    "reasoning": "The R-2 parking exception lists Cornrath Square Station and Drasswell Road Junction as the designated transit nodes."
+  },
+  {
+    "id": "VCZC-012",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "Before September 2019, how often were Flood Proofing Certificates renewed under the predecessor administrative policy?",
+    "options": {
+      "A": "every 3 years",
+      "B": "every 4 years",
+      "C": "every 7 years",
+      "D": "every 2 years",
+      "E": "every 6 years",
+      "F": "every 5 years"
+    },
+    "answer": "F",
+    "evidence": "The old value, pre-September 2019, was that Flood Proofing Certificates under the predecessor administrative policy were renewed every 5 years.",
+    "reasoning": "The ordinance reference states that the old renewal period was every 5 years."
+  },
+  {
+    "id": "VCZC-013",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "Which named use received Noise Variance Permit NVP-M1-2011-004?",
+    "options": {
+      "A": "Wyndmere Metal Fabricators Ltd.",
+      "B": "Drasswell Common Flood Proofing Certification Program",
+      "C": "Cornrath Square Station",
+      "D": "Veltharrow Invasive Plant Registry",
+      "E": "Gorrath Ridgeline View Protection Policy",
+      "F": "Veltharrow Shoreline Development Permit"
+    },
+    "answer": "A",
+    "evidence": "Exception M-1.2(a): Uses that received Noise Variance Permit NVP-M1-2011-004, Wyndmere Metal Fabricators Ltd., may operate at up to 71 dBA during daytime hours only, under the terms of that permit.",
+    "reasoning": "The M-1 noise exception identifies Wyndmere Metal Fabricators Ltd. as the permit holder."
+  },
+  {
+    "id": "VCZC-014",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "How is the Veltharrow Planning Commission described in the General Codified References?",
+    "options": {
+      "A": "9 seats consisting of 1 Mayor at-large and 8 Ward Councillors",
+      "B": "7 members, appointed by Council, with 3-year staggered terms",
+      "C": "4 wards: Cornrath Ward, Fellwick Ward, Gorrath Ward, and Drasswell Ward",
+      "D": "Mayor\u2013Council, Strong Mayor form",
+      "E": "first and third Tuesday of each month at 6:30 PM",
+      "F": "2 Ward Councillors per ward"
+    },
+    "answer": "B",
+    "evidence": "The Veltharrow Planning Commission has 7 members, appointed by Council, with 3-year staggered terms.",
+    "reasoning": "The General Codified References describe the Planning Commission as having 7 Council-appointed members with 3-year staggered terms."
+  },
+  {
+    "id": "VCZC-015",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "An R-3 mixed-use building has ground-floor commercial space equal to 40% of the ground floor area. What maximum density results from adding the stated bonus to the base R-3 maximum?",
+    "options": {
+      "A": "87 dwelling units per hectare",
+      "B": "31 dwelling units per hectare",
+      "C": "102 dwelling units per hectare",
+      "D": "34 dwelling units per hectare",
+      "E": "24 dwelling units per hectare",
+      "F": "15 dwelling units per hectare"
+    },
+    "answer": "C",
+    "evidence": "The standard maximum density in the R-3 District shall be 87 dwelling units per hectare of net lot area. / Exception R-3.1(b): Mixed-use buildings with ground-floor commercial space equal to \u2265 40% of the ground floor area may add a density bonus of 15 additional units per hectare above the base maximum.",
+    "reasoning": "The base R-3 maximum is 87 units per hectare and the mixed-use bonus adds 15, yielding 102 units per hectare."
+  },
+  {
+    "id": "VCZC-016",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "Using the SP-1 flood rule, what minimum habitable floor elevation results from the stated Drasswell Common base flood elevation plus the required freeboard?",
+    "options": {
+      "A": "97.4 meters AMSL",
+      "B": "97.9 meters AMSL",
+      "C": "0.8 meters above the 100-year flood elevation",
+      "D": "98.2 meters AMSL",
+      "E": "55 meters AMSL",
+      "F": "12 meters AMSL"
+    },
+    "answer": "D",
+    "evidence": "The base flood elevation for Drasswell Common is 97.4 meters AMSL. The minimum habitable floor is 98.2 meters AMSL.",
+    "reasoning": "The document states the result of applying the 0.8-meter freeboard to the 97.4-meter base flood elevation: 98.2 meters AMSL."
+  },
+  {
+    "id": "VCZC-017",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "A C-3 telecommunications structure not subject to the Cornrath Square 38.0-meter cap receives Planning Commission approval and Council resolution. What maximum height follows from the standard C-3 height plus the allowed exceedance?",
+    "options": {
+      "A": "38.0 meters",
+      "B": "45.0 meters",
+      "C": "46.0 meters",
+      "D": "49.0 meters",
+      "E": "53.5 meters",
+      "F": "350 meters"
+    },
+    "answer": "E",
+    "evidence": "The standard maximum building height in the C-3 District shall be 45.0 meters, approximately 13 stories. / Exception C-3.1(b): Telecommunications and utility structures may exceed the height maximum by up to 8.5 meters with Planning Commission approval and Council resolution.",
+    "reasoning": "The standard C-3 limit of 45.0 meters plus the 8.5-meter telecommunications exceedance equals 53.5 meters."
+  },
+  {
+    "id": "VCZC-018",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What is the maximum C-3 signage area for a building frontage that is 24 linear meters wide?",
+    "options": {
+      "A": "24 square meters",
+      "B": "12 square meters",
+      "C": "0.75 square meters",
+      "D": "40 square meters",
+      "E": "75 square meters",
+      "F": "18 square meters"
+    },
+    "answer": "F",
+    "evidence": "The maximum total signage area per building frontage in the C-3 District shall be 0.75 square meters per linear meter of frontage.",
+    "reasoning": "Multiplying 24 linear meters by 0.75 square meters per linear meter gives 18 square meters."
+  },
+  {
+    "id": "VCZC-019",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "An M-1 property line abutting a residential zone has 42 linear meters of frontage and no qualifying road separation. How many canopy trees are required along that frontage?",
+    "options": {
+      "A": "7 canopy trees",
+      "B": "6 canopy trees",
+      "C": "8.5 canopy trees",
+      "D": "4 canopy trees",
+      "E": "9 canopy trees",
+      "F": "3.5 canopy trees"
+    },
+    "answer": "A",
+    "evidence": "A minimum 8.5-meter landscaped buffer with continuous tree planting shall be required along all M-1 property lines that abut a residential zone. Continuous tree planting shall consist of one canopy tree per 6 linear meters of frontage.",
+    "reasoning": "At one tree per 6 linear meters, 42 linear meters requires 7 canopy trees."
+  },
+  {
+    "id": "VCZC-020",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "Under the standard R-3 open-space rule, how much usable open space is required for a 50-unit building?",
+    "options": {
+      "A": "175 square meters",
+      "B": "300 square meters",
+      "C": "240 square meters",
+      "D": "150 square meters",
+      "E": "350 square meters",
+      "F": "6.0 square meters"
+    },
+    "answer": "B",
+    "evidence": "A minimum of 6.0 square meters of usable open space per dwelling unit shall be provided on-site in the R-3 District.",
+    "reasoning": "Fifty units multiplied by 6.0 square meters per unit equals 300 square meters."
+  },
+  {
+    "id": "VCZC-021",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "An R-3 building with 50 units qualifies for the OS-1 park proximity reduction. What on-site open space is required?",
+    "options": {
+      "A": "300 square meters",
+      "B": "200 square meters",
+      "C": "175 square meters",
+      "D": "150 square meters",
+      "E": "40 square meters",
+      "F": "6.0 square meters"
+    },
+    "answer": "C",
+    "evidence": "Exception R-3.4(a): Buildings within 150 meters of a publicly accessible OS-1 park of at least 0.4 hectares may reduce on-site open space to 3.5 square meters per unit.",
+    "reasoning": "The reduction changes the requirement to 3.5 square meters per unit, so 50 units require 175 square meters."
+  },
+  {
+    "id": "VCZC-022",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "A 30-unit R-2 building consists entirely of studios within 400 meters of a designated Veltharrow Transit Node. What total parking requirement follows from the applicable 0.75-space rate?",
+    "options": {
+      "A": "45 spaces",
+      "B": "30 spaces",
+      "C": "31 spaces",
+      "D": "22.5 spaces",
+      "E": "24 spaces",
+      "F": "15 spaces"
+    },
+    "answer": "D",
+    "evidence": "Exception R-2.2(a): Buildings within 400 meters of a designated Veltharrow Transit Node shall require only 0.75 spaces per dwelling unit. / Exception R-2.2(b): Units with no more than one bedroom shall require only 1.0 space. Studios shall require 0.75 spaces.",
+    "reasoning": "Both relevant exceptions point to a 0.75-space-per-unit rate, and 30 times 0.75 equals 22.5 spaces."
+  },
+  {
+    "id": "VCZC-023",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "Under C-3.2(a), what is the maximum width a lobby entrance may occupy on a ground-floor street frontage that is 40 meters wide?",
+    "options": {
+      "A": "12 meters",
+      "B": "3.5 meters",
+      "C": "4.0 meters",
+      "D": "1.0 meter",
+      "E": "4.8 meters",
+      "F": "8.5 meters"
+    },
+    "answer": "E",
+    "evidence": "Exception C-3.2(a): Lobby entrances for upper-floor office or residential uses may occupy up to 12% of total street frontage width.",
+    "reasoning": "Twelve percent of a 40-meter frontage is 4.8 meters."
+  },
+  {
+    "id": "VCZC-024",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "For R-1 impervious-surface calculations, how much counted impervious area results from 100 square meters of permeable pavers?",
+    "options": {
+      "A": "100 square meters",
+      "B": "38 square meters",
+      "C": "27 square meters",
+      "D": "55 square meters",
+      "E": "74 square meters",
+      "F": "40 square meters"
+    },
+    "answer": "F",
+    "evidence": "Exception R-1.5(a): Permeable pavers and green roof systems shall count at 40% of their actual area toward impervious surface calculations.",
+    "reasoning": "Forty percent of 100 square meters counts as 40 square meters toward impervious coverage."
+  },
+  {
+    "id": "VCZC-025",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "By how many meters did Ordinance Z-2017-009 increase the Lake Orvaine shoreline setback from the old value to the new PO-1 value?",
+    "options": {
+      "A": "13.5 meters",
+      "B": "8.1 meters",
+      "C": "3.1 meters",
+      "D": "15.0 meters",
+      "E": "38.5 meters",
+      "F": "25.0 meters"
+    },
+    "answer": "A",
+    "evidence": "Under Ordinance Z-2017-009, the old value for shoreline setback in the then-unoverlaid residential zone was 25.0 meters from ordinary high-water mark. The new value for shoreline setback in Zone PO-1 is 38.5 meters from ordinary high-water mark.",
+    "reasoning": "The increase is 38.5 meters minus 25.0 meters, which equals 13.5 meters."
+  },
+  {
+    "id": "VCZC-026",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "How much higher is the current SP-2019-001 minimum habitable-floor standard than the previous 2012 administrative-policy standard?",
+    "options": {
+      "A": "0.8 meters",
+      "B": "0.3 meters",
+      "C": "0.5 meters",
+      "D": "7 meters",
+      "E": "5 meters",
+      "F": "98.2 meters"
+    },
+    "answer": "B",
+    "evidence": "The minimum base flood elevation standard also codified by this ordinance is lowest habitable floor equals base flood elevation, 97.4 m AMSL, plus 0.8 m, equal to 98.2 m AMSL. This standard had previously been set at base flood elevation plus 0.5 m, equal to 97.9 m AMSL, under the 2012 administrative policy.",
+    "reasoning": "The current 98.2-meter standard exceeds the previous 97.9-meter standard by 0.3 meters."
+  },
+  {
+    "id": "VCZC-027",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What dollar threshold corresponds to the current R-2 affordable-housing income standard based on the 2019 census figure stated in the Code?",
+    "options": {
+      "A": "$58,743",
+      "B": "50% of municipal median household income",
+      "C": "$35,246",
+      "D": "80% of area median income",
+      "E": "$97,400",
+      "F": "$97,900"
+    },
+    "answer": "C",
+    "evidence": "The new value, effective August 1, 2014 and current, is that affordable units qualify if rents or prices are affordable to households earning \u2264 60% of municipal median household income, equal to \u2264 $35,246 based on 2019 census figure of $58,743.",
+    "reasoning": "The Code directly gives the result of applying the 60% threshold to the stated 2019 census figure: $35,246."
+  },
+  {
+    "id": "VCZC-028",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "How much taller may an approved C-3 telecommunications or utility structure be than an ordinary building fronting directly on Cornrath Square?",
+    "options": {
+      "A": "7.0 meters",
+      "B": "8.5 meters",
+      "C": "13.5 meters",
+      "D": "15.5 meters",
+      "E": "38.0 meters",
+      "F": "53.5 meters"
+    },
+    "answer": "D",
+    "evidence": "Exception C-3.1(a): Properties fronting directly on Cornrath Square... shall be subject to a 38.0-meter maximum building height... / Exception C-3.1(b): Telecommunications and utility structures may exceed the height maximum by up to 8.5 meters with Planning Commission approval and Council resolution.",
+    "reasoning": "An approved telecommunications or utility structure may reach 45.0 + 8.5 = 53.5 meters, which is 15.5 meters taller than the 38.0-meter Cornrath Square cap."
+  },
+  {
+    "id": "VCZC-029",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "Why does the R-1 District require a larger minimum lot area for corner lots?",
+    "options": {
+      "A": "because they are within 30 meters of Fellwick Creek",
+      "B": "because they are above 350 meters elevation",
+      "C": "because they may contain one accessory dwelling unit",
+      "D": "because they were platted before January 1, 1955",
+      "E": "because of required dual street setbacks",
+      "F": "because they are subject to a Public Access Easement"
+    },
+    "answer": "E",
+    "evidence": "Exception R-1.1(b): A corner lot shall have a minimum lot area of 743 square meters due to required dual street setbacks.",
+    "reasoning": "The exception states that the higher 743-square-meter corner-lot minimum is due to required dual street setbacks."
+  },
+  {
+    "id": "VCZC-030",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What stated policy basis explains the reduced height limit for Gorrath Ridge parcels above 350 meters elevation?",
+    "options": {
+      "A": "the Drasswell Common Neighborhood Plan",
+      "B": "the Pellgate Special Height Overlay",
+      "C": "the Cornrath Central Ground-Floor Commercial Activation Ordinance",
+      "D": "the Orvaine Provincial Flood Authority's 2016 Floodplain Mapping",
+      "E": "the Veltharrow Shoreline Vegetation Standards, VSVS-2017",
+      "F": "the Gorrath Ridgeline View Protection Policy"
+    },
+    "answer": "F",
+    "evidence": "Exception R-1.2(b): Structures located on Gorrath Ridge parcels above 350 meters elevation shall be subject to a reduced maximum height of 8.1 meters pursuant to the Gorrath Ridgeline View Protection Policy, adopted with Ordinance Z-2017-009.",
+    "reasoning": "The reduced height is expressly linked to the Gorrath Ridgeline View Protection Policy."
+  },
+  {
+    "id": "VCZC-031",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "Why does the Pellgate Special Height Overlay limit R-3 structures in Pellgate Flats to 21.0 meters or 6 stories?",
+    "options": {
+      "A": "due to aircraft approach path proximity",
+      "B": "to protect sight lines to the Veltharrow Civic Hall tower",
+      "C": "to maintain street wall continuity",
+      "D": "because of required dual street setbacks",
+      "E": "to fund the Drasswell Pond Flood Mitigation Capital Program",
+      "F": "because frontage is entirely on side streets"
+    },
+    "answer": "A",
+    "evidence": "Exception R-3.2(a): In Pellgate Flats, the Pellgate Special Height Overlay, established by Ordinance Z-2017-009, Section 14.7, limits all structures to 21.0 meters, or 6 stories, due to aircraft approach path proximity.",
+    "reasoning": "The document gives aircraft approach path proximity as the reason for the Pellgate height overlay."
+  },
+  {
+    "id": "VCZC-032",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "Why do properties fronting directly on Cornrath Square have a 38.0-meter maximum building height?",
+    "options": {
+      "A": "to allow for a widened sidewalk plaza",
+      "B": "to protect sight lines to the Veltharrow Civic Hall tower",
+      "C": "to prevent residential units at ground level",
+      "D": "to maintain native, deep-rooted vegetation",
+      "E": "to retain the first 38 millimeters of rainfall on-site",
+      "F": "to preserve compatibility with surrounding industrial uses"
+    },
+    "answer": "B",
+    "evidence": "Exception C-3.1(a): Properties fronting directly on Cornrath Square... shall be subject to a 38.0-meter maximum building height to protect sight lines to the Veltharrow Civic Hall tower.",
+    "reasoning": "The Cornrath Square height cap is stated to protect sight lines to the Civic Hall tower."
+  },
+  {
+    "id": "VCZC-033",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What is the stated effect of the C-3 ground-floor commercial requirement on Cornrath Avenue and Drasswell Road frontages?",
+    "options": {
+      "A": "It allows residential ground-floor uses without restriction.",
+      "B": "It limits active use to 65% of ground-floor street frontage.",
+      "C": "It requires active commercial, dining, or civic uses and bars residential units, parking entrances, and blank walls at ground level.",
+      "D": "It permits one digital sign per building frontage within 75 meters of the Civic Hall.",
+      "E": "It allows lobby entrances to occupy 40% of total street frontage width.",
+      "F": "It requires buildings to be set back 4.0 meters from all exterior wall planes."
+    },
+    "answer": "C",
+    "evidence": "In the C-3 District, 100% of ground-floor street frontage on Cornrath Avenue and Drasswell Road shall be occupied by active commercial, dining, or civic uses. No residential units, parking entrances, or blank walls are permitted on these frontages at ground level.",
+    "reasoning": "The rule's effect is both mandatory active use and a prohibition on residential units, parking entrances, and blank walls on those frontages."
+  },
+  {
+    "id": "VCZC-034",
+    "type": "explanation",
+    "bloom": "Analyse",
+    "question": "Why must M-1 retail sales exceeding 20% of gross floor area undergo Conditional Use Permit review?",
+    "options": {
+      "A": "to protect sight lines to the Veltharrow Civic Hall tower",
+      "B": "because all residential uses are permitted by right",
+      "C": "because the use received Noise Variance Permit NVP-M1-2011-004",
+      "D": "for Planning Commission review and a finding of compatibility with surrounding industrial uses",
+      "E": "because no new drive-through permits may be issued",
+      "F": "to maintain a near-zero setback requirement"
+    },
+    "answer": "D",
+    "evidence": "Exception M-1.1(a): Retail sales exceeding 20% of gross floor area require a Conditional Use Permit, subject to Planning Commission review and a finding of compatibility with surrounding industrial uses.",
+    "reasoning": "The exception says CUP review is required so the Planning Commission can find compatibility with surrounding industrial uses."
+  },
+  {
+    "id": "VCZC-035",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What effect does C-1.3(a) give to qualifying existing pharmacy and financial-service drive-throughs?",
+    "options": {
+      "A": "They may expand after receiving a Veltharrow Late-Night Commercial Permit.",
+      "B": "They are prohibited under any circumstance.",
+      "C": "They may operate until 1:30 AM only.",
+      "D": "They are exempt only if they are under 8 units total.",
+      "E": "They are legal nonconforming uses that may continue indefinitely but may not expand the drive-through facility.",
+      "F": "They require a Density Bonus Agreement under Ordinance H-2018-002."
+    },
+    "answer": "E",
+    "evidence": "Exception C-1.3(a): Pharmacies and financial service establishments, including banks and credit unions, operating drive-throughs as of the effective date of Ordinance Z-2017-009 are legal nonconforming uses and may continue operation indefinitely, but may not expand the drive-through facility.",
+    "reasoning": "The exception preserves qualifying existing drive-throughs as legal nonconforming uses while barring expansion."
+  },
+  {
+    "id": "VCZC-036",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What development consequence follows from the SP-1 District's flood-mitigation and restricted-development character?",
+    "options": {
+      "A": "Retail sales may exceed 20% of gross floor area by right.",
+      "B": "No trees with DBH of 15 centimeters or greater may ever be removed.",
+      "C": "All buildings must front on Pedestrian Priority Corridors.",
+      "D": "A minimum 8.5-meter landscaped buffer is required along all property lines.",
+      "E": "Residential ground floors may continue without restriction.",
+      "F": "No new habitable structure may be constructed within Zone SP-1."
+    },
+    "answer": "F",
+    "evidence": "The SP-1 Drasswell Flood Special Purpose District is established for flood mitigation and restricted development. / No new habitable structure shall be constructed within Zone SP-1.",
+    "reasoning": "The SP-1 district's restricted-development purpose is implemented by prohibiting new habitable structures."
+  },
+  {
+    "id": "VCZC-037",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What does a current Drasswell Common Flood Proofing Certificate allow a qualifying property to avoid?",
+    "options": {
+      "A": "per-project elevation review",
+      "B": "Planning Commission approval for telecommunications structures",
+      "C": "a Sidewalk Encroachment Permit",
+      "D": "the 22% impervious surface cap entirely",
+      "E": "the C-1 ban on new drive-through permits",
+      "F": "the requirement to maintain documentation for hazardous tree removal"
+    },
+    "answer": "A",
+    "evidence": "Exception SP-1.2(b): Properties that have completed the Drasswell Common Flood Proofing Certification Program, administered under Ordinance SP-2019-001, and hold a valid Flood Proofing Certificate are exempt from per-project elevation review, provided that their certificate is current.",
+    "reasoning": "A current certificate exempts the property from per-project elevation review."
+  },
+  {
+    "id": "VCZC-038",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What is the purpose stated for the C-3 near-zero front setback requirement?",
+    "options": {
+      "A": "to permit late-night operations until 1:30 AM",
+      "B": "to maintain street wall continuity",
+      "C": "to reduce required parking within 400 meters of transit nodes",
+      "D": "to protect aircraft approach paths",
+      "E": "to require native, deep-rooted vegetation",
+      "F": "to allow restoration after declared natural disaster damage"
+    },
+    "answer": "B",
+    "evidence": "Primary building facades in the C-3 District shall be constructed to within 1.0 meter of the front property line, establishing a near-zero setback requirement to maintain street wall continuity.",
+    "reasoning": "The rule says the near-zero setback requirement exists to maintain street wall continuity."
+  },
+  {
+    "id": "VCZC-039",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What does PO-1.1(a) allow water-dependent structures to do, and under what condition?",
+    "options": {
+      "A": "Exceed the C-3 height maximum by 8.5 meters with Council resolution.",
+      "B": "Reduce the R-3 open-space requirement to 3.5 square meters per unit.",
+      "C": "Be placed within the shoreline setback subject to Provincial Environmental Authority permit and Veltharrow Shoreline Development Permit.",
+      "D": "Operate at up to 71 dBA during daytime hours only.",
+      "E": "Continue as legal nonconforming uses if established as of December 31, 2004.",
+      "F": "Use mown grass on 40% of a recreation parcel."
+    },
+    "answer": "C",
+    "evidence": "Exception PO-1.1(a): Water-dependent structures, including docks, boat launches, and pump stations, may be placed within the shoreline setback subject to Provincial Environmental Authority permit and Veltharrow Shoreline Development Permit.",
+    "reasoning": "The exception permits water-dependent structures inside the shoreline setback only when the stated permits are obtained."
+  },
+  {
+    "id": "VCZC-040",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What is the effect of PO-1.2(b) on properties that exceeded the 22% impervious-surface cap as of January 1, 2018?",
+    "options": {
+      "A": "They are exempt from the cap and may increase coverage without review.",
+      "B": "They must remove all impervious surfaces above 22% immediately.",
+      "C": "They may count permeable pavers at 40% of their actual area.",
+      "D": "They are legal nonconforming, may not increase impervious coverage further, but may replace existing impervious surfaces in kind.",
+      "E": "They must retain the first 38 millimeters of rainfall with no credit.",
+      "F": "They may develop at 31 dwelling units per hectare."
+    },
+    "answer": "D",
+    "evidence": "Exception PO-1.2(b): Existing properties exceeding the 22% impervious surface cap as of January 1, 2018, the date of overlay adoption, are legal nonconforming. Such properties may not increase impervious coverage further, but may replace existing impervious surfaces in kind.",
+    "reasoning": "The exception grandfathered over-cap properties as legal nonconforming but bars further increases while allowing like-for-like replacement."
+  },
+  {
+    "id": "VCZC-041",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What consequence follows for an R-3 building whose frontage is entirely on side streets rather than Pedestrian Priority Corridors?",
+    "options": {
+      "A": "It must provide 65% active ground-floor frontage.",
+      "B": "It must provide 100% active commercial frontage.",
+      "C": "It may add 15 dwelling units per hectare.",
+      "D": "It must set rooftop enclosures back 3.0 meters.",
+      "E": "It is exempt from the R-3 ground-floor activation requirement.",
+      "F": "It must provide 0.75 parking spaces per dwelling unit."
+    },
+    "answer": "E",
+    "evidence": "Exception R-3.3(a): Buildings with frontage entirely on side streets, and not on Pedestrian Priority Corridors, are exempt from this requirement.",
+    "reasoning": "The R-3 activation exception exempts buildings whose frontage is entirely on side streets."
+  },
+  {
+    "id": "VCZC-042",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What is the stated administrative effect of the general paragraph listing instruments such as PUD permits, CUPs, public access easements, and certificates?",
+    "options": {
+      "A": "Each instrument automatically overrides all zoning district rules.",
+      "B": "Each instrument is valid only if renewed every 5 years.",
+      "C": "Each instrument is administered by the Veltharrow Tax Assessment Board.",
+      "D": "Each instrument is available only in C-3.",
+      "E": "Each instrument must be issued by the Provincial Environmental Authority.",
+      "F": "Each instrument shall be applied according to the exact conditions stated in the district rule and exception in which it appears."
+    },
+    "answer": "F",
+    "evidence": "Where this Code refers to Council resolution, Planning Commission approval, a Planned Unit Development permit, a Conditional Use Permit, a Sidewalk Encroachment Permit, a Public Access Easement, a Veltharrow Shoreline Development Permit, a Veltharrow Tree Removal Permit, a Veltharrow Late-Night Commercial Permit, a Flood Proofing Certificate, or a Density Bonus Agreement, each such instrument shall be applied according to the exact conditions stated in the district rule and exception in which the instrument appears.",
+    "reasoning": "The general rule says listed instruments are governed by the exact conditions in the rule or exception where they appear."
+  },
+  {
+    "id": "VCZC-043",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "For a structure on a Gorrath Ridge parcel above 350 meters elevation, which height value is currently operative under the Code?",
+    "options": {
+      "A": "8.1 meters",
+      "B": "9.5 meters",
+      "C": "4.2 meters",
+      "D": "11.5 meters",
+      "E": "14.0 meters",
+      "F": "21.0 meters"
+    },
+    "answer": "A",
+    "evidence": "The old value for maximum building height in the R-1 zone for Gorrath Ridge parcels above 350 m elevation was 9.5 meters, the same as the standard R-1 maximum. The new value for maximum building height for Gorrath Ridge parcels above 350 m elevation is 8.1 meters.",
+    "reasoning": "The question asks for the current operative value, which the document identifies as the new 8.1-meter limit rather than the old 9.5-meter limit."
+  },
+  {
+    "id": "VCZC-044",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which shoreline setback currently applies in Zone PO-1, rather than the old then-unoverlaid residential-zone value?",
+    "options": {
+      "A": "25.0 meters from ordinary high-water mark",
+      "B": "38.5 meters from ordinary high-water mark",
+      "C": "22% of any individual lot area",
+      "D": "15 centimeters DBH",
+      "E": "12 meters from Drasswell Pond's ordinary high-water mark",
+      "F": "55 meters from a SP-1 zone boundary"
+    },
+    "answer": "B",
+    "evidence": "Under Ordinance Z-2017-009, the old value for shoreline setback in the then-unoverlaid residential zone was 25.0 meters from ordinary high-water mark. The new value for shoreline setback in Zone PO-1 is 38.5 meters from ordinary high-water mark.",
+    "reasoning": "The current PO-1 setback is the new 38.5-meter value, not the old 25.0-meter value."
+  },
+  {
+    "id": "VCZC-045",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which Flood Proofing Certificate renewal period is current under SP-2019-001?",
+    "options": {
+      "A": "every 5 years",
+      "B": "every 3 years",
+      "C": "every 7 years",
+      "D": "every 2 years",
+      "E": "every 4 years",
+      "F": "every 6 years"
+    },
+    "answer": "C",
+    "evidence": "The new value, effective September 1, 2019 and current, is Flood Proofing Certificates renewed every 7 years.",
+    "reasoning": "The document contrasts the old 5-year period with the current 7-year period, so the current period is every 7 years."
+  },
+  {
+    "id": "VCZC-046",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which affordable-housing income threshold is current for the R-2 density-bonus rule?",
+    "options": {
+      "A": "\u2264 50% of municipal median household income",
+      "B": "\u2264 80% of area median income",
+      "C": "at least 15% affordable units only, with no income threshold",
+      "D": "\u2264 60% of municipal median household income, equal to \u2264 $35,246 based on 2019 census",
+      "E": "\u2264 40% of the ground floor area",
+      "F": "\u2265 80% of occupants age 65 or older"
+    },
+    "answer": "D",
+    "evidence": "The new value, effective August 1, 2014 and current, is that affordable units qualify if rents or prices are affordable to households earning \u2264 60% of municipal median household income, equal to \u2264 $35,246 based on 2019 census figure of $58,743.",
+    "reasoning": "The current R-2 affordability threshold is the new 60% municipal-median-income threshold, stated as $35,246."
+  },
+  {
+    "id": "VCZC-047",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which ordinance is described as having the narrowest margin of any included ordinance?",
+    "options": {
+      "A": "Ordinance C-2005-001, by Council Vote 9\u20130",
+      "B": "Ordinance R-2014-007, by Council Vote 8\u20131",
+      "C": "Ordinance SP-2019-001, by Council Vote 7\u20132",
+      "D": "Ordinance Z-1987-001, effective January 1, 1988",
+      "E": "Ordinance Z-2017-009, by Council Vote 5\u20134",
+      "F": "Ordinance H-2018-002, by Density Bonus Agreement"
+    },
+    "answer": "E",
+    "evidence": "Where this Code refers to Ordinance Z-2017-009, the full name is Veltharrow Comprehensive Zoning Amendment Ordinance of 2017. It was adopted October 3, 2017, effective January 1, 2018, by Council Vote 5\u20134 in favor, the narrowest margin of any included ordinance.",
+    "reasoning": "The Code explicitly identifies Z-2017-009's 5\u20134 vote as the narrowest margin."
+  },
+  {
+    "id": "VCZC-048",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which R-2 density category allows the highest stated dwelling-unit density?",
+    "options": {
+      "A": "standard R-2 projects at 24 dwelling units per hectare",
+      "B": "R-2 projects with at least 15% affordable units at 31 dwelling units per hectare",
+      "C": "R-3 standard projects at 87 dwelling units per hectare",
+      "D": "R-3 mixed-use projects with a 15-unit density bonus",
+      "E": "C-3 buildings fronting on Cornrath Square at 38.0 meters",
+      "F": "senior housing developments at 34 dwelling units per hectare"
+    },
+    "answer": "F",
+    "evidence": "The standard maximum density in the R-2 District shall be 24 dwelling units per hectare of net lot area. / Exception R-2.1(a): Projects that include at least 15% affordable units... may develop at up to 31 dwelling units per hectare. / Exception R-2.1(b): Senior housing developments, where \u2265 80% of occupants are age 65 or older, may develop at up to 34 dwelling units per hectare.",
+    "reasoning": "Among the R-2 density values listed, senior housing has the highest allowance at 34 dwelling units per hectare."
+  },
+  {
+    "id": "VCZC-049",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which R-2 parking category has the same 0.75-space-per-dwelling-unit requirement as buildings within 400 meters of a designated transit node?",
+    "options": {
+      "A": "studios",
+      "B": "units with no more than one bedroom",
+      "C": "standard dwelling units",
+      "D": "senior housing developments",
+      "E": "zero lot-line townhouses",
+      "F": "Drasswell Common residential construction"
+    },
+    "answer": "A",
+    "evidence": "Exception R-2.2(a): Buildings within 400 meters of a designated Veltharrow Transit Node shall require only 0.75 spaces per dwelling unit. / Exception R-2.2(b): Units with no more than one bedroom shall require only 1.0 space. Studios shall require 0.75 spaces.",
+    "reasoning": "Studios share the 0.75-space rate with buildings within 400 meters of a designated transit node."
+  },
+  {
+    "id": "VCZC-050",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which pair correctly distinguishes the standard M-1 daytime and nighttime property-line noise limits?",
+    "options": {
+      "A": "71 dBA daytime; 62 dBA nighttime",
+      "B": "62 dBA from 7:00 AM to 10:00 PM; 48 dBA from 10:00 PM to 7:00 AM",
+      "C": "48 dBA daytime; 62 dBA nighttime",
+      "D": "62 dBA for 4 consecutive hours; 71 dBA at night",
+      "E": "350 nits daytime; 48 dBA nighttime",
+      "F": "38 millimeters daytime; 22% nighttime"
+    },
+    "answer": "B",
+    "evidence": "Sound levels at M-1 property lines shall not exceed 62 decibels, measured as dBA, between 7:00 AM and 10:00 PM. Sound levels at M-1 property lines shall not exceed 48 decibels, measured as dBA, between 10:00 PM and 7:00 AM.",
+    "reasoning": "The rule sets 62 dBA for daytime hours and 48 dBA for nighttime hours."
+  },
+  {
+    "id": "VCZC-051",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which statement correctly distinguishes C-3 digital sign treatment within 75 meters of Cornrath Civic Hall from elsewhere in C-3?",
+    "options": {
+      "A": "Digital signs are permitted within 75 meters but prohibited elsewhere.",
+      "B": "Digital signs are permitted everywhere in C-3 if they are under 350 nits.",
+      "C": "Digital signs are prohibited within 75 meters of Cornrath Civic Hall; elsewhere in C-3, one digital sign per building frontage is permitted subject to the nit limit.",
+      "D": "All internally illuminated signs are prohibited in C-3.",
+      "E": "Digital signs are allowed only on properties fronting directly on Cornrath Square.",
+      "F": "Digital signs may exceed the height maximum by up to 8.5 meters."
+    },
+    "answer": "C",
+    "evidence": "Exception C-3.4(b): Digital and electronic changeable-copy signs are prohibited in C-3 within 75 meters of the Cornrath Civic Hall. One digital sign per building frontage is permitted elsewhere in C-3, subject to the nit limit above.",
+    "reasoning": "The Code prohibits digital signs near the Civic Hall but permits one per frontage elsewhere in C-3 subject to the brightness limit."
+  },
+  {
+    "id": "VCZC-052",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which comparison correctly states the Pellgate Flats R-3 height overlay versus the standard R-3 height limit?",
+    "options": {
+      "A": "Pellgate Flats: 28.0 meters or 8 stories; standard R-3: 21.0 meters or 6 stories",
+      "B": "Pellgate Flats: 14.0 meters or 4 stories; standard R-3: 11.5 meters or 3 stories",
+      "C": "Pellgate Flats: 38.0 meters; standard R-3: 45.0 meters",
+      "D": "Pellgate Flats: 21.0 meters or 6 stories; standard R-3: 28.0 meters or 8 stories",
+      "E": "Pellgate Flats: 8.1 meters; standard R-3: 9.5 meters",
+      "F": "Pellgate Flats: 31 dwelling units per hectare; standard R-3: 87 dwelling units per hectare"
+    },
+    "answer": "D",
+    "evidence": "The standard maximum building height in the R-3 District shall be 28.0 meters or 8 stories, whichever is less. / Exception R-3.2(a): In Pellgate Flats... limits all structures to 21.0 meters, or 6 stories, due to aircraft approach path proximity.",
+    "reasoning": "The overlay lowers Pellgate Flats to 21.0 meters or 6 stories compared with the standard R-3 limit of 28.0 meters or 8 stories."
+  },
+  {
+    "id": "VCZC-053",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which C-1 floor-plate comparison is correct for ordinary commercial tenant space and grocery/food retail uses?",
+    "options": {
+      "A": "ordinary tenant space: 743 square meters; grocery/food retail: 465 square meters",
+      "B": "ordinary tenant space: 695 square meters; grocery/food retail: 743 square meters",
+      "C": "ordinary tenant space: 465 square meters; grocery/food retail: no limit in all cases",
+      "D": "ordinary tenant space: 511 square meters; grocery/food retail: 695 square meters",
+      "E": "ordinary tenant space: 465 square meters; grocery/food retail: 743 square meters",
+      "F": "ordinary tenant space: 38.5 meters; grocery/food retail: 25.0 meters"
+    },
+    "answer": "E",
+    "evidence": "No individual commercial tenant space in the C-1 District shall exceed 465 square meters of gross floor area. / Exception C-1.1(a): Grocery and food retail uses may have a maximum floor plate of 743 square meters.",
+    "reasoning": "The standard C-1 tenant floor plate is 465 square meters, while grocery and food retail may reach 743 square meters."
+  },
+  {
+    "id": "VCZC-054",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which R-1 accessory dwelling unit floor-area limit applies on a lot smaller than 600 square meters, rather than the standard ADU maximum?",
+    "options": {
+      "A": "74 square meters instead of 55 square meters",
+      "B": "65 square meters instead of 74 square meters",
+      "C": "18 square meters instead of 74 square meters",
+      "D": "4.2 square meters instead of 9.5 square meters",
+      "E": "55 square meters instead of 65 square meters",
+      "F": "55 square meters instead of 74 square meters"
+    },
+    "answer": "F",
+    "evidence": "One accessory dwelling unit shall be permitted per lot in the R-1 District, and the maximum floor area of such accessory dwelling unit shall be 74 square meters. / Exception R-1.4(a): Accessory dwelling units located on lots smaller than 600 square meters shall be limited to 55 square meters of floor area.",
+    "reasoning": "For lots smaller than 600 square meters, the ADU maximum is reduced from the standard 74 square meters to 55 square meters."
+  },
+  {
+    "id": "VCZC-055",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which statement correctly contrasts the old and current Flood Proofing Certificate renewal periods?",
+    "options": {
+      "A": "Old: every 5 years; current: every 7 years",
+      "B": "Old: every 7 years; current: every 5 years",
+      "C": "Old: every 3 years; current: every 4 years",
+      "D": "Old: every 2 years; current: every 4 years",
+      "E": "Old: every 5 years; current: every 3 years",
+      "F": "Old: every 7 years; current: every 9 years"
+    },
+    "answer": "A",
+    "evidence": "The old value, pre-September 2019, was Flood Proofing Certificates under predecessor administrative policy renewed every 5 years. The new value, effective September 1, 2019 and current, is Flood Proofing Certificates renewed every 7 years.",
+    "reasoning": "The document explicitly contrasts a former 5-year renewal period with the current 7-year period."
+  },
+  {
+    "id": "VCZC-056",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which statement correctly contrasts the C-3 ground-floor rule before and after Ordinance C-2005-001?",
+    "options": {
+      "A": "Old: 65% active use on Pedestrian Priority Corridors; new: 100% active use on side streets.",
+      "B": "Old: no mandatory ground-floor use requirement; new: 100% of ground-floor frontage on Cornrath Avenue and Drasswell Road must be active commercial, dining, or civic use.",
+      "C": "Old: one lobby entrance per frontage; new: no lobby entrances at all.",
+      "D": "Old: residential units prohibited; new: residential units permitted without restriction.",
+      "E": "Old: digital signs prohibited within 75 meters; new: digital signs prohibited everywhere.",
+      "F": "Old: 38.0-meter height cap; new: 45.0-meter height cap."
+    },
+    "answer": "B",
+    "evidence": "The old value, pre-July 2005, was no mandatory ground-floor use requirement, with residential and commercial uses permitted on ground floors in Zone C-3 without restriction. The new value, effective July 1, 2005, was that 100% of ground-floor street frontage on Cornrath Avenue and Drasswell Road must be active commercial, dining, or civic use, and residential units are prohibited at ground floor on these frontages.",
+    "reasoning": "The ordinance changed C-3 from no mandatory ground-floor use rule to a 100% active-use requirement on the named frontages."
+  },
+  {
+    "id": "VCZC-057",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A proposed primary structure on a Gorrath Ridge parcel above 350 meters elevation would be 8.8 meters tall. Under the current R-1 exception, what is the result?",
+    "options": {
+      "A": "It complies because the standard R-1 height is 9.5 meters.",
+      "B": "It complies because rooftop enclosures may extend 3.1 meters above the limit.",
+      "C": "It does not comply because the current maximum for such parcels is 8.1 meters.",
+      "D": "It complies if it is set back 3.0 meters from all exterior wall planes.",
+      "E": "It does not comply because all R-1 structures are limited to 4.2 meters.",
+      "F": "It complies if a Flood Proofing Certificate is current."
+    },
+    "answer": "C",
+    "evidence": "Exception R-1.2(b): Structures located on Gorrath Ridge parcels above 350 meters elevation shall be subject to a reduced maximum height of 8.1 meters pursuant to the Gorrath Ridgeline View Protection Policy, adopted with Ordinance Z-2017-009.",
+    "reasoning": "Because the parcel is above 350 meters on Gorrath Ridge, the 8.1-meter current limit applies, so an 8.8-meter structure exceeds it."
+  },
+  {
+    "id": "VCZC-058",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "An R-1 lot is 580 square meters. The owner proposes a detached ADU of 60 square meters with a 3.0-meter separation from the primary dwelling. Which rule controls the outcome?",
+    "options": {
+      "A": "It complies because detached ADUs need only maintain 2.5 meters of separation.",
+      "B": "It complies because the standard ADU maximum is 74 square meters.",
+      "C": "It fails because detached ADUs are prohibited on lots below 600 square meters.",
+      "D": "It fails because ADUs on lots smaller than 600 square meters are limited to 55 square meters, even though the 3.0-meter separation exceeds 2.5 meters.",
+      "E": "It complies only if it is within 30 meters of Fellwick Creek.",
+      "F": "It fails because detached ADUs must be 4.2 meters from the primary dwelling."
+    },
+    "answer": "D",
+    "evidence": "Exception R-1.4(a): Accessory dwelling units located on lots smaller than 600 square meters shall be limited to 55 square meters of floor area. / Exception R-1.4(b): Detached accessory dwelling units shall maintain a 2.5-meter separation from the primary dwelling.",
+    "reasoning": "The 580-square-meter lot triggers the 55-square-meter ADU cap, so a 60-square-meter ADU fails even though its 3.0-meter separation satisfies the 2.5-meter separation rule."
+  },
+  {
+    "id": "VCZC-059",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "In R-1, a covered front porch would encroach 1.8 meters into the required setback, would not be enclosed, and would have an area of 17 square meters. What result follows?",
+    "options": {
+      "A": "It is prohibited because no encroachment is allowed into an R-1 front setback.",
+      "B": "It is prohibited because porches may encroach only 1.0 meter.",
+      "C": "It is prohibited because covered porches must be at least 18 square meters.",
+      "D": "It is allowed only in Upper Bryndmere when the block average exceeds 9.0 meters.",
+      "E": "It is allowed because the encroachment is no more than 2.0 meters, the porch is not enclosed, and it does not exceed 18 square meters.",
+      "F": "It is allowed only with a Sidewalk Encroachment Permit."
+    },
+    "answer": "E",
+    "evidence": "Exception R-1.3(b): Covered front porches may encroach up to 2.0 meters into the required front setback, provided that the porch is not enclosed and does not exceed 18 square meters in area.",
+    "reasoning": "The proposed porch meets all three conditions: 1.8 meters is within 2.0 meters, it is unenclosed, and 17 square meters does not exceed 18 square meters."
+  },
+  {
+    "id": "VCZC-060",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "An R-2 building not within 400 meters of a designated transit node contains only one-bedroom units. What parking rate applies?",
+    "options": {
+      "A": "0.75 spaces per dwelling unit because all R-2 units near transit use that rate",
+      "B": "1.5 spaces per dwelling unit because no exception ever applies outside transit nodes",
+      "C": "3.5 spaces per dwelling unit because one side yard may be reduced to zero",
+      "D": "31 spaces per dwelling unit because affordable projects may develop at 31 units per hectare",
+      "E": "24 spaces per dwelling unit because standard density is 24 units per hectare",
+      "F": "1.0 space per dwelling unit because units with no more than one bedroom require only 1.0 space"
+    },
+    "answer": "F",
+    "evidence": "Exception R-2.2(b): Units with no more than one bedroom shall require only 1.0 space. Studios shall require 0.75 spaces.",
+    "reasoning": "Because the units have no more than one bedroom and the transit-node exception is not needed, the one-bedroom-unit exception sets the rate at 1.0 space per dwelling unit."
+  },
+  {
+    "id": "VCZC-061",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A zero lot-line townhouse development in R-2 has PUD approval and proposes one side yard of 0.0 meters and the opposite side yard of 3.2 meters. Is the side-yard configuration allowed?",
+    "options": {
+      "A": "No; a zero side yard is allowed only if the opposite side yard is not less than 3.5 meters.",
+      "B": "Yes; PUD approval allows both side yards to be 0.0 meters.",
+      "C": "Yes; the standard side-yard setback is only 2.1 meters on each side yard.",
+      "D": "No; side yards abutting OS-1 or SP-1 must be exactly 4.5 meters in all R-2 cases.",
+      "E": "Yes; the opposite side yard may be 3.0 meters if the development is within 400 meters of transit.",
+      "F": "No; all R-2 townhouses must use the Drasswell Common 11.5-meter cap."
+    },
+    "answer": "A",
+    "evidence": "Exception R-2.3(a): Zero lot-line townhouse developments approved under a Planned Unit Development permit may reduce one side yard to 0.0 meters, provided that the opposite side yard is not less than 3.5 meters.",
+    "reasoning": "The project has PUD approval and may reduce one side to 0.0 meters, but the opposite 3.2-meter side yard is below the required 3.5 meters."
+  },
+  {
+    "id": "VCZC-062",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A new residential building in Drasswell Common is proposed at 12.0 meters and 3 stories. Which R-2 height result applies?",
+    "options": {
+      "A": "It complies because the general R-2 maximum is 14.0 meters or 4 stories.",
+      "B": "It does not comply because the Drasswell Common Neighborhood Plan caps all new residential construction there at 11.5 meters, or 3 stories.",
+      "C": "It complies because elevator penthouses may extend 1.8 meters above any building height.",
+      "D": "It does not comply because all R-2 buildings are limited to 8.1 meters.",
+      "E": "It complies only if at least 15% of units are affordable.",
+      "F": "It does not comply because Drasswell Common is in Zone SP-1 only."
+    },
+    "answer": "B",
+    "evidence": "Exception R-2.4(a): The Drasswell Common Neighborhood Plan, adopted November 2021, caps all new residential construction in Drasswell Common at 11.5 meters, or 3 stories, notwithstanding the general R-2 maximum.",
+    "reasoning": "The Drasswell Common cap overrides the general R-2 maximum, and 12.0 meters exceeds the 11.5-meter neighborhood cap even though the building is 3 stories."
+  },
+  {
+    "id": "VCZC-063",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "An R-3 building has 7 total units and fronts on Drasswell Road, a Pedestrian Priority Corridor. It proposes only 30% active ground-floor frontage. What is the correct outcome?",
+    "options": {
+      "A": "It violates the rule because all Drasswell Road frontages require 100% active commercial use.",
+      "B": "It violates the rule because all R-3 buildings on Pedestrian Priority Corridors require 65% active frontage with no exceptions.",
+      "C": "It is exempt because buildings under 8 units total are exempt from ground-floor activation requirements.",
+      "D": "It complies only if the building is within 150 meters of an OS-1 park.",
+      "E": "It complies because side-street frontage is always exempt.",
+      "F": "It violates the rule because active use excludes retail, lobby, and community space."
+    },
+    "answer": "C",
+    "evidence": "Exception R-3.3(b): Buildings under 8 units total are exempt from ground-floor activation requirements.",
+    "reasoning": "Although Drasswell Road is a Pedestrian Priority Corridor, the building has only 7 units, so the under-8-units exception exempts it from the activation requirement."
+  },
+  {
+    "id": "VCZC-064",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A 60-unit R-3 building is within 150 meters of a publicly accessible OS-1 park of at least 0.4 hectares. What minimum on-site usable open space applies?",
+    "options": {
+      "A": "360 square meters",
+      "B": "240 square meters",
+      "C": "175 square meters",
+      "D": "210 square meters",
+      "E": "150 square meters",
+      "F": "3.5 square meters total"
+    },
+    "answer": "D",
+    "evidence": "Exception R-3.4(a): Buildings within 150 meters of a publicly accessible OS-1 park of at least 0.4 hectares may reduce on-site open space to 3.5 square meters per unit.",
+    "reasoning": "The qualifying park proximity reduces the rate to 3.5 square meters per unit; 60 units require 210 square meters."
+  },
+  {
+    "id": "VCZC-065",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A C-1 bakery whose primary business requires early preparation begins work at 4:30 AM and opens to customers at 5:30 AM. What does the Code require?",
+    "options": {
+      "A": "The bakery may operate customer-facing service at 5:30 AM because early preparation may begin at 4:30 AM.",
+      "B": "The bakery may operate until 1:30 AM if it begins preparation at 4:30 AM.",
+      "C": "The bakery is prohibited because C-1 establishments may never operate before 6:00 AM for any purpose.",
+      "D": "The bakery may serve customers at 5:30 AM only if it is a legal nonconforming use.",
+      "E": "The bakery may begin preparation at 4:30 AM, but customer-facing operations may not commence before 6:00 AM.",
+      "F": "The bakery may serve customers at 5:30 AM if it has a Conditional Use Permit."
+    },
+    "answer": "E",
+    "evidence": "Exception C-1.2(b): Bakeries and food preparation establishments whose primary business requires early preparation may begin operations at 4:30 AM, provided that no customer-facing operations commence before 6:00 AM.",
+    "reasoning": "The early-preparation exception allows 4:30 AM preparation but still prohibits customer-facing service before 6:00 AM."
+  },
+  {
+    "id": "VCZC-066",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A C-1 bank had a drive-through operating as of the effective date of Ordinance Z-2017-009 and now seeks to expand the drive-through facility. What result follows?",
+    "options": {
+      "A": "The expansion is allowed because financial-service establishments are exempt from C-1 drive-through rules.",
+      "B": "The expansion is allowed if the bank receives a Veltharrow Late-Night Commercial Permit.",
+      "C": "The expansion is allowed because new drive-through permits are available for banks and credit unions.",
+      "D": "The drive-through must close immediately because all existing drive-throughs are prohibited.",
+      "E": "The expansion is allowed only if the upper floors are entirely residential.",
+      "F": "The existing drive-through may continue indefinitely as legal nonconforming, but it may not expand the drive-through facility."
+    },
+    "answer": "F",
+    "evidence": "Exception C-1.3(a): Pharmacies and financial service establishments, including banks and credit unions, operating drive-throughs as of the effective date of Ordinance Z-2017-009 are legal nonconforming uses and may continue operation indefinitely, but may not expand the drive-through facility.",
+    "reasoning": "The bank qualifies to continue its existing drive-through but the same exception expressly bars expansion."
+  },
+  {
+    "id": "VCZC-067",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A C-3 property had a legally established residential ground-floor use on December 31, 2004 and proposes to continue the same residential footprint. What is the result?",
+    "options": {
+      "A": "It may continue as a legal nonconforming use but may not expand the residential footprint.",
+      "B": "It must convert 100% of its ground floor to active commercial use immediately.",
+      "C": "It may expand the residential ground-floor footprint if the lobby occupies no more than 12% of frontage.",
+      "D": "It is exempt only if located within 75 meters of Cornrath Civic Hall.",
+      "E": "It may continue only with Planning Commission approval and Council resolution.",
+      "F": "It may continue because old C-3 rules still allow all residential ground-floor uses without restriction."
+    },
+    "answer": "A",
+    "evidence": "Exception C-3.2(b): A property with a legally established residential ground-floor use as of December 31, 2004, prior to Ordinance C-2005-001 coming into effect, may continue as a legal nonconforming use but may not expand the residential footprint.",
+    "reasoning": "The property meets the grandfathering date and proposes no expansion, so it may continue as a legal nonconforming use."
+  },
+  {
+    "id": "VCZC-068",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "An M-1 lot is 2.4 hectares and proposes a single caretaker dwelling unit of 60 square meters. What does the M-1 residential-use rule allow?",
+    "options": {
+      "A": "The unit is prohibited because all caretaker units are strictly barred in M-1.",
+      "B": "The unit is permitted because a single caretaker dwelling unit of no more than 65 square meters is allowed on lots exceeding 2.0 hectares.",
+      "C": "The unit is permitted only if retail sales exceed 20% of gross floor area.",
+      "D": "The unit is prohibited because the lot must exceed 3.5 hectares.",
+      "E": "The unit is permitted only if it maintains an 8.5-meter landscaped buffer.",
+      "F": "The unit is prohibited because it is larger than 55 square meters."
+    },
+    "answer": "B",
+    "evidence": "Exception M-1.1(b): Residential uses are strictly prohibited in the M-1 District, including caretaker units, except that a single caretaker dwelling unit of no more than 65 square meters is permitted on lots exceeding 2.0 hectares.",
+    "reasoning": "The proposal is a single 60-square-meter caretaker unit on a 2.4-hectare lot, satisfying both the 65-square-meter cap and the requirement that the lot exceed 2.0 hectares."
+  },
+  {
+    "id": "VCZC-069",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "An M-1 backup generator operates at night during an emergency for 5 consecutive hours. Which result follows from the emergency-generator exception?",
+    "options": {
+      "A": "It is fully exempt because all emergency generators are exempt from nighttime noise limits without duration limits.",
+      "B": "It is exempt only during daytime hours at up to 71 dBA.",
+      "C": "The exception covers only up to 4 consecutive hours per event, so a 5-hour nighttime operation exceeds the stated exemption period.",
+      "D": "It is exempt if the property abuts another M-1 or M-2 zone.",
+      "E": "It is exempt if a public alley of at least 9.0 meters separates the lot from residential zoning.",
+      "F": "It must comply with the 350-nit limit after the fourth hour."
+    },
+    "answer": "C",
+    "evidence": "Exception M-1.2(b): Emergency operations of backup generators are exempt from nighttime noise limits for up to 4 consecutive hours per event.",
+    "reasoning": "The generator's 5-hour nighttime run exceeds the exception's 4-consecutive-hour limit."
+  },
+  {
+    "id": "VCZC-070",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "In PO-1, a landowner wants to remove a healthy non-invasive tree with a DBH of 18 centimeters and has no arborist hazard certification. What is required?",
+    "options": {
+      "A": "No permit is required because only trees over 38.5 centimeters DBH are regulated.",
+      "B": "No permit is required because all invasive species may be removed without a permit.",
+      "C": "No permit is required if the owner retains documentation.",
+      "D": "A Veltharrow Tree Removal Permit is required because the tree has a DBH of 15 centimeters or greater and no exception applies.",
+      "E": "A Flood Proofing Certificate is required because the tree is within PO-1.",
+      "F": "A Sidewalk Encroachment Permit is required because PO-1 is mixed-use."
+    },
+    "answer": "D",
+    "evidence": "No trees with a diameter at breast height, DBH, of 15 centimeters or greater may be removed within Zone PO-1 without a Veltharrow Tree Removal Permit. / Exception PO-1.3(a): Dead, dying, or hazardous trees as certified by a licensed arborist may be removed without a permit, provided that the landowner retains documentation. / Exception PO-1.3(b): Invasive species identified on the Veltharrow Invasive Plant Registry, maintained by the Director of Planning, may be removed without a permit.",
+    "reasoning": "The tree is at least 15 centimeters DBH and is neither certified hazardous nor invasive, so the Tree Removal Permit requirement applies."
+  },
+  {
+    "id": "VCZC-071",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the standard minimum lot area in the R-1 Low-Density Residential District?",
+    "options": {
+      "A": "600 square meters",
+      "B": "743 square meters",
+      "C": "511 square meters",
+      "D": "695 square meters",
+      "E": "465 square meters",
+      "F": "558 square meters"
+    },
+    "answer": "D",
+    "evidence": "The standard minimum lot area in the R-1 District shall be **695 square meters** per dwelling unit.",
+    "reasoning": "Rule R-1.1. Option A is the pre-1955 exception minimum; B is the corner-lot minimum; D is the ADU-restriction threshold; E is the C-1 tenant floor-plate maximum."
+  },
+  {
+    "id": "VCZC-072",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the standard maximum density in the R-3 High-Density Residential District?",
+    "options": {
+      "A": "24 dwelling units per hectare",
+      "B": "34 dwelling units per hectare",
+      "C": "87 dwelling units per hectare",
+      "D": "31 dwelling units per hectare",
+      "E": "15 dwelling units per hectare",
+      "F": "102 dwelling units per hectare"
+    },
+    "answer": "C",
+    "evidence": "The standard maximum density in the R-3 District shall be **87 dwelling units per hectare** of net lot area.",
+    "reasoning": "Rule R-3.1. Options A and C are R-2 densities; B is the R-2 senior housing exception; F is R-3 mixed-use bonus (87+15)."
+  },
+  {
+    "id": "VCZC-073",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the daytime maximum noise level at M-1 Light Industrial property lines, in dBA?",
+    "options": {
+      "A": "71 dBA",
+      "B": "48 dBA",
+      "C": "62 dBA",
+      "D": "55 dBA",
+      "E": "65 dBA",
+      "F": "58 dBA"
+    },
+    "answer": "C",
+    "evidence": "Sound levels at M-1 property lines shall not exceed **62 dBA** between 7:00 AM and 10:00 PM.",
+    "reasoning": "Rule M-1.2. Option B is the nighttime limit; A is the variance limit for Wyndmere Metal Fabricators; D, E, F do not appear in the document."
+  },
+  {
+    "id": "VCZC-074",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the maximum floor area for an accessory dwelling unit on a standard R-1 lot?",
+    "options": {
+      "A": "55 square meters",
+      "B": "65 square meters",
+      "C": "92 square meters",
+      "D": "84 square meters",
+      "E": "100 square meters",
+      "F": "74 square meters"
+    },
+    "answer": "F",
+    "evidence": "The maximum floor area of an accessory dwelling unit in R-1 shall be **74 square meters**.",
+    "reasoning": "Rule R-1.4. Option A is the exception for lots under 600 sq m; B is the M-1 caretaker unit limit; D\u2013F do not appear in the document."
+  },
+  {
+    "id": "VCZC-075",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the shoreline setback required in Zone PO-1 from the ordinary high-water mark of Lake Orvaine?",
+    "options": {
+      "A": "25.0 meters",
+      "B": "30.0 meters",
+      "C": "35.0 meters",
+      "D": "42.0 meters",
+      "E": "38.5 meters",
+      "F": "55.0 meters"
+    },
+    "answer": "E",
+    "evidence": "No structure shall be constructed within **38.5 meters** of the ordinary high-water mark of Lake Orvaine.",
+    "reasoning": "Rule PO-1.1 and Ordinance Z-2017-009. Option A is the superseded pre-overlay setback. F is the SP-1 adjacent-property flood rule distance."
+  },
+  {
+    "id": "VCZC-076",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "A corner R-1 lot was platted in 1960. What is the minimum lot area that must apply to it?",
+    "options": {
+      "A": "695 square meters, because the standard minimum applies regardless",
+      "B": "743 square meters, because the corner-lot exception requires dual street setbacks",
+      "C": "511 square meters, because it was platted before 1965",
+      "D": "600 square meters, because it exceeds the ADU threshold",
+      "E": "695 square meters, because the pre-1955 exception does not apply to 1960 lots",
+      "F": "743 square meters, because all post-1955 lots use the corner minimum"
+    },
+    "answer": "B",
+    "evidence": "Exception R-1.1(b): A **corner lot** shall have a minimum lot area of **743 square meters** due to required dual street setbacks.",
+    "reasoning": "The corner-lot exception overrides the standard 695 sq m minimum. The pre-1955 exception (511 sq m) does not apply because the lot was platted in 1960."
+  },
+  {
+    "id": "VCZC-077",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "A Zone R-2 development on a 2.0-hectare lot includes 15% affordable units qualifying under the income threshold. What is the maximum number of dwelling units permitted?",
+    "options": {
+      "A": "48 units",
+      "B": "62 units",
+      "C": "68 units",
+      "D": "74 units",
+      "E": "87 units",
+      "F": "80 units"
+    },
+    "answer": "B",
+    "evidence": "Density bonus: 31 du/ha \u00d7 2.0 ha = **62 units**.",
+    "reasoning": "Rule R-2.1 Exception R-2.1(a). Standard is 24 du/ha (48 units without bonus); affordable-unit bonus raises it to 31 du/ha."
+  },
+  {
+    "id": "VCZC-078",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "An R-2 building has 80 units and is within 400 meters of Cornrath Square Station. What is the minimum number of required off-street parking spaces?",
+    "options": {
+      "A": "120 spaces",
+      "B": "80 spaces",
+      "C": "60 spaces",
+      "D": "40 spaces",
+      "E": "30 spaces",
+      "F": "100 spaces"
+    },
+    "answer": "C",
+    "evidence": "Within 400 meters of a designated Transit Node, the requirement reduces to **0.75 spaces per unit**; 80 \u00d7 0.75 = **60 spaces**.",
+    "reasoning": "Rule R-2.2 Exception R-2.2(a). Cornrath Square Station is one of the two designated Transit Nodes. Standard would be 80 \u00d7 1.5 = 120 spaces."
+  },
+  {
+    "id": "VCZC-079",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "A new structure is proposed at Gorrath Ridge at 420 meters elevation. Combining the standard R-1 height rule and the applicable exception, what is the maximum permitted height?",
+    "options": {
+      "A": "9.5 meters; standard R-1 applies because no exception is triggered",
+      "B": "4.2 meters; only accessory structure height applies on ridgelines",
+      "C": "8.1 meters; Gorrath Ridgeline View Protection Policy applies above 350 m elevation",
+      "D": "8.5 meters; an averaging rule applies above 400 m",
+      "E": "9.5 meters; the Gorrath exception only applies below 350 m",
+      "F": "21.0 meters; R-3 rules apply above 400 m elevation"
+    },
+    "answer": "C",
+    "evidence": "Structures on Gorrath Ridge parcels **above 350 m elevation** are subject to **8.1 meters** maximum (Exception R-1.2(b)).",
+    "reasoning": "420 m > 350 m threshold. The standard 9.5 m maximum is reduced. Option E misstates the threshold direction."
+  },
+  {
+    "id": "VCZC-080",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "A senior housing development where 85% of occupants are age 65 or older is proposed in Zone R-2 on a 1.5-hectare lot. What is the maximum permitted number of dwelling units?",
+    "options": {
+      "A": "36 units",
+      "B": "46 units",
+      "C": "48 units",
+      "D": "51 units",
+      "E": "56 units",
+      "F": "87 units"
+    },
+    "answer": "D",
+    "evidence": "Senior housing (\u226580% occupants age 65+) may develop at up to **34 du/ha**; 34 \u00d7 1.5 = **51 units**.",
+    "reasoning": "Rule R-2.1 Exception R-2.1(b). This is the highest density allowed in R-2. Standard (24 \u00d7 1.5 = 36) and affordable-unit bonus (31 \u00d7 1.5 = 46.5 \u2248 46) are lower."
+  },
+  {
+    "id": "VCZC-081",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "Why does Zone PO-1 restrict tree removal for trees with a DBH of 15 cm or greater?",
+    "options": {
+      "A": "To maintain impervious surface ratios below 22%",
+      "B": "To protect the environmental character of the Lake Orvaine Reach overlay zone",
+      "C": "To protect the shoreline setback from encroachment",
+      "D": "To comply with the Orvaine Province Territorial Council requirements",
+      "E": "To ensure noise attenuation from M-1 industrial uses across the lake",
+      "F": "To maintain compliance with the Drasswell Common Flood Proofing Program"
+    },
+    "answer": "B",
+    "evidence": "Rule PO-1.3 prohibits removal of trees \u226515 cm DBH without a Veltharrow Tree Removal Permit, consistent with the **environmental and mixed-use character** of Zone PO-1.",
+    "reasoning": "Zone PO-1 is established for environmental and mixed-use character. The tree rule, impervious cap, and setback all serve this purpose; the specific tree rule is one component."
+  },
+  {
+    "id": "VCZC-082",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What is the stated reason for the Pellgate Special Height Overlay limiting R-3 buildings to 21.0 meters in Pellgate Flats?",
+    "options": {
+      "A": "Preservation of sight lines to the Veltharrow Civic Hall tower",
+      "B": "Protection of the Lake Orvaine shoreline view corridor",
+      "C": "Historic district conservation requirements",
+      "D": "Stormwater runoff and flood mitigation concerns",
+      "E": "Gorrath Ridgeline View Protection Policy",
+      "F": "Aircraft approach path proximity"
+    },
+    "answer": "F",
+    "evidence": "The Pellgate Special Height Overlay limits R-3 structures to 21.0 meters due to **aircraft approach path proximity**.",
+    "reasoning": "Exception R-3.2(a) states this explicitly. Sight-line protection applies to Cornrath Square properties in C-3. The ridgeline policy applies to Gorrath Ridge."
+  },
+  {
+    "id": "VCZC-083",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "Under Rule C-1.3, drive-through facilities are prohibited in C-1 zones. What is the status of a pharmacy drive-through that was in operation before Ordinance Z-2017-009's effective date?",
+    "options": {
+      "A": "It must close immediately",
+      "B": "It may continue but must convert to no-contact delivery by 2030",
+      "C": "It may expand by up to 20% of its original footprint per decade",
+      "D": "It must apply for a Conditional Use Permit within 90 days",
+      "E": "It is exempt because pharmacies are excluded from C-1 regulations",
+      "F": "It may continue as a legal nonconforming use but may not expand"
+    },
+    "answer": "F",
+    "evidence": "Exception C-1.3(a): pharmacies and financial service establishments operating drive-throughs as of the effective date of Ordinance Z-2017-009 are **legal nonconforming uses** and may continue operation indefinitely but may **not expand** the drive-through facility.",
+    "reasoning": "No new drive-through permits are available under any circumstance (Exception C-1.3(b)), but existing ones are grandfathered without a time limit."
+  },
+  {
+    "id": "VCZC-084",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "Under Zone R-3, which streets are designated as Pedestrian Priority Corridors triggering the ground-floor activation requirement?",
+    "options": {
+      "A": "Cornrath Avenue, Drasswell Road, and Orvaine Provincial Route 7",
+      "B": "Cornrath Avenue, Fellwick Lane, and Cornrath Square",
+      "C": "Cornrath Avenue, Municipal Lane, and Quorrath Street",
+      "D": "Drasswell Road, Fellwick Lane, and Gorrath Ridge Drive",
+      "E": "Cornrath Avenue, Drasswell Road, and Fellwick Lane",
+      "F": "Drasswell Road, Orvaine Provincial Route 22, and Fellwick Bypass"
+    },
+    "answer": "E",
+    "evidence": "The Pedestrian Priority Corridors are **Cornrath Avenue, Drasswell Road, and Fellwick Lane**.",
+    "reasoning": "Rule R-3.3. Municipal Lane, Quorrath Street, and Civic Drive define the Cornrath Square plaza boundary (C-3 context), not the R-3 ground-floor corridors."
+  },
+  {
+    "id": "VCZC-085",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What is the maximum impervious surface coverage allowed in Zone PO-1 for any individual lot?",
+    "options": {
+      "A": "27%",
+      "B": "38%",
+      "C": "40%",
+      "D": "22%",
+      "E": "50%",
+      "F": "15%"
+    },
+    "answer": "D",
+    "evidence": "Total impervious surface in Zone PO-1 shall not exceed **22%** of any individual lot area.",
+    "reasoning": "Rule PO-1.2. Option B (38%) is the R-1 maximum; option A (27%) is R-1's reduced Fellwick Creek adjacency limit; D (40%) is the permeable-paver counting factor."
+  },
+  {
+    "id": "VCZC-086",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Under Zone R-2, which exception allows the HIGHEST maximum building density, and what is that density?",
+    "options": {
+      "A": "Affordable-unit bonus (Exception R-2.1(a)): 31 du/ha",
+      "B": "100% affordable project (Exception R-3.1(a)): no cap",
+      "C": "Mixed-use commercial ground floor (Exception R-3.1(b)): 102 du/ha",
+      "D": "Standard maximum: 24 du/ha",
+      "E": "Transit Node proximity (Exception R-2.2(a)): 34 du/ha",
+      "F": "Senior housing (Exception R-2.1(b)): 34 du/ha"
+    },
+    "answer": "F",
+    "evidence": "Senior housing (\u226580% occupants age 65+) may develop at up to **34 du/ha**, the highest R-2 density exception.",
+    "reasoning": "Rule R-2.1. The affordable-unit bonus allows 31 du/ha; senior housing allows 34 du/ha. The R-3 exceptions apply to a different zone."
+  },
+  {
+    "id": "VCZC-087",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Under Zone R-1, which impervious surface coverage limit is most restrictive, and where does it apply?",
+    "options": {
+      "A": "27% on lots adjacent to Fellwick Creek within 30 meters of the centerline",
+      "B": "38% on all R-1 lots as the standard maximum",
+      "C": "22% in Zone PO-1 lots that overlap R-1",
+      "D": "40% on lots using permeable pavers",
+      "E": "27% on all Gorrath Ridge parcels above 350 m elevation",
+      "F": "20% within 55 meters of the SP-1 zone boundary"
+    },
+    "answer": "A",
+    "evidence": "Exception R-1.5(b): lots **adjacent to Fellwick Creek within 30 meters of the centerline** have a reduced maximum impervious coverage of **27%**.",
+    "reasoning": "Rule R-1.5. The standard maximum is 38% (option B). The 22% limit is PO-1 (option C). Permeable pavers count at 40% of their area toward the calculation, not as a separate limit."
+  },
+  {
+    "id": "VCZC-088",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which zone has a development prohibition on all new habitable structures, with only public infrastructure and emergency flood response structures as exceptions?",
+    "options": {
+      "A": "PO-1, Lake Orvaine Reach Preservation Overlay",
+      "B": "OS-1, Open Space and Parks",
+      "C": "SP-1, Drasswell Flood Special Purpose",
+      "D": "M-2, Heavy Industrial",
+      "E": "R-1 within 30 meters of Fellwick Creek",
+      "F": "M-1 in Wyndmere Spur industrial belt"
+    },
+    "answer": "C",
+    "evidence": "Zone **SP-1** (Drasswell Flood Special Purpose): **No new habitable structure shall be constructed** within SP-1 (Rule SP-1.1).",
+    "reasoning": "PO-1 restricts setbacks and impervious coverage but doesn't prohibit habitable structures entirely. SP-1 is the only zone with an outright habitable-structure prohibition."
+  },
+  {
+    "id": "VCZC-089",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Comparing the old and new values established by Ordinance Z-2017-009 for the Lake Orvaine Reach shoreline setback: by how many meters was the setback increased?",
+    "options": {
+      "A": "10.5 meters",
+      "B": "12.0 meters",
+      "C": "15.0 meters",
+      "D": "13.5 meters",
+      "E": "8.5 meters",
+      "F": "14.0 meters"
+    },
+    "answer": "D",
+    "evidence": "Old setback: 25.0 meters; new setback: 38.5 meters; increase = **13.5 meters**.",
+    "reasoning": "Zone PO-1.1 and Ordinance Z-2017-009 Sub-Change B. 38.5 \u2212 25.0 = 13.5 m."
+  },
+  {
+    "id": "VCZC-090",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "In the C-3 District, what is the maximum building height for properties fronting directly on Cornrath Square, and how does it differ from the standard C-3 maximum?",
+    "options": {
+      "A": "Standard C-3 is 45.0 m; Cornrath Square frontage is 38.0 m \u2014 Cornrath Square is shorter",
+      "B": "Standard C-3 is 38.0 m; Cornrath Square frontage is 45.0 m \u2014 Cornrath Square is taller",
+      "C": "Both are 45.0 m; no exception applies to Cornrath Square",
+      "D": "Standard C-3 is 45.0 m; Cornrath Square frontage is 21.0 m \u2014 the Pellgate overlay applies",
+      "E": "Standard C-3 is 38.0 m; Cornrath Square frontage is 38.0 m \u2014 they are equal",
+      "F": "Standard C-3 is 45.0 m; Cornrath Square frontage is 28.0 m \u2014 the R-3 standard applies"
+    },
+    "answer": "A",
+    "evidence": "Standard C-3 maximum: **45.0 meters**. Cornrath Square frontage exception: **38.0 meters** to protect sight lines to the Veltharrow Civic Hall tower.",
+    "reasoning": "Rules C-3.1 and C-3.1(a). The reduction applies specifically to sight-line protection. 21.0 m is the Pellgate Flats R-3 overlay, unrelated to C-3."
+  },
+  {
+    "id": "VCZC-091",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A lot in the R-1 District has an area of 580 square meters. An owner wants to add a detached accessory dwelling unit. What is the maximum permitted floor area for that ADU?",
+    "options": {
+      "A": "74 square meters, because the standard maximum applies to all R-1 ADUs",
+      "B": "65 square meters, because lots under 600 sq m use the caretaker-unit limit",
+      "C": "84 square meters, because corner-lot exceptions expand ADU rights",
+      "D": "55 square meters, because lots under 600 sq m use the reduced ADU limit",
+      "E": "74 square meters, because the 580 sq m exceeds the 511 sq m pre-1955 minimum",
+      "F": "No ADU is permitted on lots under 600 sq m"
+    },
+    "answer": "D",
+    "evidence": "Exception R-1.4(a): ADUs on lots **smaller than 600 sq m** are limited to **55 square meters** of floor area.",
+    "reasoning": "580 < 600 sq m triggers the exception. The standard 74 sq m limit applies only to lots of 600 sq m or more."
+  },
+  {
+    "id": "VCZC-092",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A C-3 building has 40 linear meters of frontage on Cornrath Avenue. What is the maximum total signage area permitted under Rule C-3.4?",
+    "options": {
+      "A": "40 square meters",
+      "B": "45 square meters",
+      "C": "20 square meters",
+      "D": "25 square meters",
+      "E": "35 square meters",
+      "F": "30 square meters"
+    },
+    "answer": "F",
+    "evidence": "Maximum signage: **0.75 sq m per linear meter of frontage**; 40 m \u00d7 0.75 = **30 square meters**.",
+    "reasoning": "Rule C-3.4. Option A applies a 1.0 sq m factor; option C applies 0.50 sq m; others use different multipliers."
+  },
+  {
+    "id": "VCZC-093",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A PO-1 lot has an area of 1,000 square meters and currently has 300 square meters of impervious surface. An owner proposes to add a 30-square-meter patio. May this proceed, and why?",
+    "options": {
+      "A": "No, because the proposed patio would bring impervious coverage to 33%, exceeding the 22% PO-1 cap",
+      "B": "Yes, because 330 sq m is below the 38% limit for shoreline lots",
+      "C": "Yes, because only structures within 38.5 m of the high-water mark require a permit",
+      "D": "Yes, because the total would remain under 400 sq m, the PO-1 hard cap",
+      "E": "No, because any new construction in PO-1 requires a water-dependent structures permit",
+      "F": "Yes, provided the patio uses permeable pavers counted at 40%"
+    },
+    "answer": "A",
+    "evidence": "Current impervious: 300/1,000 = **30%**, already exceeding the **22% PO-1 cap**. Adding 30 sq m would raise it to 33%, further violating the limit.",
+    "reasoning": "Rule PO-1.2. The 22% cap applies lot-wide; 30% already violates it. The property is a legal nonconforming use and may not increase impervious coverage further."
+  },
+  {
+    "id": "VCZC-094",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "An M-1 property in Wyndmere Spur holds Noise Variance Permit NVP-M1-2011-004. At 10:30 PM, what is the maximum sound level it may emit at its property line?",
+    "options": {
+      "A": "71 dBA, because the variance permit allows this level at any hour",
+      "B": "62 dBA, because the daytime limit applies until midnight",
+      "C": "48 dBA, because the nighttime limit applies regardless of the variance permit",
+      "D": "55 dBA, because the variance increases the nighttime limit by 7 dBA",
+      "E": "71 dBA daytime only; after 10 PM the variance no longer applies, so 48 dBA governs",
+      "F": "62 dBA, because the daytime standard applies to variance holders at all hours"
+    },
+    "answer": "E",
+    "evidence": "Exception M-1.2(a): Permit NVP-M1-2011-004 allows up to **71 dBA during daytime hours only**. After 10 PM, the standard nighttime limit of **48 dBA** applies.",
+    "reasoning": "Rule M-1.2 and Exception M-1.2(a). The variance is restricted to daytime hours (7 AM\u201310 PM). 10:30 PM is outside those hours, so 48 dBA governs."
+  },
+  {
+    "id": "VCZC-095",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A new M-1 lot shares a 60-meter property line with a residential R-2 zone. A 9.5-meter-wide public alley separates them. What landscaping buffer is required along that shared line?",
+    "options": {
+      "A": "8.5 meters of continuous landscaped buffer with one canopy tree per 6 linear meters",
+      "B": "4.0 meters of buffer, because the intervening alley of at least 9.0 meters reduces the requirement",
+      "C": "No buffer required, because M-1 and R-2 are adjacent industrial and residential zones that are always exempt",
+      "D": "8.5 meters, because alley width must exceed 12.0 meters to qualify for the reduction",
+      "E": "4.0 meters only along the first 30 meters; 8.5 meters for the remainder",
+      "F": "No buffer required, because M-1 abutting M-1 or M-2 is exempt and R-2 is treated equivalently"
+    },
+    "answer": "B",
+    "evidence": "Exception M-1.3(a): where a **public alley or road right-of-way of at least 9.0 meters** separates M-1 from a residential zone, the buffer may be reduced to **4.0 meters**.",
+    "reasoning": "Rule M-1.3. The alley is 9.5 m \u2265 9.0 m, so the reduction applies. Option D invents a 12.0 m threshold not in the document."
+  },
+  {
+    "id": "VCZC-096",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A new construction project in Drasswell Common is planned on a lot whose boundary is 45 meters from the nearest SP-1 zone boundary. What minimum lowest habitable floor elevation must it meet?",
+    "options": {
+      "A": "The rule does not apply; 45 meters exceeds the 30-meter threshold",
+      "B": "98.2 m AMSL \u2014 base flood elevation plus 0.8 m",
+      "C": "97.9 m AMSL \u2014 the old pre-2019 standard",
+      "D": "97.4 m AMSL \u2014 the base flood elevation itself",
+      "E": "The rule does not apply; only properties within 30 meters of SP-1 must comply",
+      "F": "98.4 m AMSL \u2014 an additional 0.2 m safety margin applies within 50 meters"
+    },
+    "answer": "B",
+    "evidence": "Rule SP-1.2 applies to **properties within 55 meters of an SP-1 zone boundary**. 45 m < 55 m, so the minimum habitable floor is **98.2 m AMSL** (97.4 + 0.8).",
+    "reasoning": "Rule SP-1.2. Options A and E invent a 30-meter threshold. Option C uses the superseded 2012 standard. Option F invents an additional margin."
+  },
+  {
+    "id": "VCZC-097",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A bakery in the C-1 District wishes to begin dough preparation at 4:00 AM. Is this permitted, and on what condition?",
+    "options": {
+      "A": "Yes, with no restrictions, because food preparation is exempt from C-1 operating hours",
+      "B": "No, because C-1 operating hours begin at 6:00 AM with no exceptions for food establishments",
+      "C": "Yes, but only if the bakery holds a Veltharrow Late-Night Commercial Permit",
+      "D": "Yes, provided no customer-facing operations commence before 6:00 AM",
+      "E": "No, because food preparation must begin no earlier than 4:30 AM under the C-1 exception",
+      "F": "Yes, but only between 4:30 AM and 5:30 AM \u2014 beyond that requires a special permit"
+    },
+    "answer": "E",
+    "evidence": "Exception C-1.2(b): bakeries may begin operations at **4:30 AM**, not 4:00 AM, provided no customer-facing operations commence before 6:00 AM.",
+    "reasoning": "4:00 AM is earlier than the 4:30 AM exception allows. Option D correctly states the customer-facing condition but misses that 4:00 AM is still too early."
+  },
+  {
+    "id": "VCZC-098",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "An R-3 building under 8 units fronts entirely on a side street with no Pedestrian Priority Corridor frontage. Is it subject to the ground-floor activation requirement?",
+    "options": {
+      "A": "No, because buildings without Pedestrian Priority Corridor frontage are exempt under Exception R-3.3(a)",
+      "B": "No, because buildings under 8 units are exempt under Exception R-3.3(b)",
+      "C": "Yes, because all R-3 buildings must provide 65% active use regardless of street type",
+      "D": "Yes, but only for the ground-floor units facing the side street",
+      "E": "No, because side-street buildings use the C-1 commercial activation rule instead",
+      "F": "Yes, but the threshold is reduced to 30% of frontage for side-street buildings"
+    },
+    "answer": "A",
+    "evidence": "Exception R-3.3(a): buildings with **frontage entirely on side streets** and not on Pedestrian Priority Corridors are **exempt** from the ground-floor activation requirement.",
+    "reasoning": "Two exemptions exist: R-3.3(a) (side-street frontage) and R-3.3(b) (under 8 units). Either alone suffices here; the question identifies both apply, but A is correct due to R-3.3(a) applying first."
+  },
+  {
+    "id": "VCZC-099",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "The Veltharrow Comprehensive Zoning Code was originally enacted by which ordinance, and when did it take effect?",
+    "options": {
+      "A": "Ordinance Z-1987-001, effective January 1, 1988",
+      "B": "Ordinance C-2005-001, effective July 1, 2005",
+      "C": "Ordinance Z-2017-009, effective January 1, 2018",
+      "D": "Ordinance R-2014-007, effective August 1, 2014",
+      "E": "Ordinance T-2009-003, effective January 1, 2010",
+      "F": "Ordinance SP-2019-001, effective September 1, 2019"
+    },
+    "answer": "A",
+    "evidence": "The VCZC was enacted by **Ordinance Z-1987-001**, effective **January 1, 1988**, and last comprehensively amended by Ordinance Z-2017-009.",
+    "reasoning": "General Codified References section. Z-2017-009 is the last comprehensive amendment, not the original enactment."
+  },
+  {
+    "id": "VCZC-100",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A mixed-use R-3 building in Pellgate Flats has ground-floor commercial space equal to 45% of its ground floor area. What density bonus, if any, applies under Rule R-3.1(b)?",
+    "options": {
+      "A": "No bonus applies; R-3.1(b) only covers affordable housing",
+      "B": "15 additional units per hectare above the 87 du/ha base maximum",
+      "C": "31 du/ha applies as under the R-2 affordable-unit exception",
+      "D": "No bonus applies in Pellgate Flats because the height overlay supersedes density rules",
+      "E": "15 additional units per hectare, but the Pellgate height overlay still caps the building at 21.0 m",
+      "F": "87 du/ha plus 34 units per hectare for mixed use"
+    },
+    "answer": "E",
+    "evidence": "R-3.1(b) grants **15 additional units per hectare** for \u226540% ground-floor commercial. The **Pellgate Special Height Overlay** (21.0 m) applies independently and still caps the building.",
+    "reasoning": "Ground-floor commercial is 45% \u2265 40%, so R-3.1(b) triggers the density bonus. However, the height overlay from Ordinance Z-2017-009 applies to all R-3 structures in Pellgate Flats regardless of the density provision."
+  }
+]

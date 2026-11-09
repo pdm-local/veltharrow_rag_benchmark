@@ -1,0 +1,13 @@
+# Benchmark core: stdlib only (run_benchmark.py needs no pip packages).
+# Pinned to the versions used to produce the published results (Python 3.12).
+
+# Analysis & plotting (used by scripts/plot_results.py)
+numpy==2.4.6
+pandas==3.0.3
+matplotlib==3.10.9
+
+# Optional: free-text (freeform) generation judge
+openai==2.38.0
+
+# Dev / tests
+pytest==9.0.3

@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.pytest_cache/
+
+# All benchmark outputs are machine-local; never commit.
+# Publication figures are copied into figures/ (tracked); the raw CSVs live on
+# Hugging Face. See README "Results & dataset".
+cache/
+results/
+docs
+
+# Backups / scratch
+*.bak
+*.bak_*
+
+# Hugging Face upload staging (assembled locally, pushed manually)
+huggingface/
+
+# Internal / personal context; not part of the public release
+CLAUDE.md
+docs/RESEARCH_LOG.md
+tools/freeform_k5_rerun.sh
+
+# Paper draft; local working copy (figures, build artifacts, PDF)
+paper/
+
+# Editor / OS
+.vscode/
+.idea/
+.agents/
+.codex/
+*.swp
+.DS_Store

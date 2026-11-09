@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "veltharrow"
+version = "0.1.0"
+description = "Veltharrow RAG benchmark: MCQ accuracy across local LLMs on a fictional municipal corpus."
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "openai",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

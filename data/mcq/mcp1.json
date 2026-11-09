@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "VMCGR-001",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the official name of the municipality?",
+    "options": {
+      "A": "The Municipality of Veltharrow",
+      "B": "Veltharrow",
+      "C": "Veltharrow Mill Settlement",
+      "D": "Province of Orvaine",
+      "E": "Cassel Uplands Administrative Region",
+      "F": "Republic of Drenmoor"
+    },
+    "answer": "A",
+    "evidence": "The official name of the municipality is **The Municipality of Veltharrow**.",
+    "reasoning": "The document states the municipality's official name directly in Article I, Section 1."
+  },
+  {
+    "id": "VMCGR-002",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What municipal type is assigned to Veltharrow?",
+    "options": {
+      "A": "Mayor\u2013Council",
+      "B": "Second-Class Charter Municipality",
+      "C": "Strong Mayor form",
+      "D": "Veltharrow Municipal Council",
+      "E": "Veltharrow Tax Assessment Board",
+      "F": "Veltharrow Planning Commission"
+    },
+    "answer": "B",
+    "evidence": "The Municipality of Veltharrow is a **Second-Class Charter Municipality**.",
+    "reasoning": "The municipal type is explicitly named in Article I, Section 3."
+  },
+  {
+    "id": "VMCGR-003",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "Where is Veltharrow's municipal seat?",
+    "options": {
+      "A": "Council Chamber B",
+      "B": "Cornrath Avenue",
+      "C": "Veltharrow Civic Hall, 14 Cornrath Square, Veltharrow",
+      "D": "14 Quorrath Street, Veltharrow",
+      "E": "Surenthal",
+      "F": "Drasswell Road Junction"
+    },
+    "answer": "C",
+    "evidence": "The municipal seat is **Veltharrow Civic Hall, 14 Cornrath Square, Veltharrow**.",
+    "reasoning": "The municipal seat is directly identified in Article I, Section 5."
+  },
+  {
+    "id": "VMCGR-004",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "On what date did official incorporation occur?",
+    "options": {
+      "A": "March 3, 1844",
+      "B": "June 2, 1883",
+      "C": "April 7, 1901",
+      "D": "September 14, 1857",
+      "E": "February 28, 1974",
+      "F": "January 1, 1988"
+    },
+    "answer": "D",
+    "evidence": "The date of official incorporation is **September 14, 1857**.",
+    "reasoning": "The incorporation date is stated plainly in Article II, Section 3."
+  },
+  {
+    "id": "VMCGR-005",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What was Veltharrow's original municipal name at incorporation?",
+    "options": {
+      "A": "Veltharrow",
+      "B": "Cornrath Central",
+      "C": "Gorrath Ridge",
+      "D": "Vanthorpe family cabin",
+      "E": "Veltharrow Mill Settlement",
+      "F": "The Municipality of Bruck Fallow"
+    },
+    "answer": "E",
+    "evidence": "The original municipal name at incorporation was **Veltharrow Mill Settlement**.",
+    "reasoning": "The document gives the original municipal name in Article II, Section 3."
+  },
+  {
+    "id": "VMCGR-006",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What geographic coordinates are recorded for Veltharrow?",
+    "options": {
+      "A": "54.7731\u00b0 N, 18.2240\u00b0 E",
+      "B": "54.7311\u00b0 N, 18.2204\u00b0 E",
+      "C": "54.7731\u00b0 E, 18.2204\u00b0 N",
+      "D": "54.2204\u00b0 N, 18.7731\u00b0 E",
+      "E": "54.7731\u00b0 N, 18.2042\u00b0 E",
+      "F": "54.7731\u00b0 N, 18.2204\u00b0 E"
+    },
+    "answer": "F",
+    "evidence": "The geographic coordinates of Veltharrow are **54.7731\u00b0 N, 18.2204\u00b0 E**.",
+    "reasoning": "The coordinates are directly listed in Article III, Section 1."
+  },
+  {
+    "id": "VMCGR-007",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is Veltharrow's highest point?",
+    "options": {
+      "A": "Gorrath Ridge",
+      "B": "Fellwick Creek outlet",
+      "C": "Lake Orvaine Inlet Reach",
+      "D": "Drasswell Pond",
+      "E": "Cornrath Square",
+      "F": "Wyndmere Spur"
+    },
+    "answer": "A",
+    "evidence": "The highest point is **Gorrath Ridge**.",
+    "reasoning": "Article III, Section 2 directly identifies the highest point."
+  },
+  {
+    "id": "VMCGR-008",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the governing body of Veltharrow?",
+    "options": {
+      "A": "Veltharrow Planning Commission",
+      "B": "Veltharrow Municipal Council",
+      "C": "Veltharrow Tax Assessment Board",
+      "D": "Orvaine Province Territorial Council",
+      "E": "Drenmoor Municipal Bond Authority",
+      "F": "Orvaine Provincial Flood Authority"
+    },
+    "answer": "B",
+    "evidence": "The governing body is the **Veltharrow Municipal Council**.",
+    "reasoning": "The governing body is explicitly stated in Article IV, Section 1."
+  },
+  {
+    "id": "VMCGR-009",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "At what time are regular Council meetings scheduled?",
+    "options": {
+      "A": "6:00 AM",
+      "B": "11:00 PM",
+      "C": "6:30 PM",
+      "D": "1:30 AM",
+      "E": "4:30 AM",
+      "F": "10:00 PM"
+    },
+    "answer": "C",
+    "evidence": "The regular meeting time is **6:30 PM**.",
+    "reasoning": "Article IV, Section 6 gives the regular meeting time."
+  },
+  {
+    "id": "VMCGR-010",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "Who is the Mayor of Veltharrow as listed in the executive offices?",
+    "options": {
+      "A": "Sera Mittenwych",
+      "B": "Gretchen Pallfort",
+      "C": "Darvid Quennell",
+      "D": "Haldric Ovenspoor",
+      "E": "Roswend Talfrey",
+      "F": "Hanna Corwick"
+    },
+    "answer": "D",
+    "evidence": "The Mayor is **Haldric Ovenspoor**.",
+    "reasoning": "The mayor is directly identified in Article V, Section 3."
+  },
+  {
+    "id": "VMCGR-011",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "Who is identified as the Municipal Clerk?",
+    "options": {
+      "A": "Ysabel Frondtke",
+      "B": "Cael Drossmund",
+      "C": "Torben Nallweiss",
+      "D": "Aldwyn Prenthorpe",
+      "E": "Hanna Corwick",
+      "F": "Brixton Hallvane"
+    },
+    "answer": "E",
+    "evidence": "The Municipal Clerk is **Hanna Corwick**.",
+    "reasoning": "Article V, Section 3 directly names the Municipal Clerk."
+  },
+  {
+    "id": "VMCGR-012",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "Who is Chair of the Veltharrow Planning Commission?",
+    "options": {
+      "A": "Dunstan Worrall",
+      "B": "Brixton Hallvane",
+      "C": "Gretchen Pallfort",
+      "D": "Sera Mittenwych",
+      "E": "Cael Drossmund",
+      "F": "Ysabel Frondtke"
+    },
+    "answer": "F",
+    "evidence": "The Chair is **Ysabel Frondtke**.",
+    "reasoning": "Article VII, Section 1 states the Chair's name."
+  },
+  {
+    "id": "VMCGR-013",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the municipal sales tax rate stated in the governance reference rules?",
+    "options": {
+      "A": "1.473%",
+      "B": "6.000%",
+      "C": "7.473%",
+      "D": "1.218%",
+      "E": "7.218%",
+      "F": "0.255 percentage-point"
+    },
+    "answer": "A",
+    "evidence": "The municipal sales tax rate is **1.473%**.",
+    "reasoning": "The municipal sales tax rate is directly stated in Article XI, Section 3."
+  },
+  {
+    "id": "VMCGR-014",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What bond rating is listed for Veltharrow?",
+    "options": {
+      "A": "A1 (stable)",
+      "B": "Drenmoor Municipal Bond Authority Rating: A2 (stable)",
+      "C": "Drenmoor Municipal Bond Authority Rating: A2 (negative)",
+      "D": "Orvaine Provincial Bond Authority Rating: A2 (stable)",
+      "E": "A2 (under review)",
+      "F": "Brixton Hallvane Rating: A2 (stable)"
+    },
+    "answer": "B",
+    "evidence": "The bond rating is **Drenmoor Municipal Bond Authority Rating: A2 (stable)**.",
+    "reasoning": "Article XII, Section 2 states the bond rating verbatim."
+  },
+  {
+    "id": "VMCGR-015",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "Adding the land area and water area in the document gives which total municipal area?",
+    "options": {
+      "A": "112.84 square kilometers",
+      "B": "5.53 square kilometers",
+      "C": "118.37 square kilometers",
+      "D": "61.2 square kilometers",
+      "E": "3.14 square kilometers",
+      "F": "91 square kilometers"
+    },
+    "answer": "C",
+    "evidence": "The land area is **112.84 square kilometers**. The water area is **5.53 square kilometers**. The total municipal area is **118.37 square kilometers**.",
+    "reasoning": "The listed land and water areas sum to the stated total municipal area of 118.37 square kilometers."
+  },
+  {
+    "id": "VMCGR-016",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "Which combination correctly reconstructs the total number of Council seats?",
+    "options": {
+      "A": "1 Mayor at-large + 7 Ward Councillors = 8 seats",
+      "B": "2 Mayors at-large + 8 Ward Councillors = 10 seats",
+      "C": "1 Mayor at-large + 4 Ward Councillors = 5 seats",
+      "D": "1 Mayor at-large + 8 Ward Councillors = 9 seats",
+      "E": "4 wards + 8 Ward Councillors = 12 seats",
+      "F": "8 Ward Councillors + 2 per ward = 10 seats"
+    },
+    "answer": "D",
+    "evidence": "The number of Council seats is **9**. The Council consists of **1 Mayor at-large**. The Council consists of **8 Ward Councillors**.",
+    "reasoning": "The Council total is formed by combining one at-large mayor and eight ward councillors."
+  },
+  {
+    "id": "VMCGR-017",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What total is obtained by summing Cornrath Central, Upper Bryndmere, and Pellgate Flats populations?",
+    "options": {
+      "A": "21,088",
+      "B": "19,644",
+      "C": "21,849",
+      "D": "24,831",
+      "E": "24,831",
+      "F": "36,847"
+    },
+    "answer": "E",
+    "evidence": "Cornrath Central has population **11,203**. Upper Bryndmere has population **8,419**. Pellgate Flats has population **5,209**.",
+    "reasoning": "Adding 11,203, 8,419, and 5,209 gives 24,831, the Cornrath Ward total."
+  },
+  {
+    "id": "VMCGR-018",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "By how many residents does Fellwick South exceed Thornock Rise?",
+    "options": {
+      "A": "7,587",
+      "B": "3,728",
+      "C": "1,642",
+      "D": "14,227",
+      "E": "2,861",
+      "F": "98"
+    },
+    "answer": "F",
+    "evidence": "Fellwick South has population **9,871**. Thornock Rise has population **9,773**.",
+    "reasoning": "Subtracting 9,773 from 9,871 gives a difference of 98 residents."
+  },
+  {
+    "id": "VMCGR-019",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What is the combined population of the 25\u201344 and 45\u201364 age groups?",
+    "options": {
+      "A": "45,755",
+      "B": "37,416",
+      "C": "40,311",
+      "D": "23,718",
+      "E": "22,037",
+      "F": "87,412"
+    },
+    "answer": "A",
+    "evidence": "The municipal age group **25\u201344** has population **23,718**. The municipal age group **45\u201364** has population **22,037**.",
+    "reasoning": "Adding 23,718 and 22,037 yields 45,755."
+  },
+  {
+    "id": "VMCGR-020",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "Which expression gives the total dwelling units figure?",
+    "options": {
+      "A": "21,304 + 13,901 = 35,205",
+      "B": "36,847 + 1,642 = 38,489",
+      "C": "17,643 + 8,211 = 25,854",
+      "D": "9,774 + 2,861 = 12,635",
+      "E": "36,847 + 2,861 = 39,708",
+      "F": "21,304 + 1,642 = 22,946"
+    },
+    "answer": "B",
+    "evidence": "The total dwelling units expression is **36,847 + 1,642 = 38,489**.",
+    "reasoning": "The document explicitly gives total dwelling units as households plus vacant units."
+  },
+  {
+    "id": "VMCGR-021",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "Subtracting total expenditure from total revenue for FY2024 gives which projected year-end surplus?",
+    "options": {
+      "A": "$8,496,855",
+      "B": "$1,117,600",
+      "C": "$1,546,100",
+      "D": "$2,000,000",
+      "E": "$8,774,350",
+      "F": "$9,413,700"
+    },
+    "answer": "C",
+    "evidence": "The total revenue for **FY2024** is **$114,837,500**. The total expenditure for **FY2024** is **$113,291,400**. The projected year-end surplus for **FY2024** is **$1,546,100**.",
+    "reasoning": "The difference between revenue and expenditure is $1,546,100."
+  },
+  {
+    "id": "VMCGR-022",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "Combining the municipal sales tax rate with the Drenmoor Provincial Sales Tax gives what rate?",
+    "options": {
+      "A": "1.473%",
+      "B": "6.000%",
+      "C": "7.218%",
+      "D": "7.473%",
+      "E": "1.218%",
+      "F": "0.255 percentage-point"
+    },
+    "answer": "D",
+    "evidence": "The municipal sales tax rate is **1.473%**. The Drenmoor Provincial Sales Tax is **6.000%**. The combined rate is **7.473%**.",
+    "reasoning": "The combined rate is the municipal rate plus the provincial rate."
+  },
+  {
+    "id": "VMCGR-023",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "For Pellgate Flats, what total effective rate results from combining the general levy and special district levy?",
+    "options": {
+      "A": "16.84 mills",
+      "B": "15.61 mills",
+      "C": "16.00 mills",
+      "D": "17.56 mills",
+      "E": "18.17 mills",
+      "F": "18.90 mills"
+    },
+    "answer": "E",
+    "evidence": "Pellgate Flats has a general levy of **14.73 mills**. Pellgate Flats has a special district levy of **3.44 mills**. Pellgate Flats has a total effective rate of **18.17 mills**.",
+    "reasoning": "Adding 14.73 mills and 3.44 mills gives Pellgate Flats' total effective rate of 18.17 mills."
+  },
+  {
+    "id": "VMCGR-024",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What sum is produced by adding the owner-occupied, renter-occupied, and vacant-unit percentages?",
+    "options": {
+      "A": "57.82%",
+      "B": "37.73%",
+      "C": "4.45%",
+      "D": "95.55%",
+      "E": "45.84%",
+      "F": "100.00%"
+    },
+    "answer": "F",
+    "evidence": "The owner-occupied units percentage is **57.82%**. The renter-occupied units percentage is **37.73%**. The vacant units percentage is **4.45%**.",
+    "reasoning": "The three occupancy-category percentages add to 100.00%."
+  },
+  {
+    "id": "VMCGR-025",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What is the elevation difference between Gorrath Ridge and the Fellwick Creek outlet?",
+    "options": {
+      "A": "396 meters",
+      "B": "274 meters",
+      "C": "213 meters",
+      "D": "487 meters",
+      "E": "91 meters",
+      "F": "578 meters"
+    },
+    "answer": "A",
+    "evidence": "The elevation of Gorrath Ridge is **487 meters above sea level**. The elevation of the Fellwick Creek outlet is **91 meters above sea level**.",
+    "reasoning": "Subtracting 91 from 487 gives an elevation difference of 396 meters."
+  },
+  {
+    "id": "VMCGR-026",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "Which pair gives the two term-end dates for Gorrath Ward councillors?",
+    "options": {
+      "A": "January 5, 2026 and January 5, 2026",
+      "B": "January 7, 2028 and January 5, 2026",
+      "C": "January 7, 2028 and January 7, 2028",
+      "D": "January 5, 2026 and January 7, 2028",
+      "E": "January 6, 2022 and January 8, 2024",
+      "F": "March 2025 and December 2026"
+    },
+    "answer": "B",
+    "evidence": "Jorvyn Crellweiss\u2019s term end date is **January 7, 2028**. Linne Orvak\u2019s term end date is **January 5, 2026**.",
+    "reasoning": "The two Gorrath seats are held by Jorvyn Crellweiss and Linne Orvak, whose term ends are January 7, 2028 and January 5, 2026."
+  },
+  {
+    "id": "VMCGR-027",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What is the combined length of Fellwick Creek within the municipal boundary and the Lake Orvaine Inlet Reach shoreline?",
+    "options": {
+      "A": "14.3 km",
+      "B": "2.1 km",
+      "C": "16.4 km",
+      "D": "8.7 km",
+      "E": "4.7 km",
+      "F": "61.2 km"
+    },
+    "answer": "C",
+    "evidence": "Fellwick Creek has **14.3 km** within the municipal boundary. The Lake Orvaine Inlet Reach has **2.1 km** of shoreline.",
+    "reasoning": "Adding 14.3 km and 2.1 km gives 16.4 km."
+  },
+  {
+    "id": "VMCGR-028",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What combined FY2024 revenue is produced by adding Property Tax, General Levy, and Property Tax, Special District Levies?",
+    "options": {
+      "A": "$41,228,400",
+      "B": "$7,341,200",
+      "C": "$47,228,600",
+      "D": "$48,569,600",
+      "E": "$59,675,700",
+      "F": "$55,340,900"
+    },
+    "answer": "D",
+    "evidence": "Property Tax, General Levy, has amount **$41,228,400**. Property Tax, Special District Levies, has amount **$7,341,200**.",
+    "reasoning": "Adding $41,228,400 and $7,341,200 gives $48,569,600."
+  },
+  {
+    "id": "VMCGR-029",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What did the Third Charter Revision establish?",
+    "options": {
+      "A": "The original municipal name at incorporation",
+      "B": "The first permanent infrastructure",
+      "C": "The ward system with 4 wards",
+      "D": "The name Veltharrow Mill Settlement",
+      "E": "The current Second-Class Charter status",
+      "F": "The 2019 Census reference"
+    },
+    "answer": "E",
+    "evidence": "The Third Charter Revision established the current Second-Class Charter status.",
+    "reasoning": "The document explicitly links the Third Charter Revision to the current Second-Class Charter status."
+  },
+  {
+    "id": "VMCGR-030",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "Why was the first settlement not a permanent settlement?",
+    "options": {
+      "A": "It was a post-war administrative reform.",
+      "B": "It was recorded in the Gorrath Ridge area.",
+      "C": "It was removed in 1961.",
+      "D": "It was a civic plaza bounded by four streets.",
+      "E": "It was a special-purpose zone.",
+      "F": "It was a seasonal lumber camp with no permanent residents."
+    },
+    "answer": "F",
+    "evidence": "The first settlement was a seasonal lumber camp. The first settlement had no permanent residents.",
+    "reasoning": "The document explains the first settlement's nonpermanent character by describing it as seasonal and having no permanent residents."
+  },
+  {
+    "id": "VMCGR-031",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "Why should the 73% assessment ratio be treated as the operative ratio in the document?",
+    "options": {
+      "A": "This is the currently operative assessment ratio referenced throughout this document.",
+      "B": "The old value, pre-2008, was assessment ratio 65% of fair market value.",
+      "C": "The new value, effective Jan 1, 2008, was assessment ratio 71% of fair market value.",
+      "D": "The subject was the assessment ratio used for property tax calculations.",
+      "E": "The Council vote was 7\u20132 in favor.",
+      "F": "The administering officer at time of passage was Chief Assessor Dolvane Prescroft."
+    },
+    "answer": "A",
+    "evidence": "This is the currently operative assessment ratio referenced throughout this document.",
+    "reasoning": "The document explicitly marks the 73% value under Ordinance T-2009-003 as currently operative."
+  },
+  {
+    "id": "VMCGR-032",
+    "type": "explanation",
+    "bloom": "Analyse",
+    "question": "Under Ordinance Z-2017-009, what policy explains the reduced maximum building height for Gorrath Ridge parcels above 350 m elevation?",
+    "options": {
+      "A": "Drasswell Pond Flood Mitigation Capital Program",
+      "B": "Gorrath Ridgeline View Protection Policy",
+      "C": "Veltharrow Residential Density Bonus Ordinance",
+      "D": "Cornrath Central Ground-Floor Commercial Activation Ordinance",
+      "E": "Orvaine Province Territorial Council Resolution No. 31-1857",
+      "F": "Drasswell Common Flood Proofing Certification Program"
+    },
+    "answer": "B",
+    "evidence": "For Gorrath Ridge Maximum Building Height, the new value was maximum building height for Gorrath Ridge parcels above **350 m** elevation equal to **8.1 meters** under the Gorrath Ridgeline View Protection Policy.",
+    "reasoning": "The reduced Gorrath Ridge height is tied in the ordinance text to the Gorrath Ridgeline View Protection Policy."
+  },
+  {
+    "id": "VMCGR-033",
+    "type": "explanation",
+    "bloom": "Analyse",
+    "question": "What stated reason explains the Pellgate Flats Height Overlay in Ordinance Z-2017-009?",
+    "options": {
+      "A": "Shoreline preservation assessment",
+      "B": "Drasswell Pond flood mitigation levy",
+      "C": "Aircraft approach path proximity",
+      "D": "Business improvement district levy",
+      "E": "Road improvement district",
+      "F": "Residential amenity district"
+    },
+    "answer": "C",
+    "evidence": "The stated reason was aircraft approach path proximity.",
+    "reasoning": "The ordinance section states aircraft approach path proximity as the reason for the Pellgate height limit."
+  },
+  {
+    "id": "VMCGR-034",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What was Ordinance F-2021-004 intended to fund?",
+    "options": {
+      "A": "The Vanthorpe family cabin",
+      "B": "The Fellwick Bypass",
+      "C": "The Surenthal mainline",
+      "D": "The Drasswell Pond Flood Mitigation Capital Program",
+      "E": "The Cornrath Central Business District",
+      "F": "The Veltharrow Planning Commission"
+    },
+    "answer": "D",
+    "evidence": "The subject was the municipal sales tax rate to fund the Drasswell Pond Flood Mitigation Capital Program.",
+    "reasoning": "The ordinance subject directly states that the sales tax adjustment funded the Drasswell Pond Flood Mitigation Capital Program."
+  },
+  {
+    "id": "VMCGR-035",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What was the subject of Ordinance C-2005-001?",
+    "options": {
+      "A": "The second revision to the assessment ratio for property tax calculation",
+      "B": "The affordable housing income threshold used to qualify for density bonuses in Zone R-2",
+      "C": "The municipal sales tax rate to fund flood mitigation",
+      "D": "The Drasswell Common Flood Proofing Certification Program",
+      "E": "Mandatory ground-floor commercial use along Cornrath Avenue and Drasswell Road in Zone C-3",
+      "F": "An omnibus zoning amendment"
+    },
+    "answer": "E",
+    "evidence": "The subject was mandatory ground-floor commercial use along Cornrath Avenue and Drasswell Road in Zone C-3.",
+    "reasoning": "The document explicitly states the ordinance's subject in Article XIII, Section 5."
+  },
+  {
+    "id": "VMCGR-036",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What did Ordinance R-2014-007 address?",
+    "options": {
+      "A": "The current bond rating",
+      "B": "The 2019 Census age structure",
+      "C": "The election cycle alternating ward pairs",
+      "D": "The major roads recorded for Veltharrow",
+      "E": "The water area consisting of three features",
+      "F": "The affordable housing income threshold used to qualify for density bonuses in Zone R-2"
+    },
+    "answer": "F",
+    "evidence": "The subject was the affordable housing income threshold used to qualify for density bonuses in Zone R-2.",
+    "reasoning": "The R-2014-007 section states that its subject was the affordable housing income threshold for Zone R-2 density bonuses."
+  },
+  {
+    "id": "VMCGR-037",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What program and timing issue was the subject of Ordinance SP-2019-001?",
+    "options": {
+      "A": "The Drasswell Common Flood Proofing Certification Program and the renewal period for flood proofing certificates",
+      "B": "The municipal sales tax rate to fund the Drasswell Pond Flood Mitigation Capital Program",
+      "C": "The current Second-Class Charter status",
+      "D": "The ground-floor commercial requirement in Zone C-3",
+      "E": "The special district levy for Lake Orvaine Reach",
+      "F": "The first permanent infrastructure over Fellwick Creek"
+    },
+    "answer": "A",
+    "evidence": "The subject was the Drasswell Common Flood Proofing Certification Program and the renewal period for flood proofing certificates.",
+    "reasoning": "The ordinance subject names both the certification program and its certificate renewal period."
+  },
+  {
+    "id": "VMCGR-038",
+    "type": "explanation",
+    "bloom": "Analyse",
+    "question": "How does the election cycle relate to staggered Council terms?",
+    "options": {
+      "A": "Municipal elections are held every 4 years and do not alternate wards.",
+      "B": "Municipal elections are held every 2 years, and the election cycle alternates ward pairs.",
+      "C": "Municipal elections occur only when a ward has no councillors.",
+      "D": "Municipal elections are tied to the 2019 Census reference.",
+      "E": "Municipal elections are scheduled on the first and third Tuesday of each month.",
+      "F": "Municipal elections are held whenever the Planning Commission term ends."
+    },
+    "answer": "B",
+    "evidence": "Council terms are staggered. Municipal elections are held every **2 years**. The election cycle alternates ward pairs.",
+    "reasoning": "The document explains staggered terms by pairing a four-year term structure with elections every two years that alternate ward pairs."
+  },
+  {
+    "id": "VMCGR-039",
+    "type": "explanation",
+    "bloom": "Analyse",
+    "question": "Why is Lake Orvaine Reach treated differently from ordinary neighborhoods in the ward mapping?",
+    "options": {
+      "A": "It is the Provincial Capital.",
+      "B": "It is a secondary arterial.",
+      "C": "It is classified as a special-purpose zone and separately administered for zoning purposes.",
+      "D": "It has no permanent residents.",
+      "E": "It is the municipal seat.",
+      "F": "It is a post-war administrative reform."
+    },
+    "answer": "C",
+    "evidence": "Lake Orvaine Reach is classified as a **special-purpose zone**. Lake Orvaine Reach is separately administered for zoning purposes.",
+    "reasoning": "The document identifies Lake Orvaine Reach as special-purpose and separately administered for zoning, explaining its distinct treatment."
+  },
+  {
+    "id": "VMCGR-040",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "Why should Surenthal not be identified as Veltharrow's municipal seat?",
+    "options": {
+      "A": "Surenthal is the highest point.",
+      "B": "Surenthal is the governing body.",
+      "C": "Surenthal is the municipal type.",
+      "D": "Surenthal is the Provincial Capital, and the Provincial Capital is not Veltharrow.",
+      "E": "Surenthal is a special-purpose zone.",
+      "F": "Surenthal is a Council Chamber."
+    },
+    "answer": "D",
+    "evidence": "The Provincial Capital is **Surenthal**. The Provincial Capital is not Veltharrow.",
+    "reasoning": "The document distinguishes Surenthal as the provincial capital rather than Veltharrow itself."
+  },
+  {
+    "id": "VMCGR-041",
+    "type": "explanation",
+    "bloom": "Analyse",
+    "question": "What effect did the grandfathering cutoff in Ordinance C-2005-001 have on certain residential ground-floor uses?",
+    "options": {
+      "A": "They became subject to a 38.5-meter shoreline setback.",
+      "B": "They were converted into business improvement district levies.",
+      "C": "They had to follow the 2019 Census income threshold.",
+      "D": "They were counted as vacant units.",
+      "E": "Residential ground-floor uses legally established as of December 31, 2004 are legal nonconforming uses.",
+      "F": "They became subject to the 0.255 percentage-point sales tax sunset."
+    },
+    "answer": "E",
+    "evidence": "Residential ground-floor uses legally established as of **December 31, 2004** are legal nonconforming uses.",
+    "reasoning": "The ordinance preserved qualifying pre-cutoff residential ground-floor uses as legal nonconforming uses."
+  },
+  {
+    "id": "VMCGR-042",
+    "type": "explanation",
+    "bloom": "Analyse",
+    "question": "What does the sunset provision in Ordinance F-2021-004 say about the sales-tax increase?",
+    "options": {
+      "A": "It made the base rate of 1.218% expire on January 1, 2022.",
+      "B": "It changed the Provincial rate to 7.473%.",
+      "C": "It made the 6.000% Provincial rate permanent.",
+      "D": "It renewed Council terms every 7 years.",
+      "E": "It set the combined rate at 7.218%.",
+      "F": "The 0.255 percentage-point increase is scheduled to expire on December 31, 2029, unless renewed by Council."
+    },
+    "answer": "F",
+    "evidence": "The sunset provision states that the **0.255 percentage-point** increase is scheduled to expire on **December 31, 2029**, unless renewed by Council.",
+    "reasoning": "The document specifies both the amount of the increase and its scheduled expiration unless Council renews it."
+  },
+  {
+    "id": "VMCGR-043",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which assessment ratio is current under Ordinance T-2009-003 rather than a superseded value?",
+    "options": {
+      "A": "73% of fair market value",
+      "B": "71% of fair market value",
+      "C": "65% of fair market value",
+      "D": "60% of municipal median household income",
+      "E": "50% of municipal median household income",
+      "F": "7.5% of total expenditure"
+    },
+    "answer": "A",
+    "evidence": "The new value, effective **Jan 1, 2010**, current, was assessment ratio **73%** of fair market value.",
+    "reasoning": "The document distinguishes 73% as the current assessment ratio, while 71% and 65% are prior values."
+  },
+  {
+    "id": "VMCGR-044",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Among the ward populations listed, which ward has the largest population?",
+    "options": {
+      "A": "Fellwick Ward, 19,644",
+      "B": "Cornrath Ward, 24,831",
+      "C": "Gorrath Ward, 21,088",
+      "D": "Drasswell Ward, 21,849",
+      "E": "Lake Orvaine Reach, 7,587",
+      "F": "Veltharrow total, 87,412"
+    },
+    "answer": "B",
+    "evidence": "Cornrath Ward has population **24,831**. Fellwick Ward has population **19,644**. Gorrath Ward has population **21,088**. Drasswell Ward has population **21,849**.",
+    "reasoning": "Cornrath Ward's 24,831 is larger than the other ward populations."
+  },
+  {
+    "id": "VMCGR-045",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which neighborhood or special-purpose zone has the highest median household income listed?",
+    "options": {
+      "A": "Upper Bryndmere, $84,553",
+      "B": "Cornrath Central, $71,208",
+      "C": "Lake Orvaine Reach, $94,117",
+      "D": "Thornock Rise, $61,882",
+      "E": "Gorrath Ridge, $59,447",
+      "F": "Fellwick South, $53,614"
+    },
+    "answer": "C",
+    "evidence": "Lake Orvaine Reach has median household income **$94,117**.",
+    "reasoning": "Lake Orvaine Reach's median household income is higher than all other listed neighborhood incomes."
+  },
+  {
+    "id": "VMCGR-046",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which ward has the lowest percentage of the municipal total population?",
+    "options": {
+      "A": "Cornrath Ward, 28.41%",
+      "B": "Drasswell Ward, 24.99%",
+      "C": "Gorrath Ward, 24.12%",
+      "D": "Fellwick Ward, 22.47%",
+      "E": "Veltharrow total, 100.00%",
+      "F": "Cornrath Central, 45.12%"
+    },
+    "answer": "D",
+    "evidence": "Fellwick Ward has population **19,644**. Fellwick Ward is **22.47%** of the municipal total.",
+    "reasoning": "Fellwick Ward's 22.47% is lower than the other ward percentages."
+  },
+  {
+    "id": "VMCGR-047",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which municipal sales tax rate is current after Ordinance F-2021-004, rather than the pre-2022 rate?",
+    "options": {
+      "A": "1.218%",
+      "B": "6.000%",
+      "C": "7.218%",
+      "D": "0.255 percentage-point",
+      "E": "1.473%",
+      "F": "7.473%"
+    },
+    "answer": "E",
+    "evidence": "The new value, effective **January 1, 2022**, current, was Municipal Sales Tax Rate **1.473%**.",
+    "reasoning": "The ordinance states 1.473% as the current municipal rate and identifies 1.218% as the old rate."
+  },
+  {
+    "id": "VMCGR-048",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which included ordinance had the narrowest Council vote margin?",
+    "options": {
+      "A": "Ordinance T-2007-001, 7\u20132 in favor",
+      "B": "Ordinance T-2009-003, 6\u20133 in favor",
+      "C": "Ordinance R-2014-007, 8\u20131 in favor",
+      "D": "Ordinance C-2005-001, 9\u20130",
+      "E": "Ordinance SP-2019-001, 7\u20132 in favor",
+      "F": "Ordinance Z-2017-009, 5\u20134 in favor"
+    },
+    "answer": "F",
+    "evidence": "The Council vote was **5\u20134 in favor**. The vote was the narrowest margin of any included ordinance.",
+    "reasoning": "The Z-2017-009 section directly identifies its 5\u20134 vote as the narrowest margin."
+  },
+  {
+    "id": "VMCGR-049",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which executive officer is identified as the longest-serving current officer?",
+    "options": {
+      "A": "Hanna Corwick",
+      "B": "Torben Nallweiss",
+      "C": "Gretchen Pallfort",
+      "D": "Cael Drossmund",
+      "E": "Roswend Talfrey",
+      "F": "Aldwyn Prenthorpe"
+    },
+    "answer": "A",
+    "evidence": "Hanna Corwick is the longest-serving current officer.",
+    "reasoning": "The document explicitly identifies Hanna Corwick as the longest-serving current officer."
+  },
+  {
+    "id": "VMCGR-050",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which Flood Proofing Certificate renewal period is current under Ordinance SP-2019-001?",
+    "options": {
+      "A": "5 years",
+      "B": "7 years",
+      "C": "3-year staggered terms",
+      "D": "4 years",
+      "E": "2 years",
+      "F": "90 days"
+    },
+    "answer": "B",
+    "evidence": "The new value, effective **September 1, 2019**, current, is that Flood Proofing Certificates are renewed every **7 years**.",
+    "reasoning": "The ordinance contrasts the current 7-year renewal period with the earlier 5-year period."
+  },
+  {
+    "id": "VMCGR-051",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "What current maximum building height applies to R-3 structures in Pellgate Flats under the Pellgate Special Height Overlay?",
+    "options": {
+      "A": "28.0 meters",
+      "B": "38.5 meters",
+      "C": "21.0 meters",
+      "D": "9.5 meters",
+      "E": "8.1 meters",
+      "F": "45.0 meters"
+    },
+    "answer": "C",
+    "evidence": "For Pellgate Flats Height Overlay, the new value was maximum building height in R-3, Pellgate Flats, under Pellgate Special Height Overlay, equal to **21.0 meters**.",
+    "reasoning": "The current overlay value is 21.0 meters, while 28.0 meters was the prior standard R-3 value."
+  },
+  {
+    "id": "VMCGR-052",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which shoreline setback is current for Lake Orvaine Reach in Zone PO-1?",
+    "options": {
+      "A": "25.0 meters from ordinary high-water mark",
+      "B": "21.0 meters from ordinary high-water mark",
+      "C": "28.0 meters from ordinary high-water mark",
+      "D": "38.5 meters from ordinary high-water mark",
+      "E": "8.1 meters from ordinary high-water mark",
+      "F": "55 meters from ordinary high-water mark"
+    },
+    "answer": "D",
+    "evidence": "For Lake Orvaine Reach Shoreline Setback, the new value was shoreline setback in Zone PO-1 equal to **38.5 meters** from ordinary high-water mark.",
+    "reasoning": "The document states that 38.5 meters is the new PO-1 shoreline setback, replacing the old 25.0-meter value."
+  },
+  {
+    "id": "VMCGR-053",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "For Gorrath Ridge parcels above 350 m elevation, which current maximum height replaced the old standard R-1 value?",
+    "options": {
+      "A": "9.5 meters",
+      "B": "21.0 meters",
+      "C": "28.0 meters",
+      "D": "38.5 meters",
+      "E": "8.1 meters",
+      "F": "45.0 meters"
+    },
+    "answer": "E",
+    "evidence": "For Gorrath Ridge Maximum Building Height, the new value was maximum building height for Gorrath Ridge parcels above **350 m** elevation equal to **8.1 meters** under the Gorrath Ridgeline View Protection Policy.",
+    "reasoning": "The new current value for such Gorrath Ridge parcels is 8.1 meters, not the former 9.5-meter R-1 standard."
+  },
+  {
+    "id": "VMCGR-054",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which advisory body has more members, and how many does it have?",
+    "options": {
+      "A": "Veltharrow Tax Assessment Board, 3 members",
+      "B": "Veltharrow Municipal Council, 4 members",
+      "C": "Veltharrow Planning Commission, 3 members",
+      "D": "Veltharrow Tax Assessment Board, 7 members",
+      "E": "Veltharrow Municipal Council, 8 members",
+      "F": "Veltharrow Planning Commission, 7 members"
+    },
+    "answer": "F",
+    "evidence": "The Veltharrow Planning Commission has **7 members**. The Veltharrow Tax Assessment Board has **3 members**.",
+    "reasoning": "The Planning Commission has seven members, which is more than the Tax Assessment Board's three."
+  },
+  {
+    "id": "VMCGR-055",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which listed employment sector category has the largest percentage?",
+    "options": {
+      "A": "All Other, 28.4%",
+      "B": "Healthcare & Social Services, 18.3%",
+      "C": "Retail Trade, 14.7%",
+      "D": "Manufacturing, 12.1%",
+      "E": "Education, 11.4%",
+      "F": "Construction, 8.8%"
+    },
+    "answer": "A",
+    "evidence": "All Other is an employment sector with **28.4%**.",
+    "reasoning": "The All Other category's 28.4% exceeds every other listed employment-sector percentage."
+  },
+  {
+    "id": "VMCGR-056",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which expenditure line has the highest amount among the listed FY2024 expenditure lines?",
+    "options": {
+      "A": "Public Works & Infrastructure, $14,882,300",
+      "B": "Municipal Guard, Public Safety, $17,338,200",
+      "C": "Fire & Emergency Services, $12,447,100",
+      "D": "Capital Improvement Projects, $11,208,400",
+      "E": "Education Contribution, to Province, $9,774,500",
+      "F": "Debt Service, Principal & Interest, $9,413,700"
+    },
+    "answer": "B",
+    "evidence": "Municipal Guard, Public Safety, has amount **$17,338,200**.",
+    "reasoning": "Municipal Guard's $17,338,200 is higher than the other expenditure amounts listed."
+  },
+  {
+    "id": "VMCGR-057",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A business has 18 employees. Under the business license schedule, which tier and annual fee apply?",
+    "options": {
+      "A": "Tier 1, $312",
+      "B": "Tier 3, $2,218",
+      "C": "Tier 2, $874",
+      "D": "Tier 4, $5,507",
+      "E": "Tier 2, $312",
+      "F": "Tier 3, $874"
+    },
+    "answer": "C",
+    "evidence": "Tier **2** applies to **5\u201319 employees**. Tier **2** has an annual fee of **$874**.",
+    "reasoning": "Eighteen employees falls within the 5\u201319 employee range, so Tier 2 and its $874 fee apply."
+  },
+  {
+    "id": "VMCGR-058",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A business has 105 employees. Under the business license schedule, what annual fee applies?",
+    "options": {
+      "A": "$312",
+      "B": "$874",
+      "C": "$2,218",
+      "D": "$5,507",
+      "E": "$1,546,100",
+      "F": "$2,213,800"
+    },
+    "answer": "D",
+    "evidence": "Tier **4** applies to **100+ employees**. Tier **4** has an annual fee of **$5,507**.",
+    "reasoning": "A 105-employee business falls in the 100+ employee tier, which carries a $5,507 annual fee."
+  },
+  {
+    "id": "VMCGR-059",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "Using only the general municipal levy, what tax is due on a property with $200,000 fair market value under the current 73% assessment ratio and 14.73-mill general levy?",
+    "options": {
+      "A": "$1,914.90",
+      "B": "$2,091.66",
+      "C": "$2,150.58",
+      "D": "$2,622.90",
+      "E": "$2,150.58",
+      "F": "$2,714.10"
+    },
+    "answer": "E",
+    "evidence": "Assessed value is **73%** of fair market value. The General Municipal Levy Rate is **14.73 mills**. All property tax rates are expressed per **$1,000** of assessed value.",
+    "reasoning": "The assessed value is $146,000, and 146 thousands multiplied by 14.73 mills equals $2,150.58."
+  },
+  {
+    "id": "VMCGR-060",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A Lake Orvaine Reach property has a fair market value of $300,000. Using the 73% assessment ratio and the 18.90-mill total effective rate, what tax is due?",
+    "options": {
+      "A": "$4,025.70",
+      "B": "$3,979.23",
+      "C": "$3,845.64",
+      "D": "$4,304.10",
+      "E": "$3,225.87",
+      "F": "$4,139.10"
+    },
+    "answer": "F",
+    "evidence": "Assessed value is **73%** of fair market value. Lake Orvaine Reach has a total effective rate of **18.90 mills**. All property tax rates are expressed per **$1,000** of assessed value.",
+    "reasoning": "The assessed value is $219,000, and 219 thousands multiplied by 18.90 mills equals $4,139.10."
+  },
+  {
+    "id": "VMCGR-061",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "For a $100 taxable purchase subject to the combined current sales tax rate, how much sales tax is charged?",
+    "options": {
+      "A": "$7.473",
+      "B": "$6.000",
+      "C": "$1.473",
+      "D": "$7.218",
+      "E": "$1.218",
+      "F": "$0.255"
+    },
+    "answer": "A",
+    "evidence": "The combined rate is **7.473%**.",
+    "reasoning": "Applying a 7.473% combined rate to $100 yields $7.473 in tax."
+  },
+  {
+    "id": "VMCGR-062",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A residential ground-floor use in Zone C-3 was legally established on December 31, 2004. Under Ordinance C-2005-001, what status does it have?",
+    "options": {
+      "A": "It is prohibited without exception.",
+      "B": "It is a legal nonconforming use.",
+      "C": "It is subject to the 38.5-meter shoreline setback.",
+      "D": "It is renewed every 7 years.",
+      "E": "It must pay the 4.17-mill shoreline preservation assessment.",
+      "F": "It qualifies as a 100% active commercial frontage."
+    },
+    "answer": "B",
+    "evidence": "Residential ground-floor uses legally established as of **December 31, 2004** are legal nonconforming uses.",
+    "reasoning": "Because the use existed legally on the cutoff date, the ordinance treats it as legal nonconforming."
+  },
+  {
+    "id": "VMCGR-063",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A Gorrath Ridge parcel is above 350 m elevation. What maximum building height applies under Ordinance Z-2017-009?",
+    "options": {
+      "A": "9.5 meters",
+      "B": "21.0 meters",
+      "C": "8.1 meters",
+      "D": "28.0 meters",
+      "E": "38.5 meters",
+      "F": "45.0 meters"
+    },
+    "answer": "C",
+    "evidence": "For Gorrath Ridge Maximum Building Height, the new value was maximum building height for Gorrath Ridge parcels above **350 m** elevation equal to **8.1 meters** under the Gorrath Ridgeline View Protection Policy.",
+    "reasoning": "The scenario matches the above-350 m Gorrath Ridge condition, so the 8.1-meter limit applies."
+  },
+  {
+    "id": "VMCGR-064",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A proposed R-3 building is in Pellgate Flats under the Pellgate Special Height Overlay. What maximum height applies?",
+    "options": {
+      "A": "28.0 meters or 8 stories",
+      "B": "38.5 meters from ordinary high-water mark",
+      "C": "8.1 meters under the Gorrath Ridgeline View Protection Policy",
+      "D": "21.0 meters, or 6 stories",
+      "E": "9.5 meters, the same as standard R-1",
+      "F": "25.0 meters from ordinary high-water mark"
+    },
+    "answer": "D",
+    "evidence": "For Pellgate Flats Height Overlay, the new value was maximum building height in R-3, Pellgate Flats, under Pellgate Special Height Overlay, equal to **21.0 meters**. For Pellgate Flats Height Overlay, the new value was **6 stories**.",
+    "reasoning": "Because the building is in Pellgate Flats under the overlay, the 21.0-meter and 6-story limit governs."
+  },
+  {
+    "id": "VMCGR-065",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A new structure is proposed in Lake Orvaine Reach under Zone PO-1. What shoreline setback must be used?",
+    "options": {
+      "A": "25.0 meters from ordinary high-water mark",
+      "B": "21.0 meters from ordinary high-water mark",
+      "C": "28.0 meters from ordinary high-water mark",
+      "D": "8.1 meters from ordinary high-water mark",
+      "E": "38.5 meters from ordinary high-water mark",
+      "F": "55 meters from ordinary high-water mark"
+    },
+    "answer": "E",
+    "evidence": "For Lake Orvaine Reach Shoreline Setback, the new value was shoreline setback in Zone PO-1 equal to **38.5 meters** from ordinary high-water mark.",
+    "reasoning": "The scenario falls under Zone PO-1 in Lake Orvaine Reach, so the current 38.5-meter shoreline setback applies."
+  },
+  {
+    "id": "VMCGR-066",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A Flood Proofing Certificate issued on September 1, 2019 follows the current 7-year renewal period. On what date would renewal be due?",
+    "options": {
+      "A": "September 1, 2024",
+      "B": "April 30, 2026",
+      "C": "January 1, 2026",
+      "D": "December 31, 2029",
+      "E": "September 1, 2027",
+      "F": "September 1, 2026"
+    },
+    "answer": "F",
+    "evidence": "The new value, effective **September 1, 2019**, current, is that Flood Proofing Certificates are renewed every **7 years**.",
+    "reasoning": "Adding seven years to September 1, 2019 gives September 1, 2026."
+  },
+  {
+    "id": "VMCGR-067",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "For a Drasswell Common flood-proofing case with base flood elevation 97.4 m AMSL, what minimum lowest habitable floor elevation is required under SP-2019-001?",
+    "options": {
+      "A": "98.2 m AMSL",
+      "B": "97.9 m AMSL",
+      "C": "97.4 m AMSL",
+      "D": "0.8 m AMSL",
+      "E": "0.5 m AMSL",
+      "F": "55 m AMSL"
+    },
+    "answer": "A",
+    "evidence": "The minimum base flood elevation standard codified by the ordinance is lowest habitable floor equal to base flood elevation **97.4 m AMSL** plus **0.8 m**, equal to **98.2 m AMSL**.",
+    "reasoning": "The ordinance states the calculation and resulting minimum directly as 98.2 m AMSL."
+  },
+  {
+    "id": "VMCGR-068",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "For Zone R-2 density bonus qualification after Ordinance R-2014-007, what income threshold applies to affordable units based on the 2019 Census figure?",
+    "options": {
+      "A": "\u2264 $29,372",
+      "B": "\u2264 $35,246",
+      "C": "\u2264 $58,743",
+      "D": "\u2264 $67,291",
+      "E": "\u2264 $27,614",
+      "F": "\u2264 $94,117"
+    },
+    "answer": "B",
+    "evidence": "The new value is **\u2264 $35,246** based on the **2019 census** figure of **$58,743**.",
+    "reasoning": "The ordinance gives the current income threshold as \u2264 $35,246, derived from 60% of the municipal median household income."
+  },
+  {
+    "id": "VMCGR-069",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A Council record says an ordinance adopted a 6\u20133 vote to fund the Drasswell Pond Flood Mitigation Capital Program through the municipal sales tax. Which current municipal sales tax rate resulted?",
+    "options": {
+      "A": "1.218%",
+      "B": "6.000%",
+      "C": "1.473%",
+      "D": "7.218%",
+      "E": "7.473%",
+      "F": "0.255 percentage-point"
+    },
+    "answer": "C",
+    "evidence": "The Council vote was **6\u20133 in favor**. The subject was the municipal sales tax rate to fund the Drasswell Pond Flood Mitigation Capital Program. The new value, effective **January 1, 2022**, current, was Municipal Sales Tax Rate **1.473%**.",
+    "reasoning": "The scenario identifies Ordinance F-2021-004, whose current municipal sales tax rate is 1.473%."
+  },
+  {
+    "id": "VMCGR-070",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A property in Wyndmere Spur is assessed under the current total effective property tax rate for that district. Which rate and district note govern it?",
+    "options": {
+      "A": "16.84 mills; business improvement district levy",
+      "B": "18.90 mills; shoreline preservation assessment",
+      "C": "17.56 mills; Drasswell Pond flood mitigation levy",
+      "D": "16.35 mills; road improvement district",
+      "E": "15.27 mills; minimal special district",
+      "F": "14.73 mills; no special district levy"
+    },
+    "answer": "D",
+    "evidence": "Wyndmere Spur has a total effective rate of **16.35 mills**. Wyndmere Spur has a road improvement district.",
+    "reasoning": "The scenario names Wyndmere Spur, so its listed total effective rate and district note are 16.35 mills and road improvement district."
+  },
+  {
+    "id": "VMCGR-071",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the total municipal perimeter recorded for Veltharrow in Article III?",
+    "options": {
+      "A": "61.2 kilometers",
+      "B": "118.37 kilometers",
+      "C": "112.84 kilometers",
+      "D": "14.3 kilometers",
+      "E": "4.7 kilometers",
+      "F": "5.53 kilometers"
+    },
+    "answer": "A",
+    "evidence": "The municipal perimeter is **61.2 kilometers**.",
+    "reasoning": "Article III Section 3 states the municipal perimeter is 61.2 km. The other options are area, water-area, road-length, or creek-length figures."
+  },
+  {
+    "id": "VMCGR-072",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the length of Fellwick Creek within the Veltharrow municipal boundary?",
+    "options": {
+      "A": "2.1 km",
+      "B": "14.3 km",
+      "C": "4.7 km",
+      "D": "8.7 km",
+      "E": "61.2 km",
+      "F": "5.53 km"
+    },
+    "answer": "B",
+    "evidence": "Fellwick Creek has **14.3 km** within the municipal boundary.",
+    "reasoning": "Article III Section 5 states 14.3 km. Options A, C, D, E, F are other geographic measurements in the document."
+  },
+  {
+    "id": "VMCGR-073",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "On what date did Hanna Corwick begin her term as Municipal Clerk?",
+    "options": {
+      "A": "March 15, 2017",
+      "B": "September 2, 2019",
+      "C": "January 10, 2011",
+      "D": "June 1, 2015",
+      "E": "August 14, 2018",
+      "F": "July 1, 2020"
+    },
+    "answer": "C",
+    "evidence": "Hanna Corwick's term start date is **January 10, 2011**.",
+    "reasoning": "Article V Section 3 lists Corwick's start as January 10, 2011. All other options are term-start dates of other executive officers."
+  },
+  {
+    "id": "VMCGR-074",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the Gini coefficient recorded for Veltharrow in Article X?",
+    "options": {
+      "A": "0.4138",
+      "B": "0.3418",
+      "C": "0.4381",
+      "D": "0.3841",
+      "E": "0.3814",
+      "F": "0.3481"
+    },
+    "answer": "D",
+    "evidence": "The Gini coefficient is **0.3841**.",
+    "reasoning": "Article X Section 3 records 0.3841. The distractors are digit-permutations of the same four digits, requiring exact recall."
+  },
+  {
+    "id": "VMCGR-075",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the recorded area of Drasswell Pond?",
+    "options": {
+      "A": "5.53 square kilometers",
+      "B": "2.1 kilometers",
+      "C": "3.14 square kilometers",
+      "D": "14.3 kilometers",
+      "E": "8.7 hectares",
+      "F": "4.7 hectares"
+    },
+    "answer": "E",
+    "evidence": "Drasswell Pond has **8.7 hectares**.",
+    "reasoning": "Article III Section 5 records Drasswell Pond at 8.7 hectares. The other options use different units or are lengths/areas of other geographic features."
+  },
+  {
+    "id": "VMCGR-076",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What total population is obtained by summing all four ward populations listed in the 2019 Census ward table?",
+    "options": {
+      "A": "87,212",
+      "B": "87,042",
+      "C": "88,412",
+      "D": "86,412",
+      "E": "87,512",
+      "F": "87,412"
+    },
+    "answer": "F",
+    "evidence": "Cornrath 24,831 + Fellwick 19,644 + Gorrath 21,088 + Drasswell 21,849 = **87,412**.",
+    "reasoning": "Summing the four ward figures exactly matches the municipal total of 87,412. All distractors differ by small offsets that could result from arithmetic errors."
+  },
+  {
+    "id": "VMCGR-077",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What is the combined count of owner-occupied and renter-occupied dwelling units?",
+    "options": {
+      "A": "35,205",
+      "B": "38,489",
+      "C": "36,847",
+      "D": "35,025",
+      "E": "35,520",
+      "F": "34,405"
+    },
+    "answer": "A",
+    "evidence": "Owner-occupied 21,304 + Renter-occupied 13,901 = **35,205**.",
+    "reasoning": "Article X Section 2. 36,847 is total households; 38,489 is total dwelling units (including vacant); 35,025 and 35,520 are off-by-a-few traps."
+  },
+  {
+    "id": "VMCGR-078",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What is the difference between the mean household income and the median household income for Veltharrow?",
+    "options": {
+      "A": "$8,848",
+      "B": "$8,548",
+      "C": "$8,458",
+      "D": "$7,548",
+      "E": "$8,254",
+      "F": "$9,548"
+    },
+    "answer": "B",
+    "evidence": "Mean $67,291 \u2212 Median $58,743 = **$8,548**.",
+    "reasoning": "Article X Section 3 gives both values. Distractors use digit transpositions or nearby round numbers."
+  },
+  {
+    "id": "VMCGR-079",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What combined percentage of total revenue do the two property tax line items (General Levy plus Special District Levies) represent?",
+    "options": {
+      "A": "40.29%",
+      "B": "41.29%",
+      "C": "42.29%",
+      "D": "43.29%",
+      "E": "42.19%",
+      "F": "42.39%"
+    },
+    "answer": "C",
+    "evidence": "Property Tax General Levy 35.90% + Special District Levies 6.39% = **42.29%**.",
+    "reasoning": "Article XII Section 3. Options A/B/D are off by whole-percent steps; E and F are off by small decimal amounts."
+  },
+  {
+    "id": "VMCGR-080",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What total population results from adding Fellwick South and Thornock Rise, and which ward does this total correspond to?",
+    "options": {
+      "A": "19,744; Fellwick Ward",
+      "B": "19,544; Fellwick Ward",
+      "C": "19,644; Gorrath Ward",
+      "D": "19,644; Fellwick Ward",
+      "E": "19,844; Fellwick Ward",
+      "F": "20,644; Fellwick Ward"
+    },
+    "answer": "D",
+    "evidence": "Fellwick South 9,871 + Thornock Rise 9,773 = **19,644**, which equals Fellwick Ward's total population.",
+    "reasoning": "Article IX Sections 5 and 3. Option C uses the correct sum but wrong ward; A, B, E, F have arithmetic errors."
+  },
+  {
+    "id": "VMCGR-081",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "Which ordinance established the assessment ratio that is currently operative in FY2024?",
+    "options": {
+      "A": "Ordinance T-2007-001",
+      "B": "Ordinance Z-2017-009",
+      "C": "Ordinance R-2014-007",
+      "D": "Ordinance C-2005-001",
+      "E": "Ordinance T-2009-003",
+      "F": "Ordinance F-2021-004"
+    },
+    "answer": "E",
+    "evidence": "The statutory basis for the current assessment ratio is **Ordinance T-2009-003**.",
+    "reasoning": "T-2007-001 set 71%, later superseded. T-2009-003 set the current 73%. The other ordinances address zoning, sales tax, or commercial use requirements."
+  },
+  {
+    "id": "VMCGR-082",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What specific change did Ordinance R-2014-007 make to the Zone R-2 density bonus provisions?",
+    "options": {
+      "A": "Raised the maximum density from 24 to 31 du/ha with no conditions",
+      "B": "Lowered the affordable-unit threshold from 20% to 15%",
+      "C": "Changed the senior housing density cap from 34 to 31 du/ha",
+      "D": "Extended the grandfathering cutoff date to December 31, 2014",
+      "E": "Raised the income threshold for affordable units from \u226450% to \u226460% of municipal median income",
+      "F": "Changed the assessment ratio basis for affordable-unit calculations"
+    },
+    "answer": "F",
+    "evidence": "Ordinance R-2014-007 changed the affordable housing income threshold from **\u2264 50%** to **\u2264 60%** of municipal median household income.",
+    "reasoning": "Article XIII Section 3. The ordinance changed only the income threshold, not densities, percentages of affordable-unit share, or the grandfathering date."
+  },
+  {
+    "id": "VMCGR-083",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What was historically significant about the Vanthorpe family cabin as recorded in Article II?",
+    "options": {
+      "A": "It was the first structure built after official incorporation in 1857",
+      "B": "It housed the first municipal schoolhouse on Cornrath Street",
+      "C": "It was the first permanent dwelling recorded, in the Gorrath Ridge area, on March 3, 1844",
+      "D": "It was demolished to make way for the Veltharrow Civic Hall in 2003",
+      "E": "It was the site of the first zoning boundaries drawn in 1883",
+      "F": "It was associated with the construction of the Vanthorpe sawmill in 1851"
+    },
+    "answer": "C",
+    "evidence": "The first permanent dwelling recorded was the **Vanthorpe family cabin** in the **Gorrath Ridge area** on **March 3, 1844**.",
+    "reasoning": "Article II Section 2. The sawmill was constructed in 1844 separately; the schoolhouse was 1863 on Cornrath Street; the cabin predates incorporation."
+  },
+  {
+    "id": "VMCGR-084",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "In what capacity does Ysabel Frondtke serve on the Veltharrow Planning Commission, and what does that role entail regarding voting?",
+    "options": {
+      "A": "Appointed member; full voting rights",
+      "B": "Chair ex officio; non-voting",
+      "C": "Vice-Chair; non-voting",
+      "D": "Chair; voting only on tie-breaking matters",
+      "E": "Secretary; no voting or attendance requirement",
+      "F": "Appointed member; voting only on land-use amendments"
+    },
+    "answer": "B",
+    "evidence": "Ysabel Frondtke serves as Chair **ex officio** and is **non-voting**.",
+    "reasoning": "Article VII Section 1 states Frondtke serves ex officio, non-voting. Dunstan Worrall is the appointed Vice-Chair."
+  },
+  {
+    "id": "VMCGR-085",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What was the stated purpose of the Second Charter Revision of 1948?",
+    "options": {
+      "A": "It expanded the ward system to four wards",
+      "B": "It established Second-Class Charter status",
+      "C": "It shortened the municipal name to Veltharrow",
+      "D": "It was a post-war administrative reform",
+      "E": "It constituted the first zoning boundaries",
+      "F": "It relocated the municipal seat to 14 Cornrath Square"
+    },
+    "answer": "D",
+    "evidence": "The Second Charter Revision occurred on November 19, 1948, and constituted **post-war administrative reform**.",
+    "reasoning": "Article II Section 5. The ward expansion was 1901; Second-Class status was 1974; the name shortening was 1883; zoning was 1883; relocation was 2003."
+  },
+  {
+    "id": "VMCGR-086",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which sub-district has the highest total effective property tax rate in FY2024?",
+    "options": {
+      "A": "Pellgate Flats at 18.17 mills",
+      "B": "Drasswell Common at 17.56 mills",
+      "C": "Cornrath Central at 16.84 mills",
+      "D": "Lake Orvaine Reach at 18.90 mills",
+      "E": "Wyndmere Spur at 16.35 mills",
+      "F": "Fellwick South at 16.00 mills"
+    },
+    "answer": "D",
+    "evidence": "Lake Orvaine Reach has a total effective rate of **18.90 mills**, the highest in the schedule.",
+    "reasoning": "Article XI Section 2. Pellgate Flats (18.17) is second-highest; Lake Orvaine Reach (18.90) exceeds it due to the 4.17-mill shoreline preservation assessment."
+  },
+  {
+    "id": "VMCGR-087",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which executive officer is explicitly identified as the longest-serving current officer, and when did they begin that role?",
+    "options": {
+      "A": "Torben Nallweiss, June 1, 2015",
+      "B": "Gretchen Pallfort, March 15, 2017",
+      "C": "Roswend Talfrey, September 2, 2019",
+      "D": "Cael Drossmund, August 14, 2018",
+      "E": "Hanna Corwick, January 10, 2011",
+      "F": "Aldwyn Prenthorpe, November 3, 2020"
+    },
+    "answer": "E",
+    "evidence": "Hanna Corwick is the **longest-serving current officer**, with term start **January 10, 2011**.",
+    "reasoning": "Article V Section 3 notes this explicitly. While Nallweiss (2015) and Pallfort (2017) are also long-serving, only Corwick carries the designation."
+  },
+  {
+    "id": "VMCGR-088",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Among the four councillors who voted against Ordinance Z-2017-009, which two hold seats with term end dates of January 7, 2028?",
+    "options": {
+      "A": "Prinna Valcourt and Marthyl Dunnegan",
+      "B": "Marthyl Dunnegan and Rund Pallister",
+      "C": "Prinna Valcourt and Rund Pallister",
+      "D": "Jorvyn Crellweiss and Tove Hasseldorf",
+      "E": "Emmelyn Foscroft and Linne Orvak",
+      "F": "Rund Pallister and Oresten Bluffe"
+    },
+    "answer": "F",
+    "evidence": "Rund Pallister (Seat 4A) and Oresten Bluffe (Seat 1B) both have term end **January 7, 2028**. Valcourt (1A) and Dunnegan (2A) end January 5, 2026.",
+    "reasoning": "Article VI cross-referenced with Article XIII Section 4. The dissenting four are Pallister, Valcourt, Dunnegan, Bluffe. Matching seats to term ends identifies Pallister and Bluffe as the 2028 pair."
+  },
+  {
+    "id": "VMCGR-089",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which employment sector ranks second-largest by share in the 2019 Census labor reference?",
+    "options": {
+      "A": "Retail Trade at 14.7%",
+      "B": "Manufacturing at 12.1%",
+      "C": "Education at 11.4%",
+      "D": "Construction at 8.8%",
+      "E": "Public Administration at 6.3%",
+      "F": "Healthcare & Social Services at 18.3%"
+    },
+    "answer": "A",
+    "evidence": "Healthcare & Social Services leads at 18.3%; **Retail Trade at 14.7%** is second.",
+    "reasoning": "Article X Section 5 lists all sectors. Option F is the largest, not second-largest; options B\u2013E are all smaller than Retail Trade."
+  },
+  {
+    "id": "VMCGR-090",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which age group has the smallest absolute population in the 2019 Census age-structure table?",
+    "options": {
+      "A": "65+ at 16,593",
+      "B": "15\u201324 at 10,241",
+      "C": "0\u201314 at 14,823",
+      "D": "45\u201364 at 22,037",
+      "E": "25\u201344 at 23,718",
+      "F": "65+ at 14,823"
+    },
+    "answer": "B",
+    "evidence": "The **15\u201324 age group** has population **10,241**, the smallest of the five groups.",
+    "reasoning": "Article X Section 1. The five populations are: 14,823 / 10,241 / 23,718 / 22,037 / 16,593. Option F incorrectly pairs 65+ with 0\u201314's number."
+  },
+  {
+    "id": "VMCGR-091",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A property in Upper Bryndmere has a fair market value of $400,000. What is the total FY2024 property tax owed, rounded to the nearest dollar?",
+    "options": {
+      "A": "$4,818",
+      "B": "$4,394",
+      "C": "$4,558",
+      "D": "$4,738",
+      "E": "$5,106",
+      "F": "$4,678"
+    },
+    "answer": "C",
+    "evidence": "AV = $400,000 \u00d7 0.73 = $292,000; rate = 15.61 mills; tax = $292,000 \u00d7 15.61 \u00f7 1,000 = **$4,558.12 \u2248 $4,558**.",
+    "reasoning": "Article XI Sections 1\u20132. Upper Bryndmere rate is 15.61 mills (14.73 + 0.88). The other options result from using wrong rates or wrong assessment ratios."
+  },
+  {
+    "id": "VMCGR-092",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A property in Gorrath Ridge has a fair market value of $250,000. What is the total FY2024 property tax owed, rounded to the nearest dollar?",
+    "options": {
+      "A": "$3,412",
+      "B": "$3,044",
+      "C": "$2,869",
+      "D": "$2,688",
+      "E": "$3,183",
+      "F": "$2,500"
+    },
+    "answer": "D",
+    "evidence": "AV = $250,000 \u00d7 0.73 = $182,500; rate = 14.73 mills (no special district); tax = $182,500 \u00d7 14.73 \u00f7 1,000 = **$2,688.23 \u2248 $2,688**.",
+    "reasoning": "Gorrath Ridge has a special district levy of 0.00 mills, so only the general levy applies. Other options add a special levy or use wrong FMV ratio."
+  },
+  {
+    "id": "VMCGR-093",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A business on Cornrath Avenue has 105 employees. Under the FY2024 business license fee schedule, which tier and annual fee apply?",
+    "options": {
+      "A": "Tier 3, $2,218",
+      "B": "Tier 2, $874",
+      "C": "Tier 3, $5,507",
+      "D": "Tier 4, $2,218",
+      "E": "Tier 4, $5,507",
+      "F": "Tier 1, $312"
+    },
+    "answer": "E",
+    "evidence": "Tier 4 applies to **100+ employees**; the annual fee is **$5,507**.",
+    "reasoning": "Article XI Section 4. 105 employees falls in Tier 4 (100+). Options C and D mix tiers with wrong fees from other tiers."
+  },
+  {
+    "id": "VMCGR-094",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "If Ordinance F-2021-004's 0.255 percentage-point sales tax increase expires as scheduled on December 31, 2029, what combined sales tax rate will apply from January 1, 2030?",
+    "options": {
+      "A": "7.473%",
+      "B": "6.000%",
+      "C": "6.755%",
+      "D": "7.473%",
+      "E": "1.218%",
+      "F": "7.218%"
+    },
+    "answer": "F",
+    "evidence": "Base municipal rate 1.218% + Provincial 6.000% = **7.218%** combined rate after expiry.",
+    "reasoning": "Article XIII Section 6. The sunset removes the 0.255 pp increase, leaving 1.218% municipal + unchanged 6.000% provincial. Option A is the current (pre-sunset) rate."
+  },
+  {
+    "id": "VMCGR-095",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A developer plans a structure at 390 meters elevation on a Gorrath Ridge parcel in the R-1 zone. Under current rules, what is the maximum permitted building height?",
+    "options": {
+      "A": "8.1 meters",
+      "B": "9.5 meters",
+      "C": "4.2 meters",
+      "D": "8.5 meters",
+      "E": "21.0 meters",
+      "F": "28.0 meters"
+    },
+    "answer": "A",
+    "evidence": "Parcels on Gorrath Ridge **above 350 m elevation** are subject to **8.1 meters** maximum under the Gorrath Ridgeline View Protection Policy (Ordinance Z-2017-009 Exception R-1.2(b)).",
+    "reasoning": "390 m > 350 m threshold. 9.5 m is the standard R-1 height that was superseded for these parcels. 4.2 m is the accessory-structure limit. 8.5 m and others are from different zones."
+  },
+  {
+    "id": "VMCGR-096",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "Which of the four councillors who voted against Ordinance Z-2017-009 represents Drasswell Ward?",
+    "options": {
+      "A": "Marthyl Dunnegan",
+      "B": "Rund Pallister",
+      "C": "Prinna Valcourt",
+      "D": "Jorvyn Crellweiss",
+      "E": "Oresten Bluffe",
+      "F": "Emmelyn Foscroft"
+    },
+    "answer": "B",
+    "evidence": "Rund Pallister holds **Seat 4A in Drasswell Ward** and is one of the four named dissenting voters.",
+    "reasoning": "Article XIII Section 4 names the dissenters; Article VI maps seats to wards. Dunnegan is Fellwick; Valcourt is Cornrath; Bluffe is also Cornrath. Crellweiss and Foscroft were not dissenters."
+  },
+  {
+    "id": "VMCGR-097",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A new residential building is planned 40 meters from the SP-1 zone boundary in Drasswell Common. What minimum lowest habitable floor elevation must it meet?",
+    "options": {
+      "A": "97.4 m AMSL",
+      "B": "97.9 m AMSL",
+      "C": "98.2 m AMSL",
+      "D": "98.4 m AMSL",
+      "E": "96.9 m AMSL",
+      "F": "The rule does not apply at 40 meters distance"
+    },
+    "answer": "C",
+    "evidence": "Within **55 meters** of a SP-1 boundary, the minimum habitable floor is **98.2 m AMSL** (base flood elevation 97.4 m + 0.8 m).",
+    "reasoning": "Article XIII Section 7. 40 m < 55 m, so SP-1.2 applies. 97.9 m was the old standard under the 2012 policy. 97.4 m is the base flood elevation itself."
+  },
+  {
+    "id": "VMCGR-098",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A Flood Proofing Certificate in Drasswell Common was issued on October 1, 2020, under Ordinance SP-2019-001. What is the latest date by which renewal must occur to keep the certificate current?",
+    "options": {
+      "A": "October 1, 2025",
+      "B": "September 1, 2026",
+      "C": "October 1, 2027",
+      "D": "October 1, 2024",
+      "E": "September 1, 2027",
+      "F": "October 1, 2029"
+    },
+    "answer": "C",
+    "evidence": "Flood Proofing Certificates are renewed every **7 years**; issued October 1, 2020 \u2192 renewal by **October 1, 2027**.",
+    "reasoning": "Article XIII Section 7. The old period was 5 years (option D would result: 2025). Option B uses the ordinance effective date instead of the certificate issue date."
+  },
+  {
+    "id": "VMCGR-099",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A household earns $34,000 annually. Under the current Zone R-2 affordable housing income threshold established by Ordinance R-2014-007, does this household qualify for units counting toward the density bonus?",
+    "options": {
+      "A": "No, because the threshold is \u2264 $33,246",
+      "B": "No, because the threshold is \u2264 50% of median income (\u2264 $29,372)",
+      "C": "Yes, but only under the pre-2014 threshold, not the current one",
+      "D": "No, because the threshold requires \u2264 $30,000 in the 2024 reference year",
+      "E": "Yes, because $34,000 is below the current threshold of \u2264 $35,246",
+      "F": "Yes, but only if the unit is also senior housing"
+    },
+    "answer": "E",
+    "evidence": "$34,000 < **$35,246** (\u2264 60% of $58,743 median). The household qualifies under the current threshold.",
+    "reasoning": "Article XIII Section 3. $35,246 is the canonical dollar expression. Option B uses the pre-2014 threshold of \u2264 50%. Option A has a wrong dollar figure."
+  },
+  {
+    "id": "VMCGR-100",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "The Cornrath Central Ground-Floor Commercial Activation Ordinance (C-2005-001) prohibits residential units at ground level on specified frontages. A building has a legally established residential ground-floor use dating from November 12, 2004. What is its status under current rules?",
+    "options": {
+      "A": "It must be converted to commercial use by January 1, 2010",
+      "B": "It is a legal nonconforming use and may continue but cannot expand its residential footprint",
+      "C": "It must be converted within five years of the ordinance effective date",
+      "D": "It is permitted as of right because it predates the 2017 zoning amendment",
+      "E": "It is prohibited immediately because it was not registered before July 1, 2005",
+      "F": "It may expand its residential footprint by up to 12% of street frontage width"
+    },
+    "answer": "B",
+    "evidence": "Uses legally established as of **December 31, 2004** are **legal nonconforming** uses and may continue but may **not expand** the residential footprint.",
+    "reasoning": "Article XIII Section 5. November 12, 2004 is before the December 31, 2004 grandfathering cutoff, so the use is protected as nonconforming. The 12% exception applies to lobby entrances, not residential expansions."
+  }
+]

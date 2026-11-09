@@ -1,0 +1,648 @@
+[
+  {
+    "id": "FF-A01",
+    "bucket": "answerable",
+    "document_id": "charter",
+    "question": "What is the official municipal type of Veltharrow?",
+    "gold_answer": "Second-Class Charter Municipality.",
+    "gold_keywords": ["second-class", "charter"],
+    "gold_chunks": ["charter_chunk_00001", "charter_chunk_00002"]
+  },
+  {
+    "id": "FF-A02",
+    "bucket": "answerable",
+    "document_id": "charter",
+    "question": "On what date did Veltharrow officially incorporate, and under what instrument?",
+    "gold_answer": "September 14, 1857, under Resolution No. 31-1857 of the Orvaine Province Territorial Council.",
+    "gold_keywords": ["September 14, 1857", "Resolution No. 31-1857", "Orvaine"],
+    "gold_chunks": ["charter_chunk_00001", "charter_chunk_00002"]
+  },
+  {
+    "id": "FF-A03",
+    "bucket": "answerable",
+    "document_id": "charter",
+    "question": "Who is the current Municipal Manager of Veltharrow?",
+    "gold_answer": "Gretchen Pallfort.",
+    "gold_keywords": ["Gretchen Pallfort"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-A04",
+    "bucket": "answerable",
+    "document_id": "budget",
+    "question": "What is the total adopted budget for FY2024?",
+    "gold_answer": "$114,837,500.",
+    "gold_keywords": ["114,837,500"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-A05",
+    "bucket": "answerable",
+    "document_id": "budget",
+    "question": "What is Veltharrow's bond rating as of FY2024?",
+    "gold_answer": "A2 (stable), per the Drenmoor Municipal Bond Authority.",
+    "gold_keywords": ["A2", "stable"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-A06",
+    "bucket": "answerable",
+    "document_id": "zoning",
+    "question": "What is the standard minimum lot area in the R-1 Low-Density Residential District?",
+    "gold_answer": "695 square meters per dwelling unit.",
+    "gold_keywords": ["695", "square meters"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-A07",
+    "bucket": "answerable",
+    "document_id": "zoning",
+    "question": "What is the standard maximum density in the R-2 Medium-Density Residential District?",
+    "gold_answer": "24 dwelling units per hectare of net lot area.",
+    "gold_keywords": ["24", "dwelling units per hectare"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-A08",
+    "bucket": "answerable",
+    "document_id": "ordinances",
+    "question": "What did Ordinance C-2005-001 require regarding ground-floor uses on Cornrath Avenue and Drasswell Road in Zone C-3?",
+    "gold_answer": "It required that 100% of ground-floor street frontage on those streets be active commercial, dining, or civic use; residential units at ground floor are prohibited.",
+    "gold_keywords": ["100%", "ground-floor", "commercial", "dining", "civic"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-A09",
+    "bucket": "answerable",
+    "document_id": "ordinances",
+    "question": "What is the current operative property-tax assessment ratio in Veltharrow and which ordinance established it?",
+    "gold_answer": "73% of fair market value, established by Ordinance T-2009-003 effective January 1, 2010.",
+    "gold_keywords": ["73%", "T-2009-003"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-A10",
+    "bucket": "answerable",
+    "document_id": "budget",
+    "question": "What is the General Municipal Levy property tax rate for FY2024?",
+    "gold_answer": "14.73 mills per $1,000 of assessed value.",
+    "gold_keywords": ["14.73", "mills"],
+    "gold_chunks": []
+  },
+
+  {
+    "id": "FF-U01",
+    "bucket": "unanswerable",
+    "document_id": "charter",
+    "question": "What is the population of Veltharrow as of the 2024 census?",
+    "gold_answer": "REFUSE: The provided document does not give a 2024 census population.",
+    "gold_keywords": ["not", "document"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-U02",
+    "bucket": "unanswerable",
+    "document_id": "charter",
+    "question": "What is the salary of the Mayor of Veltharrow?",
+    "gold_answer": "REFUSE: The document does not state the Mayor's salary.",
+    "gold_keywords": ["not", "document"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-U03",
+    "bucket": "unanswerable",
+    "document_id": "budget",
+    "question": "How much did Veltharrow spend on snow removal in FY2024?",
+    "gold_answer": "REFUSE: Snow removal is not broken out as a separate line item in the FY2024 budget.",
+    "gold_keywords": ["not", "snow"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-U04",
+    "bucket": "unanswerable",
+    "document_id": "budget",
+    "question": "What was Veltharrow's total adopted budget for FY2023?",
+    "gold_answer": "REFUSE: The document covers FY2024 only and does not state the FY2023 budget.",
+    "gold_keywords": ["not", "FY2023", "FY2024"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-U05",
+    "bucket": "unanswerable",
+    "document_id": "zoning",
+    "question": "What is the maximum allowed building height in the C-2 General Commercial District?",
+    "gold_answer": "REFUSE: A C-2 maximum building height is not stated in the provided zoning text.",
+    "gold_keywords": ["not", "C-2"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-U06",
+    "bucket": "unanswerable",
+    "document_id": "zoning",
+    "question": "Are short-term rentals such as Airbnb permitted in the R-1 District?",
+    "gold_answer": "REFUSE: The zoning text does not address short-term rentals.",
+    "gold_keywords": ["not", "short-term"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-U07",
+    "bucket": "unanswerable",
+    "document_id": "ordinances",
+    "question": "What penalty does Veltharrow impose for parking violations in Zone C-3?",
+    "gold_answer": "REFUSE: Parking-violation penalties are not specified in this ordinance compendium.",
+    "gold_keywords": ["not", "penalty"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-U08",
+    "bucket": "unanswerable",
+    "document_id": "ordinances",
+    "question": "Which council members voted against Ordinance T-2007-001?",
+    "gold_answer": "REFUSE: The ordinance records a 7–2 vote in favor but does not name the dissenters.",
+    "gold_keywords": ["not", "name"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-U09",
+    "bucket": "unanswerable",
+    "document_id": "charter",
+    "question": "What is the current term length of a Veltharrow ward councillor?",
+    "gold_answer": "REFUSE if the provided context does not state the councillor term length; if it does, answer per the document.",
+    "gold_keywords": ["not", "term"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-U10",
+    "bucket": "unanswerable",
+    "document_id": "budget",
+    "question": "What percentage of property tax revenue is contributed by businesses versus residents?",
+    "gold_answer": "REFUSE: The budget does not split property tax revenue by payer type (business vs. resident).",
+    "gold_keywords": ["not", "split"],
+    "gold_chunks": []
+  },
+
+  {
+    "id": "FF-T01",
+    "bucket": "typo",
+    "document_id": "charter",
+    "question": "What is the offical name of the muncipality of Velltharow?",
+    "gold_answer": "The Municipality of Veltharrow.",
+    "gold_keywords": ["Municipality of Veltharrow"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-T02",
+    "bucket": "typo",
+    "document_id": "charter",
+    "question": "when did velthrow incoprorate offcially?",
+    "gold_answer": "September 14, 1857.",
+    "gold_keywords": ["September 14, 1857"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-T03",
+    "bucket": "typo",
+    "document_id": "budget",
+    "question": "wats the total adoped buget fr fy24",
+    "gold_answer": "$114,837,500.",
+    "gold_keywords": ["114,837,500"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-T04",
+    "bucket": "typo",
+    "document_id": "budget",
+    "question": "Bond ratting of Velthrarow??",
+    "gold_answer": "A2 (stable).",
+    "gold_keywords": ["A2"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-T05",
+    "bucket": "typo",
+    "document_id": "zoning",
+    "question": "min lot sze in r1 zon",
+    "gold_answer": "695 square meters.",
+    "gold_keywords": ["695"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-T06",
+    "bucket": "typo",
+    "document_id": "zoning",
+    "question": "max densit in r2 distict?",
+    "gold_answer": "24 dwelling units per hectare.",
+    "gold_keywords": ["24", "hectare"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-T07",
+    "bucket": "typo",
+    "document_id": "ordinances",
+    "question": "wat is currnt assesmnt ratio for proprty tax",
+    "gold_answer": "73% of fair market value.",
+    "gold_keywords": ["73%"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-T08",
+    "bucket": "typo",
+    "document_id": "ordinances",
+    "question": "Ordinance C2005001 wat did it do for groudn floor on cornrath ave",
+    "gold_answer": "Required 100% of ground-floor street frontage on Cornrath Avenue (and Drasswell Road) in Zone C-3 to be active commercial, dining, or civic use; ground-floor residential prohibited.",
+    "gold_keywords": ["100%", "commercial"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-T09",
+    "bucket": "typo",
+    "document_id": "budget",
+    "question": "genral muncipal levy mils for 2024?",
+    "gold_answer": "14.73 mills.",
+    "gold_keywords": ["14.73"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-T10",
+    "bucket": "typo",
+    "document_id": "charter",
+    "question": "who is teh deputy myor",
+    "gold_answer": "Sera Mittenwych.",
+    "gold_keywords": ["Sera Mittenwych"],
+    "gold_chunks": []
+  },
+
+  {
+    "id": "FF-M01",
+    "bucket": "math",
+    "document_id": "budget",
+    "question": "What is the difference between Total Revenue and Total Expenditure for FY2024?",
+    "gold_answer": "$1,546,100 (114,837,500 − 113,291,400). This matches the projected year-end surplus.",
+    "gold_keywords": ["1,546,100"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-M02",
+    "bucket": "math",
+    "document_id": "budget",
+    "question": "What percentage of total expenditure goes to Public Safety (Municipal Guard) plus Fire & Emergency Services combined?",
+    "gold_answer": "Approximately 26.28% (15.30% + 10.98%).",
+    "gold_keywords": ["26.28", "26.3"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-M03",
+    "bucket": "math",
+    "document_id": "budget",
+    "question": "What is the total combined expenditure on Public Works & Infrastructure and Capital Improvement Projects?",
+    "gold_answer": "$26,090,700 ($14,882,300 + $11,208,400).",
+    "gold_keywords": ["26,090,700"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-M04",
+    "bucket": "math",
+    "document_id": "budget",
+    "question": "If a home in Cornrath Central has a fair market value of $400,000, what is its annual property tax?",
+    "gold_answer": "$4,917.28 — assessed value = 73% × $400,000 = $292,000; total rate 16.84 mills; tax = 292 × 16.84 = $4,917.28.",
+    "gold_keywords": ["4,917", "4917"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-M05",
+    "bucket": "math",
+    "document_id": "budget",
+    "question": "How much higher is the Lake Orvaine Reach total effective property-tax rate compared to Gorrath Ridge?",
+    "gold_answer": "4.17 mills higher (18.90 − 14.73).",
+    "gold_keywords": ["4.17"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-M06",
+    "bucket": "math",
+    "document_id": "budget",
+    "question": "What share of total revenue does the combined Property Tax (General + Special District) represent?",
+    "gold_answer": "Approximately 42.29% (35.90% + 6.39%).",
+    "gold_keywords": ["42.29", "42.3"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-M07",
+    "bucket": "math",
+    "document_id": "budget",
+    "question": "Is the Unassigned Reserve Fund Balance above or below the policy minimum, and by how much?",
+    "gold_answer": "Above. Reserve $8,774,350 vs. minimum $8,496,855 — surplus of about $277,495.",
+    "gold_keywords": ["above", "277,495"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-M08",
+    "bucket": "math",
+    "document_id": "budget",
+    "question": "What percentage of total expenditure is debt service?",
+    "gold_answer": "8.31% (or $9,413,700 of $113,291,400).",
+    "gold_keywords": ["8.31"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-M09",
+    "bucket": "math",
+    "document_id": "ordinances",
+    "question": "By how many percentage points did the assessment ratio increase from its pre-2008 value to today's operative value?",
+    "gold_answer": "8 percentage points (65% → 73%).",
+    "gold_keywords": ["8", "65", "73"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-M10",
+    "bucket": "math",
+    "document_id": "zoning",
+    "question": "On a 1.0 hectare R-2 lot with a 15% affordable component, how many additional dwelling units beyond the base density may be built?",
+    "gold_answer": "7 additional units — base 24 du/ha, bonus 31 du/ha, difference 7.",
+    "gold_keywords": ["7"],
+    "gold_chunks": []
+  },
+
+  {
+    "id": "FF-X01",
+    "bucket": "multichunk",
+    "document_id": "ordinances",
+    "question": "Walk through the full history of Veltharrow's property-tax assessment ratio: each value, the ordinance that set it, and its effective date.",
+    "gold_answer": "Pre-2008: 65%. Ordinance T-2007-001 (adopted 2007-03-06, effective 2008-01-01): 71%. Ordinance T-2009-003 (adopted 2009-09-22, effective 2010-01-01): 73% — current.",
+    "gold_keywords": ["65%", "71%", "73%", "T-2007-001", "T-2009-003"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-X02",
+    "bucket": "multichunk",
+    "document_id": "budget",
+    "question": "Which sub-district has the highest total effective property-tax rate, and what special assessment causes it?",
+    "gold_answer": "Lake Orvaine Reach at 18.90 mills, driven by a 4.17-mill Shoreline preservation assessment on top of the 14.73-mill general levy.",
+    "gold_keywords": ["Lake Orvaine Reach", "18.90", "Shoreline"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-X03",
+    "bucket": "multichunk",
+    "document_id": "ordinances",
+    "question": "Summarize what changed in Zone R-2 affordable-housing density bonuses, including before/after thresholds and the ordinance.",
+    "gold_answer": "Ordinance R-2014-007 (effective 2014-08-01) changed the affordable-unit income threshold for R-2 density bonus from ≤50% to ≤60% of municipal median household income (≤$35,246 based on 2019 census). Density bonus itself remains: 24→31 du/ha when ≥15% of units qualify.",
+    "gold_keywords": ["R-2014-007", "50%", "60%", "31"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-X04",
+    "bucket": "multichunk",
+    "document_id": "charter",
+    "question": "List Veltharrow's three charter revisions with their dates and what each accomplished.",
+    "gold_answer": "First Revision — April 7, 1901, expanded the ward system. Second Revision — November 19, 1948, post-war administrative reform. Third Revision — February 28, 1974, established the current Second-Class Charter status.",
+    "gold_keywords": ["1901", "1948", "1974", "Second-Class"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-X05",
+    "bucket": "multichunk",
+    "document_id": "zoning",
+    "question": "How do parking minimums in Zone R-2 change when a building is near a transit node, and which two locations qualify as transit nodes?",
+    "gold_answer": "R-2 standard is 1.5 spaces/dwelling unit; within 400 m of a designated transit node it drops to 0.75. The designated transit nodes are Cornrath Square Station and Drasswell Road Junction.",
+    "gold_keywords": ["1.5", "0.75", "Cornrath Square Station", "Drasswell Road Junction"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-X06",
+    "bucket": "multichunk",
+    "document_id": "ordinances",
+    "question": "Reading the ordinance compendium and the FY2024 budget together, what is the FY2024 operative assessment ratio and how is it applied to a property?",
+    "gold_answer": "73% (set by Ordinance T-2009-003). Assessed value = 73% of fair market value, then multiplied by the applicable mill rate (general levy 14.73 mills plus any sub-district levy) per $1,000 of assessed value.",
+    "gold_keywords": ["73%", "T-2009-003", "14.73"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-X07",
+    "bucket": "multichunk",
+    "document_id": "zoning",
+    "question": "Compare the standard R-1 maximum building height to the Gorrath Ridge above-350-m exception, including the ordinance.",
+    "gold_answer": "Standard R-1 max is 9.5 m. On Gorrath Ridge parcels above 350 m elevation it is reduced to 8.1 m under the Gorrath Ridgeline View Protection Policy, adopted with Ordinance Z-2017-009.",
+    "gold_keywords": ["9.5", "8.1", "Z-2017-009"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-X08",
+    "bucket": "multichunk",
+    "document_id": "charter",
+    "question": "Who is the current Mayor, and which prior Mayor sponsored Ordinance C-2005-001?",
+    "gold_answer": "Current Mayor: Haldric Ovenspoor. Ordinance C-2005-001 was sponsored by Mayor Colwick Durrath, the predecessor who served 2002–2010.",
+    "gold_keywords": ["Haldric Ovenspoor", "Colwick Durrath"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-X09",
+    "bucket": "multichunk",
+    "document_id": "budget",
+    "question": "What are the top three largest expenditure categories in FY2024 by dollar amount?",
+    "gold_answer": "1) Municipal Guard / Public Safety $17,338,200; 2) Public Works & Infrastructure $14,882,300; 3) Fire & Emergency Services $12,447,100.",
+    "gold_keywords": ["Municipal Guard", "Public Works", "Fire"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-X10",
+    "bucket": "multichunk",
+    "document_id": "zoning",
+    "question": "An R-1 corner lot on a Fellwick Creek-adjacent parcel: which minimum lot area and which impervious-surface limit apply, and why?",
+    "gold_answer": "Minimum lot area 743 sqm (corner-lot exception R-1.1(b)). Impervious-surface limit 27% (Fellwick Creek within-30-m exception R-1.5(b)) instead of the standard 38%.",
+    "gold_keywords": ["743", "27%"],
+    "gold_chunks": []
+  },
+
+  {
+    "id": "FF-V01",
+    "bucket": "vague",
+    "document_id": "zoning",
+    "question": "can i build a tiny house in my backyard?",
+    "gold_answer": "If your lot is in R-1, one accessory dwelling unit is permitted per lot up to 74 sqm (55 sqm if the lot is under 600 sqm), with a 2.5 m separation from the primary dwelling for detached ADUs. Other zones have different rules.",
+    "gold_keywords": ["accessory dwelling", "74", "55"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-V02",
+    "bucket": "vague",
+    "document_id": "budget",
+    "question": "are my property taxes going up next year?",
+    "gold_answer": "The provided document only records FY2024 rates (14.73 mills general levy plus sub-district levies, assessment ratio 73%). It does not project rates beyond FY2024.",
+    "gold_keywords": ["FY2024", "not", "future"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-V03",
+    "bucket": "vague",
+    "document_id": "zoning",
+    "question": "I want to put a small coffee shop on Cornrath Ave — anything I should worry about?",
+    "gold_answer": "Cornrath Avenue is in Zone C-3 and Ordinance C-2005-001 requires that 100% of ground-floor street frontage be active commercial, dining, or civic use — a coffee shop qualifies as active commercial. Ground-floor residential is prohibited on that frontage.",
+    "gold_keywords": ["C-3", "C-2005-001", "active commercial"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-V04",
+    "bucket": "vague",
+    "document_id": "zoning",
+    "question": "how high can my house be?",
+    "gold_answer": "Depends on zone. R-1: 9.5 m max (8.1 m for Gorrath Ridge parcels above 350 m elevation); accessory structures 4.2 m. The document doesn't state max heights for all other zones.",
+    "gold_keywords": ["9.5", "8.1"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-V05",
+    "bucket": "vague",
+    "document_id": "charter",
+    "question": "who runs the town?",
+    "gold_answer": "Veltharrow uses a Mayor–Council (Strong Mayor) structure. Current Mayor: Haldric Ovenspoor. Deputy Mayor: Sera Mittenwych. Municipal Manager: Gretchen Pallfort. Council oversight via the Veltharrow Municipal Council.",
+    "gold_keywords": ["Mayor", "Haldric Ovenspoor", "Council"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-V06",
+    "bucket": "vague",
+    "document_id": "budget",
+    "question": "is the town's money situation healthy?",
+    "gold_answer": "Indicators in the FY2024 budget: projected surplus of $1,546,100, reserve fund $8,774,350 (above the 7.5% policy minimum of $8,496,855), bond rating A2 (stable). The document does not provide a qualitative health assessment beyond these figures.",
+    "gold_keywords": ["surplus", "1,546,100", "A2", "reserve"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-V07",
+    "bucket": "vague",
+    "document_id": "budget",
+    "question": "why is my tax bill different from my neighbor's across town?",
+    "gold_answer": "Sub-district special levies vary across neighborhoods. The general levy is 14.73 mills everywhere, but special-district levies range from 0.00 mills (Gorrath Ridge) to 4.17 mills (Lake Orvaine Reach), producing different total effective rates by sub-district.",
+    "gold_keywords": ["special district", "14.73", "Gorrath", "Lake Orvaine"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-V08",
+    "bucket": "vague",
+    "document_id": "zoning",
+    "question": "can i pave my whole yard?",
+    "gold_answer": "In R-1 the maximum impervious-surface coverage is 38% of lot area (27% if the lot is within 30 m of Fellwick Creek centerline). Permeable pavers and green roofs count at 40% of their actual area. Paving the whole yard would exceed these limits.",
+    "gold_keywords": ["38%", "27%", "impervious"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-V09",
+    "bucket": "vague",
+    "document_id": "charter",
+    "question": "what province are we in again?",
+    "gold_answer": "The Province of Orvaine (within the Cassel Uplands Administrative Region, Republic of Drenmoor). Provincial capital is Surenthal.",
+    "gold_keywords": ["Orvaine"],
+    "gold_chunks": []
+  },
+  {
+    "id": "FF-V10",
+    "bucket": "vague",
+    "document_id": "ordinances",
+    "question": "what changed for affordable housing recently?",
+    "gold_answer": "Ordinance R-2014-007 (effective 2014-08-01) changed the affordable-housing income threshold for R-2 density bonuses from ≤50% to ≤60% of municipal median household income.",
+    "gold_keywords": ["R-2014-007", "60%", "50%"],
+    "gold_chunks": []
+  },
+
+  {
+    "id": "FF-L01",
+    "bucket": "longcontext",
+    "document_id": "charter",
+    "question": "List every charter revision date and the change introduced by each.",
+    "gold_answer": "First Revision 1901-04-07 (expanded ward system); Second Revision 1948-11-19 (post-war administrative reform); Third Revision 1974-02-28 (established current Second-Class Charter status).",
+    "gold_keywords": ["1901", "1948", "1974", "Second-Class"],
+    "gold_chunks": [],
+    "run_full_doc": true
+  },
+  {
+    "id": "FF-L02",
+    "bucket": "longcontext",
+    "document_id": "budget",
+    "question": "List every sub-district with its total effective property-tax rate.",
+    "gold_answer": "Cornrath Central 16.84; Upper Bryndmere 15.61; Pellgate Flats 18.17; Fellwick South 16.00; Thornock Rise 15.27; Gorrath Ridge 14.73; Lake Orvaine Reach 18.90; Drasswell Common 17.56; Wyndmere Spur 16.35 (all in mills).",
+    "gold_keywords": ["Cornrath Central", "Lake Orvaine Reach", "Gorrath Ridge", "Wyndmere Spur"],
+    "gold_chunks": [],
+    "run_full_doc": true
+  },
+  {
+    "id": "FF-L03",
+    "bucket": "longcontext",
+    "document_id": "ordinances",
+    "question": "List every ordinance in the compendium in chronological order, with its full identifier and effective date.",
+    "gold_answer": "C-2005-001 (eff. 2005-07-01), T-2007-001 (eff. 2008-01-01), T-2009-003 (eff. 2010-01-01), R-2014-007 (eff. 2014-08-01), and any later ordinances present in the compendium (e.g., Z-2017-009 if listed). Models that miss ordinances later in the document fail this test.",
+    "gold_keywords": ["C-2005-001", "T-2007-001", "T-2009-003", "R-2014-007"],
+    "gold_chunks": [],
+    "run_full_doc": true
+  },
+  {
+    "id": "FF-L04",
+    "bucket": "longcontext",
+    "document_id": "zoning",
+    "question": "List every zoning district code with its primary character.",
+    "gold_answer": "R-1 single-family detached; R-2 small multifamily; R-3 apartment/condo; C-1 small-scale retail/service; C-2 larger retail/office; C-3 downtown core; M-1 light industrial; M-2 heavy industrial; PO-1 Lake Orvaine preservation overlay; OS-1 open space/parks; SP-1 Drasswell flood special purpose.",
+    "gold_keywords": ["R-1", "R-2", "R-3", "C-3", "M-2", "PO-1", "SP-1"],
+    "gold_chunks": [],
+    "run_full_doc": true
+  },
+  {
+    "id": "FF-L05",
+    "bucket": "longcontext",
+    "document_id": "budget",
+    "question": "List the FY2024 expenditure for every department or function as separate line items.",
+    "gold_answer": "General Gov $8,214,700; Municipal Guard $17,338,200; Fire $12,447,100; Public Works $14,882,300; Parks $5,341,600; Planning & Zoning $2,118,400; Library $3,227,900; Public Health $4,441,300; Social Services & Housing $6,883,200; Education Contribution $9,774,500; Debt Service $9,413,700; Capital Improvement $11,208,400; Contingency $2,000,000; Stormwater $3,299,600; Misc $2,700,200; TOTAL $113,291,400.",
+    "gold_keywords": ["Municipal Guard", "17,338,200", "Public Works", "14,882,300", "113,291,400"],
+    "gold_chunks": [],
+    "run_full_doc": true
+  },
+  {
+    "id": "FF-L06",
+    "bucket": "longcontext",
+    "document_id": "charter",
+    "question": "Name the current Mayor, Deputy Mayor, Municipal Manager, Chief Financial Officer, and Municipal Clerk.",
+    "gold_answer": "Mayor Haldric Ovenspoor; Deputy Mayor Sera Mittenwych; Municipal Manager Gretchen Pallfort; CFO Roswend Talfrey; Clerk Hanna Corwick.",
+    "gold_keywords": ["Haldric Ovenspoor", "Sera Mittenwych", "Gretchen Pallfort", "Roswend Talfrey", "Hanna Corwick"],
+    "gold_chunks": [],
+    "run_full_doc": true
+  },
+  {
+    "id": "FF-L07",
+    "bucket": "longcontext",
+    "document_id": "budget",
+    "question": "List every revenue source for FY2024 with its dollar amount.",
+    "gold_answer": "Property Tax General $41,228,400; Property Tax Special District $7,341,200; Sales Tax $18,447,300; Provincial Revenue Sharing $14,112,500; Building/Permit Fees $3,874,600; Licensing $2,213,800; Fines $1,047,200; Stormwater Surcharge $3,318,900; Recreation Fees $1,882,400; Intergovernmental Transfers $4,200,000; Interest $1,117,600; Misc $16,051,600; TOTAL $114,837,500.",
+    "gold_keywords": ["41,228,400", "18,447,300", "114,837,500"],
+    "gold_chunks": [],
+    "run_full_doc": true
+  },
+  {
+    "id": "FF-L08",
+    "bucket": "longcontext",
+    "document_id": "zoning",
+    "question": "Give every R-1 rule (R-1.1 through R-1.5) with the standard value for each.",
+    "gold_answer": "R-1.1 min lot area 695 sqm; R-1.2 max building height 9.5 m; R-1.3 min front setback 7.5 m; R-1.4 ADUs permitted, max 74 sqm; R-1.5 max impervious surface 38%.",
+    "gold_keywords": ["695", "9.5", "7.5", "74", "38%"],
+    "gold_chunks": [],
+    "run_full_doc": true
+  },
+  {
+    "id": "FF-L09",
+    "bucket": "longcontext",
+    "document_id": "ordinances",
+    "question": "Summarize each ordinance in the compendium with its before/after values in one sentence each.",
+    "gold_answer": "C-2005-001: no ground-floor use restriction → 100% active commercial on Cornrath/Drasswell in C-3. T-2007-001: assessment ratio 65% → 71%. T-2009-003: assessment ratio 71% → 73%. R-2014-007: R-2 affordable threshold ≤50% → ≤60% of median income. (Plus any additional ordinances listed in the compendium.)",
+    "gold_keywords": ["C-2005-001", "T-2007-001", "T-2009-003", "R-2014-007"],
+    "gold_chunks": [],
+    "run_full_doc": true
+  },
+  {
+    "id": "FF-L10",
+    "bucket": "longcontext",
+    "document_id": "charter",
+    "question": "From the historical timeline, list every dated event in chronological order with its year or date.",
+    "gold_answer": "1841 first settlement (seasonal lumber camp); 1844-03-03 permanent settlement (Vanthorpe cabin, Gorrath Ridge); 1844 Vanthorpe sawmill; 1851 Fellwick Creek bridge (first permanent infrastructure); 1857-09-14 official incorporation (Resolution 31-1857); 1883-06-02 name shortened by Ordinance of Consolidation No. 4; 1901-04-07 first charter revision; 1948-11-19 second charter revision; 1974-02-28 third charter revision.",
+    "gold_keywords": ["1841", "1844", "1857", "1883", "1901", "1948", "1974"],
+    "gold_chunks": [],
+    "run_full_doc": true
+  }
+]

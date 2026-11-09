@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "VABFR2024-001",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the total adopted budget for the Municipality of Veltharrow for Fiscal Year 2024?",
+    "options": {
+      "A": "$114,837,500",
+      "B": "$113,291,400",
+      "C": "$1,546,100",
+      "D": "$8,774,350",
+      "E": "$47,228,600",
+      "F": "$9,413,700"
+    },
+    "answer": "A",
+    "evidence": "Total Adopted Budget, Fiscal Year 2024: $114,837,500",
+    "reasoning": "The fiscal overview states the total adopted budget directly as $114,837,500."
+  },
+  {
+    "id": "VABFR2024-002",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "Which official is named as the current Mayor in the budget message?",
+    "options": {
+      "A": "Sera Mittenwych",
+      "B": "Haldric Ovenspoor",
+      "C": "Gretchen Pallfort",
+      "D": "Roswend Talfrey",
+      "E": "Hanna Corwick",
+      "F": "Brixton Hallvane"
+    },
+    "answer": "B",
+    "evidence": "The current Mayor is Haldric Ovenspoor.",
+    "reasoning": "The document explicitly identifies Haldric Ovenspoor as the current Mayor."
+  },
+  {
+    "id": "VABFR2024-003",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What fiscal-year span is stated for the report?",
+    "options": {
+      "A": "September 22, 2009 \u2013 January 1, 2010",
+      "B": "March 6, 2007 \u2013 January 1, 2008",
+      "C": "January 1 \u2013 December 31",
+      "D": "November 9, 2021 \u2013 January 1, 2022",
+      "E": "January 1, 2024 \u2013 December 2026",
+      "F": "September 2, 2019 \u2013 indefinite/career"
+    },
+    "answer": "C",
+    "evidence": "Fiscal Year: January 1 \u2013 December 31",
+    "reasoning": "The fiscal year line states that the fiscal year runs from January 1 through December 31."
+  },
+  {
+    "id": "VABFR2024-004",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What bond rating is recorded for Veltharrow in the Fiscal Year 2024 report?",
+    "options": {
+      "A": "Council Vote: 6\u20133 in favor",
+      "B": "Council Vote: 7\u20132 in favor",
+      "C": "Reserve Fund Policy Minimum: 7.5% of total expenditure = $8,496,855",
+      "D": "Drenmoor Municipal Bond Authority Rating: A2 (stable)",
+      "E": "Assessment Ratio: 73.0%",
+      "F": "Combined rate: 7.473%"
+    },
+    "answer": "D",
+    "evidence": "Bond Rating: Drenmoor Municipal Bond Authority Rating: A2 (stable)",
+    "reasoning": "The bond rating is given verbatim in the fiscal overview as A2 with a stable outlook."
+  },
+  {
+    "id": "VABFR2024-005",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "Which revenue source is recorded at $14,112,500?",
+    "options": {
+      "A": "Municipal Sales Tax",
+      "B": "Property Tax (Special District Levies)",
+      "C": "Development & Building Permit Fees",
+      "D": "Miscellaneous / Other",
+      "E": "Provincial Revenue Sharing Grant",
+      "F": "Utility Surcharge (Stormwater)"
+    },
+    "answer": "E",
+    "evidence": "Provincial Revenue Sharing Grant is recorded in the amount of $14,112,500, stated as 12.29% of Total Revenue.",
+    "reasoning": "The revenue schedule maps $14,112,500 to the Provincial Revenue Sharing Grant."
+  },
+  {
+    "id": "VABFR2024-006",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the annual fee for a Tier 3 business license?",
+    "options": {
+      "A": "$312 annually",
+      "B": "$874 annually",
+      "C": "$5,507 annually",
+      "D": "$2,213,800",
+      "E": "$3,874,600",
+      "F": "$2,218 annually"
+    },
+    "answer": "F",
+    "evidence": "Tier 3 applies to businesses with 20\u201399 employees. The Tier 3 fee is $2,218 annually.",
+    "reasoning": "The business license section states that Tier 3 has an annual fee of $2,218."
+  },
+  {
+    "id": "VABFR2024-007",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the General Municipal Levy Rate applied municipally-wide?",
+    "options": {
+      "A": "14.73 mills",
+      "B": "16.84 mills",
+      "C": "18.90 mills",
+      "D": "15.27 mills",
+      "E": "73.0%",
+      "F": "7.473%"
+    },
+    "answer": "A",
+    "evidence": "General Municipal Levy Rate: 14.73 mills, applied municipally-wide.",
+    "reasoning": "The property tax provisions state the general municipal levy rate directly."
+  },
+  {
+    "id": "VABFR2024-008",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "Who is listed as the current Chief Assessor?",
+    "options": {
+      "A": "Dolvane Prescroft",
+      "B": "Brixton Hallvane",
+      "C": "Cael Drossmund",
+      "D": "Darvid Quennell",
+      "E": "Ysabel Frondtke",
+      "F": "Roswend Talfrey"
+    },
+    "answer": "B",
+    "evidence": "The current Chief Assessor is Brixton Hallvane.",
+    "reasoning": "The property tax and assessment provisions identify Brixton Hallvane as current Chief Assessor."
+  },
+  {
+    "id": "VABFR2024-009",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What amount is recorded for Public Works & Infrastructure in the expenditure schedule?",
+    "options": {
+      "A": "$17,338,200",
+      "B": "$12,447,100",
+      "C": "$14,882,300",
+      "D": "$11,208,400",
+      "E": "$8,214,700",
+      "F": "$3,299,600"
+    },
+    "answer": "C",
+    "evidence": "Public Works & Infrastructure is recorded in the amount of $14,882,300, stated as 13.14% of Total Expenditure.",
+    "reasoning": "The expenditure schedule states Public Works & Infrastructure at $14,882,300."
+  },
+  {
+    "id": "VABFR2024-010",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the Municipal Sales Tax Rate for Veltharrow?",
+    "options": {
+      "A": "1.218%",
+      "B": "6.000%",
+      "C": "7.218%",
+      "D": "1.473%",
+      "E": "7.473%",
+      "F": "0.255 percentage-point"
+    },
+    "answer": "D",
+    "evidence": "The Municipal Sales Tax Rate for the Municipality of Veltharrow is 1.473%.",
+    "reasoning": "The sales tax provisions directly state the municipal sales tax rate as 1.473%."
+  },
+  {
+    "id": "VABFR2024-011",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "Which official is listed as Municipal Clerk?",
+    "options": {
+      "A": "Gretchen Pallfort",
+      "B": "Sera Mittenwych",
+      "C": "Roswend Talfrey",
+      "D": "Darvid Quennell",
+      "E": "Hanna Corwick",
+      "F": "Aldwyn Prenthorpe"
+    },
+    "answer": "E",
+    "evidence": "The Municipal Clerk is Hanna Corwick.",
+    "reasoning": "The budget message and fiscal administration record both name Hanna Corwick as Municipal Clerk."
+  },
+  {
+    "id": "VABFR2024-012",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the total effective property tax rate for Pellgate Flats?",
+    "options": {
+      "A": "16.00 mills",
+      "B": "17.56 mills",
+      "C": "14.73 mills",
+      "D": "18.90 mills",
+      "E": "16.35 mills",
+      "F": "18.17 mills"
+    },
+    "answer": "F",
+    "evidence": "Pellgate Flats is subject to a General Levy of 14.73 mills, a Special District Levy of 3.44 mills, and a Total Effective Rate of 18.17 mills.",
+    "reasoning": "The Pellgate Flats line records a total effective rate of 18.17 mills."
+  },
+  {
+    "id": "VABFR2024-013",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the unassigned reserve fund balance as of January 1, 2024?",
+    "options": {
+      "A": "$8,774,350",
+      "B": "$8,496,855",
+      "C": "$9,413,700",
+      "D": "$1,546,100",
+      "E": "$2,000,000",
+      "F": "$47,228,600"
+    },
+    "answer": "A",
+    "evidence": "Unassigned Reserve Fund Balance, as of January 1, 2024: $8,774,350",
+    "reasoning": "The fiscal overview records the unassigned reserve fund balance as $8,774,350."
+  },
+  {
+    "id": "VABFR2024-014",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the stated employee range for Tier 2 of the business license fee schedule?",
+    "options": {
+      "A": "0\u20134 employees",
+      "B": "5\u201319 employees",
+      "C": "20\u201399 employees",
+      "D": "100+ employees",
+      "E": "$874 annually",
+      "F": "Tier 2"
+    },
+    "answer": "B",
+    "evidence": "Tier 2 applies to businesses with 5\u201319 employees. The Tier 2 fee is $874 annually.",
+    "reasoning": "The business license schedule states that Tier 2 covers 5\u201319 employees."
+  },
+  {
+    "id": "VABFR2024-015",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "Using the fiscal overview amounts, what is Total Revenue minus Total Expenditure for Fiscal Year 2024?",
+    "options": {
+      "A": "$8,774,350",
+      "B": "$2,000,000",
+      "C": "$1,546,100",
+      "D": "$8,496,855",
+      "E": "$9,413,700",
+      "F": "$277,495"
+    },
+    "answer": "C",
+    "evidence": "Total Revenue, Fiscal Year 2024: $114,837,500 | Total Expenditure, Fiscal Year 2024: $113,291,400",
+    "reasoning": "Subtracting $113,291,400 from $114,837,500 gives $1,546,100, matching the projected surplus."
+  },
+  {
+    "id": "VABFR2024-016",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What is the combined Fiscal Year 2024 revenue from Property Tax (General Levy) and Property Tax (Special District Levies)?",
+    "options": {
+      "A": "$41,228,400",
+      "B": "$18,447,300",
+      "C": "$67,016,900",
+      "D": "$48,569,600",
+      "E": "$7,341,200",
+      "F": "$57,280,000"
+    },
+    "answer": "D",
+    "evidence": "Property Tax (General Levy): $41,228,400, stated as 35.90% of Total Revenue. | Property Tax (Special District Levies): $7,341,200, stated as 6.39% of Total Revenue.",
+    "reasoning": "Adding the two property tax revenue lines, $41,228,400 and $7,341,200, yields $48,569,600."
+  },
+  {
+    "id": "VABFR2024-017",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "By how much does the unassigned reserve fund balance exceed the reserve fund policy minimum?",
+    "options": {
+      "A": "$1,546,100",
+      "B": "$2,000,000",
+      "C": "$9,413,700",
+      "D": "$8,496,855",
+      "E": "$277,495",
+      "F": "$8,774,350"
+    },
+    "answer": "E",
+    "evidence": "The Unassigned Reserve Fund Balance as of January 1, 2024 is $8,774,350. | The Reserve Fund Policy Minimum is 7.5% of total expenditure = $8,496,855.",
+    "reasoning": "Subtracting the policy minimum from the actual reserve balance gives $277,495."
+  },
+  {
+    "id": "VABFR2024-018",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What is the combined expenditure for Municipal Guard (Public Safety) and Fire & Emergency Services?",
+    "options": {
+      "A": "$26,751,900",
+      "B": "$27,329,400",
+      "C": "$32,220,500",
+      "D": "$23,655,500",
+      "E": "$22,221,600",
+      "F": "$29,785,300"
+    },
+    "answer": "F",
+    "evidence": "Municipal Guard (Public Safety): $17,338,200, stated as 15.30% of Total Expenditure. | Fire & Emergency Services: $12,447,100, stated as 10.98% of Total Expenditure.",
+    "reasoning": "Adding $17,338,200 and $12,447,100 gives $29,785,300."
+  },
+  {
+    "id": "VABFR2024-019",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What is the total annual cost of one license in each of Tier 1, Tier 2, Tier 3, and Tier 4?",
+    "options": {
+      "A": "$8,911 annually",
+      "B": "$7,725 annually",
+      "C": "$6,693 annually",
+      "D": "$5,507 annually",
+      "E": "$2,218 annually",
+      "F": "$8,599 annually"
+    },
+    "answer": "A",
+    "evidence": "Tier 1 Business License Fee, 0\u20134 employees: $312 annually. | Tier 2 Business License Fee, 5\u201319 employees: $874 annually. | Tier 3 Business License Fee, 20\u201399 employees: $2,218 annually. | Tier 4 Business License Fee, 100+ employees: $5,507 annually.",
+    "reasoning": "The four annual fees sum to $312 + $874 + $2,218 + $5,507 = $8,911."
+  },
+  {
+    "id": "VABFR2024-020",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "How much more revenue is recorded for Municipal Sales Tax than for the Provincial Revenue Sharing Grant?",
+    "options": {
+      "A": "$4,200,000",
+      "B": "$4,334,800",
+      "C": "$3,874,600",
+      "D": "$6,088,400",
+      "E": "$14,112,500",
+      "F": "$18,447,300"
+    },
+    "answer": "B",
+    "evidence": "Municipal Sales Tax: $18,447,300, stated as 16.06% of Total Revenue. | Provincial Revenue Sharing Grant: $14,112,500, stated as 12.29% of Total Revenue.",
+    "reasoning": "Subtracting $14,112,500 from $18,447,300 gives $4,334,800."
+  },
+  {
+    "id": "VABFR2024-021",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What is the combined amount for Parks & Recreation and Municipal Library System expenditures?",
+    "options": {
+      "A": "$8,214,700",
+      "B": "$9,782,900",
+      "C": "$8,569,500",
+      "D": "$7,460,000",
+      "E": "$5,341,600",
+      "F": "$3,227,900"
+    },
+    "answer": "C",
+    "evidence": "Parks & Recreation: $5,341,600, stated as 4.71% of Total Expenditure. | Municipal Library System: $3,227,900, stated as 2.85% of Total Expenditure.",
+    "reasoning": "Adding the two expenditure lines gives $5,341,600 + $3,227,900 = $8,569,500."
+  },
+  {
+    "id": "VABFR2024-022",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What is the combined amount of Development & Building Permit Fees and Licensing & Business Registration Fees?",
+    "options": {
+      "A": "$3,874,600",
+      "B": "$7,193,500",
+      "C": "$5,757,000",
+      "D": "$6,088,400",
+      "E": "$2,213,800",
+      "F": "$7,341,200"
+    },
+    "answer": "D",
+    "evidence": "Development & Building Permit Fees: $3,874,600, stated as 3.37% of Total Revenue. | Licensing & Business Registration Fees: $2,213,800, stated as 1.93% of Total Revenue.",
+    "reasoning": "The two fee revenue lines total $6,088,400."
+  },
+  {
+    "id": "VABFR2024-023",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What is the total of all three revenue lines that contain the word \u201cTax\u201d?",
+    "options": {
+      "A": "$48,569,600",
+      "B": "$59,675,700",
+      "C": "$57,280,000",
+      "D": "$41,228,400",
+      "E": "$67,016,900",
+      "F": "$25,788,500"
+    },
+    "answer": "E",
+    "evidence": "Property Tax (General Levy): $41,228,400, stated as 35.90% of Total Revenue. | Property Tax (Special District Levies): $7,341,200, stated as 6.39% of Total Revenue. | Municipal Sales Tax: $18,447,300, stated as 16.06% of Total Revenue.",
+    "reasoning": "Adding the general levy, special district levies, and municipal sales tax lines yields $67,016,900."
+  },
+  {
+    "id": "VABFR2024-024",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What is the combined rate when the municipal sales tax rate is added to the Drenmoor Provincial Sales Tax rate?",
+    "options": {
+      "A": "6.000%",
+      "B": "1.473%",
+      "C": "7.218%",
+      "D": "0.255 percentage-point",
+      "E": "1.218%",
+      "F": "7.473%"
+    },
+    "answer": "F",
+    "evidence": "The Municipal Sales Tax Rate for the Municipality of Veltharrow is 1.473%. | The Drenmoor Provincial Sales Tax is 6.000%.",
+    "reasoning": "Adding 1.473% and 6.000% gives the combined rate of 7.473%."
+  },
+  {
+    "id": "VABFR2024-025",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What is the combined expenditure for Capital Improvement Projects and Debt Service (Principal & Interest)?",
+    "options": {
+      "A": "$20,622,100",
+      "B": "$14,755,300",
+      "C": "$21,766,200",
+      "D": "$23,655,500",
+      "E": "$20,982,900",
+      "F": "$19,423,100"
+    },
+    "answer": "A",
+    "evidence": "Capital Improvement Projects: $11,208,400, stated as 9.89% of Total Expenditure. | Debt Service (Principal & Interest): $9,413,700, stated as 8.31% of Total Expenditure.",
+    "reasoning": "Adding $11,208,400 and $9,413,700 gives $20,622,100."
+  },
+  {
+    "id": "VABFR2024-026",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What is the combined expenditure for General Government & Administration and Public Works & Infrastructure?",
+    "options": {
+      "A": "$19,423,100",
+      "B": "$23,097,000",
+      "C": "$26,751,900",
+      "D": "$29,785,300",
+      "E": "$14,882,300",
+      "F": "$8,214,700"
+    },
+    "answer": "B",
+    "evidence": "General Government & Administration: $8,214,700, stated as 7.25% of Total Expenditure. | Public Works & Infrastructure: $14,882,300, stated as 13.14% of Total Expenditure.",
+    "reasoning": "Adding $8,214,700 and $14,882,300 gives $23,097,000."
+  },
+  {
+    "id": "VABFR2024-027",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "How much less is debt service than outstanding municipal debt?",
+    "options": {
+      "A": "$47,228,600",
+      "B": "$9,413,700",
+      "C": "$37,814,900",
+      "D": "$45,682,500",
+      "E": "$56,642,300",
+      "F": "$48,774,700"
+    },
+    "answer": "C",
+    "evidence": "Debt Service, Fiscal Year 2024: $9,413,700 | Outstanding Municipal Debt, as of January 1, 2024: $47,228,600",
+    "reasoning": "Subtracting debt service from outstanding municipal debt gives $37,814,900."
+  },
+  {
+    "id": "VABFR2024-028",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What is the sum of the Utility Surcharge (Stormwater) revenue and Stormwater & Environmental expenditure?",
+    "options": {
+      "A": "$3,318,900",
+      "B": "$3,299,600",
+      "C": "$6,088,400",
+      "D": "$6,618,500",
+      "E": "$7,518,900",
+      "F": "$5,182,000"
+    },
+    "answer": "D",
+    "evidence": "Utility Surcharge (Stormwater): $3,318,900, stated as 2.89% of Total Revenue. | Stormwater & Environmental: $3,299,600, stated as 2.91% of Total Expenditure.",
+    "reasoning": "The stormwater revenue line plus the stormwater expenditure line equals $6,618,500."
+  },
+  {
+    "id": "VABFR2024-029",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "According to the budget message, why does the report present each revenue and expenditure figure as a primitive value for record purposes?",
+    "options": {
+      "A": "To revise the assessment ratio from 71% to 73%",
+      "B": "To identify the Chief Assessor's term end as December 2026",
+      "C": "To record only bond rating figures and not tax rates",
+      "D": "To replace the Fiscal Year 2024 revenue schedule",
+      "E": "No unstated revenue category, expenditure category, tax rate, license tier, reserve amount, debt value, or assessment value is added in this report.",
+      "F": "The 0.255 percentage-point increase is scheduled to expire on December 31, 2029"
+    },
+    "answer": "E",
+    "evidence": "Each figure is presented as a primitive value for record purposes. No unstated revenue category, expenditure category, tax rate, license tier, reserve amount, debt value, or assessment value is added in this report.",
+    "reasoning": "The report explains that primitive record values are used so that no unstated categories or values are added."
+  },
+  {
+    "id": "VABFR2024-030",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What purpose does Ordinance F-2021-004 state for adjusting the municipal sales tax rate?",
+    "options": {
+      "A": "To fund the Provincial Revenue Sharing Grant",
+      "B": "To replace the Drenmoor Provincial Sales Tax",
+      "C": "To establish the Tax Assessment Board",
+      "D": "To set the general municipal levy at 14.73 mills",
+      "E": "To fund Licensing & Business Registration Fees",
+      "F": "To fund the Drasswell Pond Flood Mitigation Capital Program"
+    },
+    "answer": "F",
+    "evidence": "The subject of Ordinance F-2021-004 was adjustment of the municipal sales tax rate to fund the Drasswell Pond Flood Mitigation Capital Program.",
+    "reasoning": "The sales tax ordinance's stated subject connects the rate adjustment to funding the Drasswell Pond Flood Mitigation Capital Program."
+  },
+  {
+    "id": "VABFR2024-031",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "Why is Ordinance T-2009-003 important for the Fiscal Year 2024 assessment ratio?",
+    "options": {
+      "A": "The additional context states that this is the currently operative assessment ratio referenced throughout this document.",
+      "B": "It was an interim revision later changed by T-2007-001.",
+      "C": "It set the municipal sales tax rate to 1.473%.",
+      "D": "It created the business license fee tiers.",
+      "E": "It established the reserve fund policy minimum.",
+      "F": "It named Dolvane Prescroft as the current Chief Assessor."
+    },
+    "answer": "A",
+    "evidence": "The additional context states that this is the currently operative assessment ratio referenced throughout this document.",
+    "reasoning": "The document explains that T-2009-003 supplies the current operative assessment ratio used throughout the report."
+  },
+  {
+    "id": "VABFR2024-032",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What does the report say is the effect of the sunset provision for the 2021 municipal sales-tax adjustment?",
+    "options": {
+      "A": "The entire Drenmoor Provincial Sales Tax expires on December 31, 2029.",
+      "B": "The 0.255 percentage-point increase is scheduled to expire on December 31, 2029, unless renewed by Council. The Base rate of 1.218% remains permanent.",
+      "C": "The current assessment ratio changes from 73% back to 71% on December 31, 2029.",
+      "D": "The combined rate remains 7.473% permanently without Council renewal.",
+      "E": "The municipal sales tax revenue line expires at the end of Fiscal Year 2024.",
+      "F": "The 1.218% base rate expires, but the 0.255 percentage-point increase remains permanent."
+    },
+    "answer": "B",
+    "evidence": "The Sunset Provision states that the 0.255 percentage-point increase is scheduled to expire on December 31, 2029, unless renewed by Council. The Base rate of 1.218% remains permanent.",
+    "reasoning": "The sunset provision affects only the 0.255 percentage-point increase unless Council renews it, while the base rate remains permanent."
+  },
+  {
+    "id": "VABFR2024-033",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What is the stated role of the Fiscal Administration Record section?",
+    "options": {
+      "A": "To list only the property tax rate schedule by sub-district",
+      "B": "To calculate each business's annual license bill",
+      "C": "To identify the municipal offices associated with budget administration, legal compliance, financial records, property assessment administration, public works expenditure administration, planning and zoning expenditure administration, fire and emergency services expenditure administration, and public safety expenditure administration",
+      "D": "To state that no revenue categories are included in the report",
+      "E": "To replace the named official list in the budget message",
+      "F": "To set the combined sales tax rate at 7.473%"
+    },
+    "answer": "C",
+    "evidence": "The fiscal administration record is included to identify the municipal offices associated with budget administration, legal compliance, financial records, property assessment administration, public works expenditure administration, planning and zoning expenditure administration, fire and emergency services expenditure administration, and public safety expenditure administration.",
+    "reasoning": "The section explicitly says it is included to identify the municipal offices connected to those fiscal administration functions."
+  },
+  {
+    "id": "VABFR2024-034",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "Why does the report identify T-2007-001 as an interim revision?",
+    "options": {
+      "A": "Because it set the reserve minimum at 7.5% of expenditure",
+      "B": "Because it changed the municipal sales tax from 1.218% to 1.473%",
+      "C": "Because it was adopted after T-2009-003",
+      "D": "The additional context states that this was an interim revision and that Ordinance T-2009-003 made the subsequent further change.",
+      "E": "Because it established the Fiscal Year 2024 adopted budget",
+      "F": "Because it made the Provincial Sales Tax unchanged at 6.000%"
+    },
+    "answer": "D",
+    "evidence": "The additional context states that this was an interim revision and that Ordinance T-2009-003 made the subsequent further change.",
+    "reasoning": "The document describes T-2007-001 as interim because T-2009-003 later made a further assessment-ratio change."
+  },
+  {
+    "id": "VABFR2024-035",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What effect does the report assign to the combined rate change in Ordinance F-2021-004?",
+    "options": {
+      "A": "The combined rate decreased from 7.473% to 7.218%.",
+      "B": "The municipal rate was unchanged at 1.218%.",
+      "C": "The provincial rate increased from 6.000% to 7.473%.",
+      "D": "The assessment ratio increased from 71% to 73%.",
+      "E": "The Provincial rate was unchanged at 6.000%; combined rate increased from 7.218% to 7.473%.",
+      "F": "The combined rate changed from 65% to 71%."
+    },
+    "answer": "E",
+    "evidence": "The Combined Rate Change states that the Provincial rate was unchanged at 6.000%; combined rate increased from 7.218% to 7.473%.",
+    "reasoning": "The ordinance effect is that the provincial rate stayed fixed while the combined rate rose to 7.473%."
+  },
+  {
+    "id": "VABFR2024-036",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "For what purposes is the Business License Fee Schedule adopted?",
+    "options": {
+      "A": "Debt service and bond rating purposes",
+      "B": "Property assessment appeal purposes",
+      "C": "Reserve and surplus purposes",
+      "D": "Fire and emergency services purposes",
+      "E": "Capital improvement borrowing purposes",
+      "F": "Annual licensing and business registration purposes"
+    },
+    "answer": "F",
+    "evidence": "The following Business License Fee Schedule is adopted for annual licensing and business registration purposes.",
+    "reasoning": "The schedule states its own purpose as annual licensing and business registration."
+  },
+  {
+    "id": "VABFR2024-037",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What does the report say about the reserve and surplus figures in relation to each other?",
+    "options": {
+      "A": "The reserve and surplus figures are recorded as separate primitive fiscal values.",
+      "B": "The projected year-end surplus replaces the unassigned reserve fund balance.",
+      "C": "The contingency reserve contribution is recorded as a revenue source.",
+      "D": "The reserve fund policy minimum is the same as debt service.",
+      "E": "The unassigned reserve fund balance is recorded for December 31, 2029.",
+      "F": "The reserve fund balance is not recorded in this report."
+    },
+    "answer": "A",
+    "evidence": "The reserve and surplus figures are recorded as separate primitive fiscal values.",
+    "reasoning": "The report explicitly distinguishes the reserve and surplus figures as separate primitive fiscal values."
+  },
+  {
+    "id": "VABFR2024-038",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "Why are the debt and bond rating figures included in the report?",
+    "options": {
+      "A": "To replace the expenditure schedule with a debt schedule",
+      "B": "The debt and bond rating figures in this report are stated for municipal fiscal record purposes.",
+      "C": "To calculate license tiers by employee count",
+      "D": "To identify the Drenmoor Provincial Sales Tax rate",
+      "E": "To state the Mayor's term end",
+      "F": "To sunset the 0.255 percentage-point increase"
+    },
+    "answer": "B",
+    "evidence": "The debt and bond rating figures in this report are stated for municipal fiscal record purposes.",
+    "reasoning": "The debt section says these figures are included for municipal fiscal record purposes."
+  },
+  {
+    "id": "VABFR2024-039",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What does the report say is the effect of holding a Chief Assessor appointment through December 2026?",
+    "options": {
+      "A": "The administering officer at time of passage was Chief Assessor Dolvane Prescroft.",
+      "B": "The Municipal Clerk has term end indefinite/career.",
+      "C": "The Chief Assessor, Brixton Hallvane, is appointed, with term ends December 2026.",
+      "D": "The Tax Assessment Board has no members listed.",
+      "E": "The Council Vote was 6\u20133 in favor.",
+      "F": "The current assessment ratio is 73.0%."
+    },
+    "answer": "C",
+    "evidence": "The Chief Assessor, Brixton Hallvane, is appointed, with term ends December 2026.",
+    "reasoning": "The document links Brixton Hallvane's appointed role as Chief Assessor to a term ending December 2026."
+  },
+  {
+    "id": "VABFR2024-040",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What does the report identify as the subject of Ordinance T-2007-001?",
+    "options": {
+      "A": "Adjustment of the municipal sales tax rate to fund the Drasswell Pond Flood Mitigation Capital Program",
+      "B": "Creation of the Fiscal Year 2024 revenue schedule",
+      "C": "Adoption of a business license schedule by tier",
+      "D": "A change to the assessment ratio, assessed value as a percentage of fair market value, used for property tax calculations",
+      "E": "The second revision to the assessment ratio for property tax calculation",
+      "F": "Debt service and outstanding municipal debt recordkeeping"
+    },
+    "answer": "D",
+    "evidence": "The subject of Ordinance T-2007-001 was a change to the assessment ratio, assessed value as a percentage of fair market value, used for property tax calculations.",
+    "reasoning": "The document explains that T-2007-001 changed the assessment ratio used to calculate property tax."
+  },
+  {
+    "id": "VABFR2024-041",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "According to the report, what is the significance of the total adopted budget being recorded separately from total revenue and total expenditure?",
+    "options": {
+      "A": "It means total revenue is not recorded in the report.",
+      "B": "It means the adopted budget must equal outstanding municipal debt.",
+      "C": "It means the expenditure schedule has no total line.",
+      "D": "It means the reserve fund balance is recorded as of December 31, 2024.",
+      "E": "The total adopted budget is recorded separately from total revenue and total expenditure.",
+      "F": "It means municipal sales tax is excluded from revenue."
+    },
+    "answer": "E",
+    "evidence": "The total adopted budget is recorded separately from total revenue and total expenditure.",
+    "reasoning": "The fiscal overview states that the adopted budget is a separate recorded figure from revenue and expenditure."
+  },
+  {
+    "id": "VABFR2024-042",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "Which set of councillors does the report record as dissenting votes on Ordinance F-2021-004?",
+    "options": {
+      "A": "Dolvane Prescroft, Brixton Hallvane, and Hanna Corwick",
+      "B": "Haldric Ovenspoor, Sera Mittenwych, and Gretchen Pallfort",
+      "C": "Roswend Talfrey, Darvid Quennell, and Cael Drossmund",
+      "D": "Ysabel Frondtke, Torben Nallweiss, and Aldwyn Prenthorpe",
+      "E": "Prinna Valcourt, Brixton Hallvane, and Rund Pallister",
+      "F": "Prinna Valcourt, Marthyl Dunnegan, and Rund Pallister"
+    },
+    "answer": "F",
+    "evidence": "The dissenting votes on Ordinance F-2021-004 were Councillors Prinna Valcourt, Marthyl Dunnegan, and Rund Pallister.",
+    "reasoning": "The sales tax provisions list Prinna Valcourt, Marthyl Dunnegan, and Rund Pallister as the dissenting votes on F-2021-004."
+  },
+  {
+    "id": "VABFR2024-043",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which assessment ratio is current for Fiscal Year 2024, rather than a prior or interim value?",
+    "options": {
+      "A": "73% of fair market value",
+      "B": "71% of fair market value",
+      "C": "65% of fair market value",
+      "D": "6.000%",
+      "E": "1.473%",
+      "F": "7.473%"
+    },
+    "answer": "A",
+    "evidence": "The NEW Value, effective Jan 1, 2010, current, is Assessment ratio = 73% of fair market value.",
+    "reasoning": "The current value is the T-2009-003 new value, while 71% and 65% are older values."
+  },
+  {
+    "id": "VABFR2024-044",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which ordinance is described as the prior assessment ordinance rather than the current statutory basis for the assessment ratio?",
+    "options": {
+      "A": "Ordinance T-2009-003, the Veltharrow Assessment Ratio Adjustment Ordinance of 2009",
+      "B": "Ordinance T-2007-001, the Veltharrow Property Assessment Standardization Ordinance of 2007",
+      "C": "Ordinance F-2021-004, the Veltharrow Municipal Sales Tax Rate Adjustment Ordinance of 2021",
+      "D": "Veltharrow Tax Assessment Board",
+      "E": "Business License Fee Schedule",
+      "F": "Fiscal Year 2024 Adopted Budget and Fiscal Report"
+    },
+    "answer": "B",
+    "evidence": "The prior assessment ordinance was Ordinance T-2007-001, the Veltharrow Property Assessment Standardization Ordinance of 2007.",
+    "reasoning": "The document explicitly calls T-2007-001 the prior assessment ordinance, while T-2009-003 is the current basis."
+  },
+  {
+    "id": "VABFR2024-045",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which sub-district has the highest total effective property tax rate in the Fiscal Year 2024 schedule?",
+    "options": {
+      "A": "Pellgate Flats, 18.17 mills",
+      "B": "Drasswell Common, 17.56 mills",
+      "C": "Lake Orvaine Reach, 18.90 mills",
+      "D": "Cornrath Central, 16.84 mills",
+      "E": "Wyndmere Spur, 16.35 mills",
+      "F": "Fellwick South, 16.00 mills"
+    },
+    "answer": "C",
+    "evidence": "Lake Orvaine Reach is subject to a General Levy of 14.73 mills, a Special District Levy of 4.17 mills, and a Total Effective Rate of 18.90 mills.",
+    "reasoning": "Comparing total effective rates shows Lake Orvaine Reach has the highest value at 18.90 mills."
+  },
+  {
+    "id": "VABFR2024-046",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which sub-district has no special district levy in the Fiscal Year 2024 property tax schedule?",
+    "options": {
+      "A": "Thornock Rise",
+      "B": "Upper Bryndmere",
+      "C": "Fellwick South",
+      "D": "Gorrath Ridge",
+      "E": "Cornrath Central",
+      "F": "Wyndmere Spur"
+    },
+    "answer": "D",
+    "evidence": "Gorrath Ridge is subject to a General Levy of 14.73 mills, a Special District Levy of 0.00 mills, and a Total Effective Rate of 14.73 mills.",
+    "reasoning": "Gorrath Ridge is the only listed sub-district with a 0.00 mill special district levy."
+  },
+  {
+    "id": "VABFR2024-047",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which Fiscal Year 2024 revenue source is the smallest by adopted amount?",
+    "options": {
+      "A": "Interest & Investment Income, $1,117,600",
+      "B": "Recreation & Facility User Fees, $1,882,400",
+      "C": "Licensing & Business Registration Fees, $2,213,800",
+      "D": "Utility Surcharge (Stormwater), $3,318,900",
+      "E": "Fines & Forfeitures, $1,047,200",
+      "F": "Development & Building Permit Fees, $3,874,600"
+    },
+    "answer": "E",
+    "evidence": "Fines & Forfeitures: $1,047,200, stated as 0.91% of Total Revenue.",
+    "reasoning": "Comparing the listed revenue amounts, Fines & Forfeitures is the smallest at $1,047,200."
+  },
+  {
+    "id": "VABFR2024-048",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which Fiscal Year 2024 expenditure line is the largest by adopted amount?",
+    "options": {
+      "A": "Fire & Emergency Services, $12,447,100",
+      "B": "Public Works & Infrastructure, $14,882,300",
+      "C": "Capital Improvement Projects, $11,208,400",
+      "D": "Education Contribution (to Province), $9,774,500",
+      "E": "Debt Service (Principal & Interest), $9,413,700",
+      "F": "Municipal Guard (Public Safety), $17,338,200"
+    },
+    "answer": "F",
+    "evidence": "Municipal Guard (Public Safety): $17,338,200, stated as 15.30% of Total Expenditure.",
+    "reasoning": "Municipal Guard has the largest expenditure amount in the schedule."
+  },
+  {
+    "id": "VABFR2024-049",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which total effective tax rate is lower: Thornock Rise or Upper Bryndmere?",
+    "options": {
+      "A": "Thornock Rise, 15.27 mills",
+      "B": "Upper Bryndmere, 15.61 mills",
+      "C": "Both are 14.73 mills",
+      "D": "Upper Bryndmere, 0.88 mills",
+      "E": "Thornock Rise, 0.54 mills",
+      "F": "Both are 16.00 mills"
+    },
+    "answer": "A",
+    "evidence": "Thornock Rise is subject to a General Levy of 14.73 mills, a Special District Levy of 0.54 mills, and a Total Effective Rate of 15.27 mills. | Upper Bryndmere is subject to a General Levy of 14.73 mills, a Special District Levy of 0.88 mills, and a Total Effective Rate of 15.61 mills.",
+    "reasoning": "Comparing the total effective rates, 15.27 mills for Thornock Rise is lower than 15.61 mills for Upper Bryndmere."
+  },
+  {
+    "id": "VABFR2024-050",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which value is the current municipal sales tax rate rather than the pre-2022 old value?",
+    "options": {
+      "A": "1.218%",
+      "B": "1.473%",
+      "C": "6.000%",
+      "D": "7.218%",
+      "E": "7.473%",
+      "F": "0.255 percentage-point"
+    },
+    "answer": "B",
+    "evidence": "The NEW Value, effective January 1, 2022, current, is Municipal Sales Tax Rate = 1.473%.",
+    "reasoning": "The current municipal sales tax rate is 1.473%, while 1.218% is the old pre-2022 value."
+  },
+  {
+    "id": "VABFR2024-051",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which official has the earliest term start among the fiscal administration officers listed?",
+    "options": {
+      "A": "Cael Drossmund, August 14, 2018",
+      "B": "Gretchen Pallfort, March 15, 2017",
+      "C": "Hanna Corwick, January 10, 2011",
+      "D": "Torben Nallweiss, June 1, 2015",
+      "E": "Roswend Talfrey, September 2, 2019",
+      "F": "Aldwyn Prenthorpe, November 3, 2020"
+    },
+    "answer": "C",
+    "evidence": "The Municipal Clerk is Hanna Corwick, with term start January 10, 2011, and term end indefinite/career. The note for the Municipal Clerk is Longest-serving current officer.",
+    "reasoning": "The listed term starts show Hanna Corwick began earliest, and the note identifies her as the longest-serving current officer."
+  },
+  {
+    "id": "VABFR2024-052",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which expenditure line is smaller: Planning & Zoning or Contingency Reserve Contribution?",
+    "options": {
+      "A": "Planning & Zoning, $2,118,400",
+      "B": "Both are $2,118,400",
+      "C": "Both are $2,000,000",
+      "D": "Contingency Reserve Contribution, $2,000,000",
+      "E": "Planning & Zoning, 1.87%",
+      "F": "Contingency Reserve Contribution, 1.77%"
+    },
+    "answer": "D",
+    "evidence": "Planning & Zoning: $2,118,400, stated as 1.87% of Total Expenditure. | Contingency Reserve Contribution: $2,000,000, stated as 1.77% of Total Expenditure.",
+    "reasoning": "Comparing the dollar amounts, $2,000,000 is less than $2,118,400."
+  },
+  {
+    "id": "VABFR2024-053",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which special district levy is higher: Drasswell Common or Pellgate Flats?",
+    "options": {
+      "A": "Drasswell Common, 2.83 mills",
+      "B": "Both are 14.73 mills",
+      "C": "Both are 17.56 mills",
+      "D": "Lake Orvaine Reach, 4.17 mills",
+      "E": "Pellgate Flats, 3.44 mills",
+      "F": "Cornrath Central, 2.11 mills"
+    },
+    "answer": "E",
+    "evidence": "Pellgate Flats is subject to a General Levy of 14.73 mills, a Special District Levy of 3.44 mills, and a Total Effective Rate of 18.17 mills. | Drasswell Common is subject to a General Levy of 14.73 mills, a Special District Levy of 2.83 mills, and a Total Effective Rate of 17.56 mills.",
+    "reasoning": "Pellgate Flats has a 3.44 mill special levy, which is higher than Drasswell Common's 2.83 mills."
+  },
+  {
+    "id": "VABFR2024-054",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which revenue line has the greater stated percentage of Total Revenue: Municipal Sales Tax or Miscellaneous / Other?",
+    "options": {
+      "A": "Miscellaneous / Other, 13.98%",
+      "B": "Both are 16.06%",
+      "C": "Both are 13.98%",
+      "D": "Municipal Sales Tax, $18,447,300",
+      "E": "Miscellaneous / Other, $16,051,600",
+      "F": "Municipal Sales Tax, 16.06%"
+    },
+    "answer": "F",
+    "evidence": "Municipal Sales Tax is recorded in the amount of $18,447,300, stated as 16.06% of Total Revenue. | Miscellaneous / Other is recorded in the amount of $16,051,600, stated as 13.98% of Total Revenue.",
+    "reasoning": "Municipal Sales Tax has the higher percentage, 16.06% versus 13.98%."
+  },
+  {
+    "id": "VABFR2024-055",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which date belongs to the adoption of Ordinance T-2009-003, not its effective date or the dates for T-2007-001?",
+    "options": {
+      "A": "September 22, 2009",
+      "B": "January 1, 2010",
+      "C": "March 6, 2007",
+      "D": "January 1, 2008",
+      "E": "November 9, 2021",
+      "F": "January 1, 2022"
+    },
+    "answer": "A",
+    "evidence": "Ordinance T-2009-003 was adopted September 22, 2009 and effective January 1, 2010.",
+    "reasoning": "The sentence distinguishes T-2009-003's adoption date from its effective date."
+  },
+  {
+    "id": "VABFR2024-056",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which Tier fee is immediately higher than the Tier 2 annual fee?",
+    "options": {
+      "A": "Tier 1, $312 annually",
+      "B": "Tier 3, $2,218 annually",
+      "C": "Tier 4, $5,507 annually",
+      "D": "Licensing & Business Registration Fees, $2,213,800",
+      "E": "Development & Building Permit Fees, $3,874,600",
+      "F": "Tier 2, $874 annually"
+    },
+    "answer": "B",
+    "evidence": "Tier 2 Business License Fee, 5\u201319 employees: $874 annually. | Tier 3 Business License Fee, 20\u201399 employees: $2,218 annually.",
+    "reasoning": "The schedule shows Tier 3 as the next fee tier above Tier 2."
+  },
+  {
+    "id": "VABFR2024-057",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A property in Drasswell Common has a fair market value of $500,000. Using the current assessment ratio and Drasswell Common's total effective rate, what is the Fiscal Year 2024 property tax?",
+    "options": {
+      "A": "$5,376.45",
+      "B": "$6,146.60",
+      "C": "$6,409.40",
+      "D": "$6,632.05",
+      "E": "$6,898.50",
+      "F": "$5,840.00"
+    },
+    "answer": "C",
+    "evidence": "Assessed value = 73% of fair market value. | Drasswell Common is subject to a General Levy of 14.73 mills, a Special District Levy of 2.83 mills, and a Total Effective Rate of 17.56 mills.",
+    "reasoning": "The assessed value is $365,000, and $365,000 \u00f7 1,000 \u00d7 17.56 mills = $6,409.40."
+  },
+  {
+    "id": "VABFR2024-058",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A business has exactly 20 employees. Which annual business license fee applies?",
+    "options": {
+      "A": "$312 annually",
+      "B": "$874 annually",
+      "C": "$5,507 annually",
+      "D": "$2,218 annually",
+      "E": "$2,213,800",
+      "F": "$3,874,600"
+    },
+    "answer": "D",
+    "evidence": "Tier 3 applies to businesses with 20\u201399 employees. The Tier 3 fee is $2,218 annually.",
+    "reasoning": "Exactly 20 employees falls into the Tier 3 range of 20\u201399 employees."
+  },
+  {
+    "id": "VABFR2024-059",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "For a $1,000 taxable purchase in Fiscal Year 2024, what total sales tax would be due using the combined sales tax rate?",
+    "options": {
+      "A": "$14.73",
+      "B": "$12.18",
+      "C": "$60.00",
+      "D": "$72.18",
+      "E": "$74.73",
+      "F": "$147.30"
+    },
+    "answer": "E",
+    "evidence": "The combined rate is 7.473%.",
+    "reasoning": "Applying 7.473% to $1,000 gives $74.73 in total sales tax."
+  },
+  {
+    "id": "VABFR2024-060",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A Gorrath Ridge property has a fair market value of $400,000. Using the current assessment ratio and Gorrath Ridge's total effective rate, what is its Fiscal Year 2024 property tax?",
+    "options": {
+      "A": "$4,458.84",
+      "B": "$4,558.12",
+      "C": "$4,672.00",
+      "D": "$4,774.20",
+      "E": "$5,518.80",
+      "F": "$4,301.16"
+    },
+    "answer": "F",
+    "evidence": "Assessed value = 73% of fair market value. | Gorrath Ridge is subject to a General Levy of 14.73 mills, a Special District Levy of 0.00 mills, and a Total Effective Rate of 14.73 mills.",
+    "reasoning": "The assessed value is $292,000, and $292,000 \u00f7 1,000 \u00d7 14.73 mills = $4,301.16."
+  },
+  {
+    "id": "VABFR2024-061",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "If Council does not renew the 0.255 percentage-point increase after its scheduled expiration, what municipal sales tax rate remains permanent?",
+    "options": {
+      "A": "1.218%",
+      "B": "1.473%",
+      "C": "6.000%",
+      "D": "7.218%",
+      "E": "7.473%",
+      "F": "0.255 percentage-point"
+    },
+    "answer": "A",
+    "evidence": "The Sunset Provision states that the 0.255 percentage-point increase is scheduled to expire on December 31, 2029, unless renewed by Council. The Base rate of 1.218% remains permanent.",
+    "reasoning": "Without renewal, the expiring increment drops away and the document says the 1.218% base rate remains permanent."
+  },
+  {
+    "id": "VABFR2024-062",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A business reports exactly 100 employees. Which business license tier and fee apply?",
+    "options": {
+      "A": "Tier 3, $2,218 annually",
+      "B": "Tier 4, $5,507 annually",
+      "C": "Tier 2, $874 annually",
+      "D": "Tier 1, $312 annually",
+      "E": "Licensing & Business Registration Fees, $2,213,800",
+      "F": "Development & Building Permit Fees, $3,874,600"
+    },
+    "answer": "B",
+    "evidence": "Tier 4 applies to businesses with 100+ employees. The Tier 4 fee is $5,507 annually.",
+    "reasoning": "A business with exactly 100 employees enters the 100+ employee tier, so Tier 4 applies."
+  },
+  {
+    "id": "VABFR2024-063",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A Lake Orvaine Reach property has an assessed value of $300,000. What amount is due from the special district levy alone?",
+    "options": {
+      "A": "$633.00",
+      "B": "$1,032.00",
+      "C": "$1,251.00",
+      "D": "$849.00",
+      "E": "$486.00",
+      "F": "$264.00"
+    },
+    "answer": "C",
+    "evidence": "Lake Orvaine Reach is subject to a General Levy of 14.73 mills, a Special District Levy of 4.17 mills, and a Total Effective Rate of 18.90 mills.",
+    "reasoning": "The special levy alone is $300,000 \u00f7 1,000 \u00d7 4.17 mills = $1,251.00."
+  },
+  {
+    "id": "VABFR2024-064",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A business has 5 employees. What annual license fee should it pay?",
+    "options": {
+      "A": "$312 annually",
+      "B": "$2,218 annually",
+      "C": "$5,507 annually",
+      "D": "$874 annually",
+      "E": "$2,213,800",
+      "F": "$1,047,200"
+    },
+    "answer": "D",
+    "evidence": "Tier 2 applies to businesses with 5\u201319 employees. The Tier 2 fee is $874 annually.",
+    "reasoning": "Five employees is the lower boundary of Tier 2, so the Tier 2 fee applies."
+  },
+  {
+    "id": "VABFR2024-065",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A taxable sale is $10,000 in Fiscal Year 2024. What amount of municipal sales tax alone is due?",
+    "options": {
+      "A": "$747.30",
+      "B": "$600.00",
+      "C": "$721.80",
+      "D": "$121.80",
+      "E": "$147.30",
+      "F": "$25.50"
+    },
+    "answer": "E",
+    "evidence": "The Municipal Sales Tax Rate for the Municipality of Veltharrow is 1.473%.",
+    "reasoning": "Municipal sales tax alone is $10,000 \u00d7 1.473% = $147.30."
+  },
+  {
+    "id": "VABFR2024-066",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A Cornrath Central property has a fair market value of $650,000. Using the current assessment ratio and Cornrath Central's total effective rate, what is the Fiscal Year 2024 property tax?",
+    "options": {
+      "A": "$7,407.45",
+      "B": "$8,620.67",
+      "C": "$8,968.05",
+      "D": "$7,756.58",
+      "E": "$8,332.22",
+      "F": "$7,990.58"
+    },
+    "answer": "F",
+    "evidence": "Assessed value = 73% of fair market value. | Cornrath Central is subject to a General Levy of 14.73 mills, a Special District Levy of 2.11 mills, and a Total Effective Rate of 16.84 mills.",
+    "reasoning": "The assessed value is $474,500, and $474,500 \u00f7 1,000 \u00d7 16.84 mills = $7,990.58."
+  },
+  {
+    "id": "VABFR2024-067",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A property owner with a $750,000 fair market value property in Pellgate Flats asks for the Fiscal Year 2024 property tax using the current ratio and total effective rate. What is the amount?",
+    "options": {
+      "A": "$9,948.08",
+      "B": "$10,347.75",
+      "C": "$9,614.10",
+      "D": "$9,219.90",
+      "E": "$8,360.33",
+      "F": "$8,766.45"
+    },
+    "answer": "A",
+    "evidence": "Assessed value = 73% of fair market value. | Pellgate Flats is subject to a General Levy of 14.73 mills, a Special District Levy of 3.44 mills, and a Total Effective Rate of 18.17 mills.",
+    "reasoning": "The assessed value is $547,500, and $547,500 \u00f7 1,000 \u00d7 18.17 mills = $9,948.08 when rounded to cents."
+  },
+  {
+    "id": "VABFR2024-068",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "If the municipality records total expenditure of $113,291,400, what reserve fund policy minimum applies under the stated policy?",
+    "options": {
+      "A": "$8,774,350",
+      "B": "$8,496,855",
+      "C": "$9,413,700",
+      "D": "$1,546,100",
+      "E": "$2,000,000",
+      "F": "$47,228,600"
+    },
+    "answer": "B",
+    "evidence": "Reserve Fund Policy Minimum: 7.5% of total expenditure = $8,496,855",
+    "reasoning": "The stated policy directly gives 7.5% of total expenditure as $8,496,855."
+  },
+  {
+    "id": "VABFR2024-069",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A business has 99 employees. Which annual business license fee applies?",
+    "options": {
+      "A": "$874 annually",
+      "B": "$5,507 annually",
+      "C": "$2,218 annually",
+      "D": "$312 annually",
+      "E": "$2,213,800",
+      "F": "$3,874,600"
+    },
+    "answer": "C",
+    "evidence": "Tier 3 applies to businesses with 20\u201399 employees. The Tier 3 fee is $2,218 annually.",
+    "reasoning": "Ninety-nine employees is within the Tier 3 range of 20\u201399 employees."
+  },
+  {
+    "id": "VABFR2024-070",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A Fellwick South property has a fair market value of $600,000. Using the current assessment ratio and Fellwick South's total effective rate, what is the Fiscal Year 2024 property tax?",
+    "options": {
+      "A": "$6,451.74",
+      "B": "$6,688.26",
+      "C": "$7,161.30",
+      "D": "$7,008.00",
+      "E": "$7,691.28",
+      "F": "$7,958.46"
+    },
+    "answer": "D",
+    "evidence": "Assessed value = 73% of fair market value. | Fellwick South is subject to a General Levy of 14.73 mills, a Special District Levy of 1.27 mills, and a Total Effective Rate of 16.00 mills.",
+    "reasoning": "The assessed value is $438,000, and $438,000 \u00f7 1,000 \u00d7 16.00 mills = $7,008.00."
+  },
+  {
+    "id": "VABFR2024-071",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the outstanding municipal debt as of January 1, 2024?",
+    "options": {
+      "A": "$9,413,700",
+      "B": "$8,774,350",
+      "C": "$1,546,100",
+      "D": "$47,228,600",
+      "E": "$8,496,855",
+      "F": "$114,837,500"
+    },
+    "answer": "D",
+    "evidence": "Outstanding Municipal Debt as of January 1, 2024 is **$47,228,600**.",
+    "reasoning": "The Fiscal Overview section records this figure. Option A is debt service; B is reserve fund balance; D is total budget; E is reserve fund minimum; F is projected surplus."
+  },
+  {
+    "id": "VABFR2024-072",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the FY2024 adopted budget amount for Municipal Guard (Public Safety)?",
+    "options": {
+      "A": "$12,447,100",
+      "B": "$14,882,300",
+      "C": "$17,338,200",
+      "D": "$11,208,400",
+      "E": "$9,774,500",
+      "F": "$8,214,700"
+    },
+    "answer": "C",
+    "evidence": "Municipal Guard (Public Safety) is recorded in the amount of **$17,338,200**.",
+    "reasoning": "The Expenditure Schedule. Option A is Fire & Emergency Services; B is Public Works; D is Capital Improvement Projects; E is Education Contribution; F is General Government."
+  },
+  {
+    "id": "VABFR2024-073",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the stated percentage of total revenue represented by the Provincial Revenue Sharing Grant?",
+    "options": {
+      "A": "13.98%",
+      "B": "16.06%",
+      "C": "12.29%",
+      "D": "3.66%",
+      "E": "3.37%",
+      "F": "6.39%"
+    },
+    "answer": "C",
+    "evidence": "Provincial Revenue Sharing Grant is stated as **12.29%** of Total Revenue.",
+    "reasoning": "The Revenue Schedule. A is Miscellaneous/Other; B is Municipal Sales Tax; C is Intergovernmental Transfers (Special); E is Development Permit Fees; F is Property Tax Special District Levies."
+  },
+  {
+    "id": "VABFR2024-074",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the Tier 3 annual business license fee as stated in the FY2024 Business License Fee Schedule?",
+    "options": {
+      "A": "$312",
+      "B": "$5,507",
+      "C": "$874",
+      "D": "$4,507",
+      "E": "$3,218",
+      "F": "$2,218"
+    },
+    "answer": "F",
+    "evidence": "Tier 3 applies to 20\u201399 employees; the annual fee is **$2,218**.",
+    "reasoning": "The Business License Fee Schedule. A is Tier 1; C is Tier 2; B is Tier 4. D and E do not appear in any tier."
+  },
+  {
+    "id": "VABFR2024-075",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the bond rating assigned to Veltharrow as recorded in the FY2024 fiscal overview?",
+    "options": {
+      "A": "Drenmoor Municipal Bond Authority Rating: A1 (stable)",
+      "B": "Orvaine Province Bond Authority Rating: A2 (stable)",
+      "C": "Drenmoor Municipal Bond Authority Rating: A2 (positive)",
+      "D": "Drenmoor Municipal Bond Authority Rating: B1 (stable)",
+      "E": "Drenmoor Municipal Bond Authority Rating: A2 (stable)",
+      "F": "Drenmoor Municipal Bond Authority Rating: AA2 (stable)"
+    },
+    "answer": "E",
+    "evidence": "Bond Rating: **Drenmoor Municipal Bond Authority Rating: A2 (stable)**.",
+    "reasoning": "Every element of the rating string matters: authority name, rating grade, and outlook. Options A, C, D, E, F change one element each."
+  },
+  {
+    "id": "VABFR2024-076",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What is the projected year-end surplus, calculated as total revenue minus total expenditure?",
+    "options": {
+      "A": "$1,456,100",
+      "B": "$1,546,100",
+      "C": "$2,546,100",
+      "D": "$1,646,100",
+      "E": "$546,100",
+      "F": "$1,446,100"
+    },
+    "answer": "B",
+    "evidence": "Total Revenue $114,837,500 \u2212 Total Expenditure $113,291,400 = **$1,546,100**.",
+    "reasoning": "The Fiscal Overview records this directly. The other options are off by \u00b1$100,000 steps or by a factor."
+  },
+  {
+    "id": "VABFR2024-077",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What combined FY2024 expenditure amount is obtained by adding Municipal Guard (Public Safety) and Fire & Emergency Services?",
+    "options": {
+      "A": "$28,785,300",
+      "B": "$29,785,300",
+      "C": "$28,685,300",
+      "D": "$30,785,300",
+      "E": "$29,685,300",
+      "F": "$29,885,300"
+    },
+    "answer": "B",
+    "evidence": "$17,338,200 + $12,447,100 = **$29,785,300**.",
+    "reasoning": "Both figures from the Expenditure Schedule. Off-by-a-few-hundred-thousand traps test exact recall of both figures."
+  },
+  {
+    "id": "VABFR2024-078",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "By how much does the unassigned reserve fund balance exceed the reserve fund policy minimum as of January 1, 2024?",
+    "options": {
+      "A": "$187,495",
+      "B": "$177,495",
+      "C": "$277,495",
+      "D": "$287,495",
+      "E": "$387,495",
+      "F": "$267,495"
+    },
+    "answer": "C",
+    "evidence": "Reserve fund balance $8,774,350 \u2212 Policy minimum $8,496,855 = **$277,495**.",
+    "reasoning": "Both values are in the Fiscal Overview. The $8,496,855 minimum is 7.5% of $113,291,400 total expenditure."
+  },
+  {
+    "id": "VABFR2024-079",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What combined FY2024 expenditure amount do Social Services & Housing Assistance and Public Health Services represent?",
+    "options": {
+      "A": "$10,824,500",
+      "B": "$11,424,500",
+      "C": "$11,324,500",
+      "D": "$11,224,500",
+      "E": "$11,024,500",
+      "F": "$10,924,500"
+    },
+    "answer": "C",
+    "evidence": "Social Services & Housing Assistance $6,883,200 + Public Health Services $4,441,300 = **$11,324,500**.",
+    "reasoning": "Both figures from the Expenditure Schedule. Off-by-\u00b1$100,000 distractors require exact recall of both amounts."
+  },
+  {
+    "id": "VABFR2024-080",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What percentage of total revenue is represented by the Municipal Sales Tax and Provincial Revenue Sharing Grant combined?",
+    "options": {
+      "A": "$27.35%",
+      "B": "28.15%",
+      "C": "29.35%",
+      "D": "28.35%",
+      "E": "27.35%",
+      "F": "28.55%"
+    },
+    "answer": "D",
+    "evidence": "Municipal Sales Tax 16.06% + Provincial Revenue Sharing Grant 12.29% = **28.35%**.",
+    "reasoning": "Revenue Schedule stated percentages. Options differ by 0.10\u20131.00 percentage-point increments."
+  },
+  {
+    "id": "VABFR2024-081",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What was the purpose of Ordinance F-2021-004, which established the current municipal sales tax rate?",
+    "options": {
+      "A": "To fund the Gorrath Ridge capital infrastructure program",
+      "B": "To fund the Drasswell Pond Flood Mitigation Capital Program",
+      "C": "To replace the provincial revenue sharing formula",
+      "D": "To fund the Municipal Library System expansion",
+      "E": "To retire outstanding municipal debt ahead of schedule",
+      "F": "To fund the Fellwick Bypass construction project"
+    },
+    "answer": "B",
+    "evidence": "Ordinance F-2021-004 adjusted the municipal sales tax rate **to fund the Drasswell Pond Flood Mitigation Capital Program**.",
+    "reasoning": "The Sales Tax Provisions section. The Fellwick Bypass was completed in 2009; the other programs are fabricated or misattributed."
+  },
+  {
+    "id": "VABFR2024-082",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What does the assessment ratio of 73% mean in the context of Veltharrow property tax calculations?",
+    "options": {
+      "A": "73% of assessed value is exempt from taxation",
+      "B": "The general levy rate is multiplied by 73% before application",
+      "C": "Only 73% of properties in each sub-district are subject to assessment",
+      "D": "73% of property tax revenue goes to the provincial government",
+      "E": "The assessment ratio applies only to commercial properties, not residential",
+      "F": "Assessed value is calculated as 73% of the property's fair market value"
+    },
+    "answer": "F",
+    "evidence": "Assessed value = **73% of fair market value**, per the Property Tax and Assessment Provisions.",
+    "reasoning": "The assessment ratio converts FMV to AV, which is then multiplied by the mill rate. All other options misstate the mechanism."
+  },
+  {
+    "id": "VABFR2024-083",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What was the base municipal sales tax rate before Ordinance F-2021-004 took effect, and what permanent rate does the ordinance preserve?",
+    "options": {
+      "A": "Old rate 1.218%; permanent base 1.000%",
+      "B": "Old rate 1.473%; permanent base 1.218%",
+      "C": "Old rate 1.218%; permanent base 1.473%",
+      "D": "Old rate 1.000%; permanent base 1.218%",
+      "E": "Old rate 1.473%; permanent base 1.473%",
+      "F": "Old rate 1.218%; permanent base 1.218%"
+    },
+    "answer": "F",
+    "evidence": "The OLD Value was Municipal Sales Tax Rate = **1.218%**. The sunset provision states the **base rate of 1.218% remains permanent**.",
+    "reasoning": "Sales Tax Provisions. The 1.473% is the new (current) rate; the permanent base is the pre-2022 rate of 1.218%, which is preserved after the 0.255 pp increase expires."
+  },
+  {
+    "id": "VABFR2024-084",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "Which officer is responsible for administering property tax assessment in Veltharrow, and what is the stated term-end of the current holder?",
+    "options": {
+      "A": "Roswend Talfrey, Chief Financial Officer, indefinite/career",
+      "B": "Gretchen Pallfort, Municipal Manager, indefinite/career",
+      "C": "Darvid Quennell, Municipal Solicitor, indefinite/career",
+      "D": "Ysabel Frondtke, Director of Planning, indefinite/career",
+      "E": "Brixton Hallvane, Chief Assessor, December 2026",
+      "F": "Hanna Corwick, Municipal Clerk, indefinite/career"
+    },
+    "answer": "E",
+    "evidence": "The **Chief Assessor is Brixton Hallvane**, appointed, with term ending **December 2026**.",
+    "reasoning": "Property Tax and Assessment Provisions. The other officers have financial or administrative roles but are not the Chief Assessor. Hallvane's term end is notably specific, unlike career officers."
+  },
+  {
+    "id": "VABFR2024-085",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What is the relationship between the total adopted budget and total revenue for FY2024, as stated in the report?",
+    "options": {
+      "A": "Total budget exceeds total revenue by $1,546,100",
+      "B": "Total revenue exceeds total budget by $1,546,100",
+      "C": "Total budget equals total expenditure; revenue is a separate planning figure",
+      "D": "Total budget and total revenue are the same figure: $114,837,500",
+      "E": "Total budget is $113,291,400; total revenue is $114,837,500",
+      "F": "Total budget is the sum of revenue and expenditure"
+    },
+    "answer": "D",
+    "evidence": "Total Adopted Budget FY2024: **$114,837,500**. Total Revenue FY2024: **$114,837,500**. They are the same figure.",
+    "reasoning": "The Fiscal Overview records both as $114,837,500. The surplus ($1,546,100) is the difference between revenue and expenditure, not budget and revenue."
+  },
+  {
+    "id": "VABFR2024-086",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which single expenditure line is the largest in the FY2024 schedule?",
+    "options": {
+      "A": "Public Works & Infrastructure at $14,882,300",
+      "B": "Fire & Emergency Services at $12,447,100",
+      "C": "Education Contribution at $9,774,500",
+      "D": "Capital Improvement Projects at $11,208,400",
+      "E": "Debt Service at $9,413,700",
+      "F": "Municipal Guard (Public Safety) at $17,338,200"
+    },
+    "answer": "F",
+    "evidence": "Municipal Guard (Public Safety) at **$17,338,200** is the single largest expenditure line.",
+    "reasoning": "Expenditure Schedule. Public Works ($14.9M) and Fire & Emergency ($12.4M) are the second and third largest, but Municipal Guard tops all at $17.3M."
+  },
+  {
+    "id": "VABFR2024-087",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which revenue source contributes the second-largest amount to FY2024 total revenue?",
+    "options": {
+      "A": "Miscellaneous / Other at $16,051,600",
+      "B": "Provincial Revenue Sharing Grant at $14,112,500",
+      "C": "Municipal Sales Tax at $18,447,300",
+      "D": "Property Tax (Special District Levies) at $7,341,200",
+      "E": "Property Tax (General Levy) at $41,228,400",
+      "F": "Intergovernmental Transfers (Special) at $4,200,000"
+    },
+    "answer": "A",
+    "evidence": "Property Tax General Levy ($41,228,400) is largest. **Miscellaneous / Other at $16,051,600** is second-largest.",
+    "reasoning": "Revenue Schedule ranked: $41.2M, $18.4M, $16.1M, $14.1M, ... Option C (Municipal Sales Tax at $18.4M) is third-largest."
+  },
+  {
+    "id": "VABFR2024-088",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Comparing debt service to the capital improvement projects budget: which is larger, and by how much?",
+    "options": {
+      "A": "Capital Improvement Projects is larger by $794,700",
+      "B": "Debt Service is larger by $1,794,700",
+      "C": "Capital Improvement Projects is larger by $1,794,700",
+      "D": "They are equal at $9,413,700 each",
+      "E": "Debt Service is larger by $794,700",
+      "F": "Capital Improvement Projects is larger by $2,794,700"
+    },
+    "answer": "C",
+    "evidence": "Capital Improvement Projects $11,208,400 \u2212 Debt Service $9,413,700 = **$1,794,700** by which CIP exceeds debt service.",
+    "reasoning": "Expenditure Schedule. Option B inverts which is larger; C and E use wrong differences."
+  },
+  {
+    "id": "VABFR2024-089",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which sub-district has the LOWEST total effective property tax rate in FY2024?",
+    "options": {
+      "A": "Fellwick South at 16.00 mills",
+      "B": "Upper Bryndmere at 15.61 mills",
+      "C": "Thornock Rise at 15.27 mills",
+      "D": "Gorrath Ridge at 14.73 mills",
+      "E": "Wyndmere Spur at 16.35 mills",
+      "F": "Cornrath Central at 16.84 mills"
+    },
+    "answer": "D",
+    "evidence": "**Gorrath Ridge** has a total effective rate of **14.73 mills** \u2014 equal to the general levy only, with no special district levy.",
+    "reasoning": "Property Tax Rate Schedule. Gorrath Ridge is unique in having a 0.00 mill special district levy, making its total rate the lowest."
+  },
+  {
+    "id": "VABFR2024-090",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which council vote passed Ordinance T-2009-003, and how does it compare to the vote on Ordinance T-2007-001?",
+    "options": {
+      "A": "T-2009-003 passed 6\u20133; T-2007-001 passed 7\u20132",
+      "B": "T-2009-003 passed 7\u20132; T-2007-001 passed 6\u20133",
+      "C": "Both passed 6\u20133",
+      "D": "Both passed 7\u20132",
+      "E": "T-2009-003 passed 8\u20131; T-2007-001 passed 6\u20133",
+      "F": "T-2009-003 passed 5\u20134; T-2007-001 passed 7\u20132"
+    },
+    "answer": "A",
+    "evidence": "T-2009-003 Council Vote: **6\u20133**. T-2007-001 Council Vote: **7\u20132**.",
+    "reasoning": "Property Tax and Assessment Provisions. The later ordinance (2009) was passed by a narrower margin than the earlier one (2007)."
+  },
+  {
+    "id": "VABFR2024-091",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A commercial property in Cornrath Central has a fair market value of $600,000. What is the FY2024 total property tax owed, rounded to the nearest dollar?",
+    "options": {
+      "A": "$7,032",
+      "B": "$7,680",
+      "C": "$8,823",
+      "D": "$7,376",
+      "E": "$7,200",
+      "F": "$8,856"
+    },
+    "answer": "D",
+    "evidence": "AV = $600,000 \u00d7 0.73 = $438,000; rate = 16.84 mills; tax = $438,000 \u00d7 16.84 \u00f7 1,000 = $7,375.92 \u2248 **$7,376**.",
+    "reasoning": "Cornrath Central total effective rate is 16.84 mills (14.73 + 2.11 business improvement district). Option A uses 16.06 mills; option D uses 17.56 mills (Drasswell Common)."
+  },
+  {
+    "id": "VABFR2024-092",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A property in Fellwick South has a fair market value of $180,000. What is the FY2024 total effective property tax owed, rounded to the nearest dollar?",
+    "options": {
+      "A": "$2,003",
+      "B": "$1,938",
+      "C": "$1,877",
+      "D": "$2,201",
+      "E": "$1,802",
+      "F": "$2,102"
+    },
+    "answer": "F",
+    "evidence": "AV = $180,000 \u00d7 0.73 = $131,400; rate = 16.00 mills (14.73 + 1.27); tax = $131,400 \u00d7 16.00 \u00f7 1,000 = **$2,102.40 \u2248 $2,102**.",
+    "reasoning": "Fellwick South total effective rate is 16.00 mills. Option B applies general levy only (14.73 mills \u2192 $1,931). Option D reverses the assessed-value ratio."
+  },
+  {
+    "id": "VABFR2024-093",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "What is the reserve fund policy minimum dollar amount for FY2024, calculated as 7.5% of total expenditure?",
+    "options": {
+      "A": "$8,496,855",
+      "B": "$8,396,855",
+      "C": "$8,774,350",
+      "D": "$8,596,855",
+      "E": "$8,296,855",
+      "F": "$8,646,855"
+    },
+    "answer": "A",
+    "evidence": "7.5% \u00d7 $113,291,400 = **$8,496,855**.",
+    "reasoning": "The Fiscal Overview states this directly. Option C is the actual reserve balance (what the municipality holds), not the minimum. Other options are off by \u00b1$100,000 steps."
+  },
+  {
+    "id": "VABFR2024-094",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A business registers for the first time in Veltharrow with 3 employees. During the year it grows to 22 employees. Which tier and fee apply for the full licensing year at registration?",
+    "options": {
+      "A": "Tier 3, $2,218, because end-of-year count governs",
+      "B": "Tier 2, $874, because the midpoint count governs",
+      "C": "Tier 2, $312, because Tier 1 rates apply for under-12-month operation",
+      "D": "Tier 4, $5,507, because projected growth is assessed",
+      "E": "Tier 1, $312, because employee count at registration time governs",
+      "F": "Tier 3, $874, because Tier 2 rates apply retrospectively"
+    },
+    "answer": "E",
+    "evidence": "At registration the business has **3 employees**, placing it in **Tier 1 (0\u20134 employees)** at **$312**. The schedule is applied at the time of licensing.",
+    "reasoning": "Business License Fee Schedule. The document states tiers by employee range; 3 employees falls in Tier 1. Options A and B introduce criteria not stated in the document."
+  },
+  {
+    "id": "VABFR2024-095",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "Which three councillors voted against Ordinance F-2021-004, and from which wards do they hail?",
+    "options": {
+      "A": "Prinna Valcourt (Cornrath), Marthyl Dunnegan (Fellwick), Emmelyn Foscroft (Drasswell)",
+      "B": "Prinna Valcourt (Cornrath), Marthyl Dunnegan (Fellwick), Rund Pallister (Drasswell)",
+      "C": "Rund Pallister (Drasswell), Oresten Bluffe (Cornrath), Jorvyn Crellweiss (Gorrath)",
+      "D": "Tove Hasseldorf (Fellwick), Linne Orvak (Gorrath), Emmelyn Foscroft (Drasswell)",
+      "E": "Jorvyn Crellweiss (Gorrath), Rund Pallister (Drasswell), Marthyl Dunnegan (Fellwick)",
+      "F": "Prinna Valcourt (Cornrath), Linne Orvak (Gorrath), Rund Pallister (Drasswell)"
+    },
+    "answer": "B",
+    "evidence": "Dissenting votes were **Councillors Prinna Valcourt, Marthyl Dunnegan, and Rund Pallister**. Their wards: Cornrath (Seat 1A), Fellwick (Seat 2A), Drasswell (Seat 4A).",
+    "reasoning": "Sales Tax Provisions name the three dissenters. Cross-referencing with the legislative roster gives their wards."
+  },
+  {
+    "id": "VABFR2024-096",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "The assessment ratio was 65% before Ordinance T-2007-001, then 71% under T-2007-001, and is now 73% under T-2009-003. If a property had a fair market value of $200,000, what would its assessed value have been under the pre-2008 ratio?",
+    "options": {
+      "A": "$146,000",
+      "B": "$130,000",
+      "C": "$142,000",
+      "D": "$160,000",
+      "E": "$153,000",
+      "F": "$121,000"
+    },
+    "answer": "B",
+    "evidence": "Pre-2008 assessment ratio was **65%**; AV = $200,000 \u00d7 0.65 = **$130,000**.",
+    "reasoning": "Property Tax and Assessment Provisions historical sequence. Option A uses 73% (current); option B uses 71% (T-2007-001 rate); option D uses 80%."
+  },
+  {
+    "id": "VABFR2024-097",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "What percentage of total FY2024 expenditure does debt service (principal and interest) represent, and does the current reserve fund balance exceed the 7.5% policy minimum?",
+    "options": {
+      "A": "7.25%; yes, by $277,495",
+      "B": "8.62%; yes, by $277,495",
+      "C": "8.31%; no, the reserve is below the minimum",
+      "D": "8.31%; yes, by $177,495",
+      "E": "8.31%; yes, by $277,495",
+      "F": "9.89%; yes, by $277,495"
+    },
+    "answer": "E",
+    "evidence": "Debt Service is **8.31%** of total expenditure. Reserve balance $8,774,350 exceeds minimum $8,496,855 by **$277,495**.",
+    "reasoning": "Expenditure Schedule and Fiscal Overview combined. Option B uses the Education Contribution percentage; option F uses Capital Improvement Projects percentage."
+  },
+  {
+    "id": "VABFR2024-098",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A property in Lake Orvaine Reach has a fair market value of $400,000. What is the FY2024 total effective property tax owed, rounded to the nearest dollar?",
+    "options": {
+      "A": "$5,519",
+      "B": "$4,729",
+      "C": "$5,434",
+      "D": "$5,023",
+      "E": "$4,964",
+      "F": "$5,907"
+    },
+    "answer": "A",
+    "evidence": "AV = $400,000 \u00d7 0.73 = $292,000; rate = 18.90 mills; tax = $292,000 \u00d7 18.90 \u00f7 1,000 = $5,518.80 \u2248 **$5,519**.",
+    "reasoning": "Lake Orvaine Reach has the highest total effective rate: 14.73 + 4.17 = 18.90 mills. Option E applies 17.00 mills; option A applies Drasswell Common's 17.56 mills."
+  },
+  {
+    "id": "VABFR2024-099",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "Using the FY2024 figures, what is the combined effective sales tax rate a consumer pays in Veltharrow, and which ordinance established the municipal portion currently in effect?",
+    "options": {
+      "A": "7.473% combined; Ordinance F-2021-004",
+      "B": "7.218% combined; Ordinance T-2009-003",
+      "C": "7.473% combined; Ordinance T-2007-001",
+      "D": "6.000% combined; Ordinance F-2021-004",
+      "E": "8.473% combined; Ordinance F-2021-004",
+      "F": "7.218% combined; Ordinance F-2021-004"
+    },
+    "answer": "A",
+    "evidence": "Combined rate = 1.473% + 6.000% = **7.473%**. The controlling ordinance is **Ordinance F-2021-004**.",
+    "reasoning": "Sales Tax Provisions. 7.218% was the pre-2022 combined rate. The T-series ordinances address property assessment ratios, not sales tax."
+  },
+  {
+    "id": "VABFR2024-100",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A property developer in Pellgate Flats wants to build a 22-story residential tower. Under the current rules applicable to Pellgate Flats in Zone R-3, what is the maximum permitted height, and which regulatory instrument restricts it?",
+    "options": {
+      "A": "28.0 meters (8 stories); standard Zone R-3 maximum",
+      "B": "45.0 meters (13 stories); C-3 district maximum applies to Pellgate",
+      "C": "38.0 meters; Cornrath Square sight-line protection",
+      "D": "8.1 meters; Gorrath Ridgeline View Protection Policy",
+      "E": "21.0 meters (6 stories); Pellgate Special Height Overlay (Ordinance Z-2017-009)",
+      "F": "14.0 meters (4 stories); Zone R-2 maximum applies"
+    },
+    "answer": "E",
+    "evidence": "In Pellgate Flats, the **Pellgate Special Height Overlay (Ordinance Z-2017-009)** limits all R-3 structures to **21.0 meters (6 stories)** due to aircraft approach path proximity.",
+    "reasoning": "Exception R-3.2(a) and the Budget document's property tax provisions. The 28.0-meter standard R-3 limit was the pre-overlay value. 8.1 meters is Gorrath Ridge's restriction, not Pellgate."
+  }
+]

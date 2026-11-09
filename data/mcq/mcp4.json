@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "VOAC-001",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What period does the Compendium record canonical ordinance amendments for?",
+    "options": {
+      "A": "2005\u20132021",
+      "B": "FY2024",
+      "C": "2002\u20132010",
+      "D": "January 1, 2008 to January 1, 2010",
+      "E": "January 1, 2018 to January 1, 2022",
+      "F": "2012 administrative policy to FY2024"
+    },
+    "answer": "A",
+    "evidence": "This Compendium records the canonical ordinance amendments of the Municipality of Veltharrow for the period 2005\u20132021.",
+    "reasoning": "The opening statement identifies the Compendium period as 2005\u20132021."
+  },
+  {
+    "id": "VOAC-002",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What municipal seat is stated at the top of the Compendium?",
+    "options": {
+      "A": "Cornrath Avenue and Drasswell Road in Zone C-3",
+      "B": "Veltharrow Civic Hall, 14 Cornrath Square, Veltharrow",
+      "C": "Cornrath Central Business District",
+      "D": "Drasswell Pond Flood Mitigation Capital Program",
+      "E": "Municipal Zoning Map VTH-ZM-2023",
+      "F": "Province of Orvaine"
+    },
+    "answer": "B",
+    "evidence": "Municipal Seat: Veltharrow Civic Hall, 14 Cornrath Square, Veltharrow",
+    "reasoning": "The municipal seat line gives this address exactly."
+  },
+  {
+    "id": "VOAC-003",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "On what date was Ordinance C-2005-001 adopted?",
+    "options": {
+      "A": "July 1, 2005",
+      "B": "March 6, 2007",
+      "C": "February 15, 2005",
+      "D": "September 22, 2009",
+      "E": "June 17, 2014",
+      "F": "November 9, 2021"
+    },
+    "answer": "C",
+    "evidence": "**Adoption Date:** February 15, 2005.",
+    "reasoning": "The adoption date field under Ordinance C-2005-001 states February 15, 2005."
+  },
+  {
+    "id": "VOAC-004",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "Who is identified as the sponsor of Ordinance C-2005-001?",
+    "options": {
+      "A": "Chief Assessor Dolvane Prescroft",
+      "B": "Councillor Emmelyn Foscroft",
+      "C": "Director of Public Works, Cael Drossmund",
+      "D": "Mayor Colwick Durrath",
+      "E": "Mayor Ovenspoor",
+      "F": "Brixton Hallvane"
+    },
+    "answer": "D",
+    "evidence": "**Sponsor:** Mayor Colwick Durrath, predecessor to Mayor Ovenspoor, served 2002\u20132010.",
+    "reasoning": "The sponsor line names Mayor Colwick Durrath."
+  },
+  {
+    "id": "VOAC-005",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "Who was the administering officer at the time of passage of Ordinance T-2007-001?",
+    "options": {
+      "A": "Mayor Colwick Durrath",
+      "B": "Councillor Emmelyn Foscroft",
+      "C": "Director of Public Works, Cael Drossmund",
+      "D": "Mayor Ovenspoor",
+      "E": "Chief Assessor Dolvane Prescroft",
+      "F": "Brixton Hallvane"
+    },
+    "answer": "E",
+    "evidence": "**Administering Officer at Time of Passage:** Chief Assessor Dolvane Prescroft, predecessor to Brixton Hallvane.",
+    "reasoning": "The administering officer field names Chief Assessor Dolvane Prescroft."
+  },
+  {
+    "id": "VOAC-006",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What was the adoption date of Ordinance T-2009-003?",
+    "options": {
+      "A": "March 6, 2007",
+      "B": "January 1, 2010",
+      "C": "June 17, 2014",
+      "D": "October 3, 2017",
+      "E": "April 30, 2019",
+      "F": "September 22, 2009"
+    },
+    "answer": "F",
+    "evidence": "**Adoption Date:** September 22, 2009.",
+    "reasoning": "The T-2009-003 adoption-date line provides September 22, 2009."
+  },
+  {
+    "id": "VOAC-007",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "Who sponsored Ordinance R-2014-007?",
+    "options": {
+      "A": "Councillor Emmelyn Foscroft, Drasswell Ward, Seat 4B",
+      "B": "Mayor Colwick Durrath, predecessor to Mayor Ovenspoor, served 2002\u20132010",
+      "C": "Chief Assessor Dolvane Prescroft, predecessor to Brixton Hallvane",
+      "D": "Director of Public Works, Cael Drossmund",
+      "E": "Councillor Rund Pallister",
+      "F": "Councillor Prinna Valcourt"
+    },
+    "answer": "A",
+    "evidence": "**Sponsor:** Councillor Emmelyn Foscroft, Drasswell Ward, Seat 4B.",
+    "reasoning": "The R-2014-007 sponsor line identifies Councillor Emmelyn Foscroft and her ward and seat."
+  },
+  {
+    "id": "VOAC-008",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What council vote is listed for Ordinance Z-2017-009?",
+    "options": {
+      "A": "9\u20130 (unanimous)",
+      "B": "5\u20134 in favor",
+      "C": "7\u20132 in favor",
+      "D": "6\u20133 in favor",
+      "E": "8\u20131 in favor",
+      "F": "7\u20132 in favor"
+    },
+    "answer": "B",
+    "evidence": "**Council Vote:** 5\u20134 in favor.",
+    "reasoning": "The Z-2017-009 vote field states 5\u20134 in favor."
+  },
+  {
+    "id": "VOAC-009",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "Which councillors are listed as dissenting votes on Ordinance Z-2017-009?",
+    "options": {
+      "A": "Councillors Prinna Valcourt, Marthyl Dunnegan, Rund Pallister",
+      "B": "Mayor Colwick Durrath, predecessor to Mayor Ovenspoor",
+      "C": "Councillors Rund Pallister, Prinna Valcourt, Marthyl Dunnegan, Oresten Bluffe",
+      "D": "Chief Assessor Dolvane Prescroft and Brixton Hallvane",
+      "E": "Councillor Emmelyn Foscroft, Drasswell Ward, Seat 4B",
+      "F": "Director of Public Works, Cael Drossmund"
+    },
+    "answer": "C",
+    "evidence": "**Dissenting Votes:** Councillors Rund Pallister, Prinna Valcourt, Marthyl Dunnegan, Oresten Bluffe.",
+    "reasoning": "The dissenting-votes field lists those four councillors for Z-2017-009."
+  },
+  {
+    "id": "VOAC-010",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What zoning map reference is named in the Compendium?",
+    "options": {
+      "A": "Veltharrow Comprehensive Zoning Code",
+      "B": "Ordinance Z-1987-001",
+      "C": "Section 14.7",
+      "D": "Municipal Zoning Map VTH-ZM-2023",
+      "E": "Gorrath Ridgeline View Protection Policy",
+      "F": "Orvaine Provincial Flood Authority's 2016 Floodplain Mapping"
+    },
+    "answer": "D",
+    "evidence": "The zoning map reference is Municipal Zoning Map VTH-ZM-2023, on file with the Director of Planning.",
+    "reasoning": "The Z-2017-009 overview sentence names Municipal Zoning Map VTH-ZM-2023."
+  },
+  {
+    "id": "VOAC-011",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "Which administering office is stated for Ordinance SP-2019-001?",
+    "options": {
+      "A": "Chief Assessor Dolvane Prescroft",
+      "B": "Mayor Colwick Durrath",
+      "C": "Councillor Emmelyn Foscroft, Drasswell Ward, Seat 4B",
+      "D": "Director of Planning",
+      "E": "Director of Public Works, Cael Drossmund",
+      "F": "Orvaine Provincial Flood Authority"
+    },
+    "answer": "E",
+    "evidence": "**Administering Office:** Director of Public Works, Cael Drossmund.",
+    "reasoning": "The SP-2019-001 administering-office field names the Director of Public Works, Cael Drossmund."
+  },
+  {
+    "id": "VOAC-012",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What was the adoption date of Ordinance F-2021-004?",
+    "options": {
+      "A": "January 1, 2022",
+      "B": "April 30, 2019",
+      "C": "September 1, 2019",
+      "D": "October 3, 2017",
+      "E": "December 31, 2029",
+      "F": "November 9, 2021"
+    },
+    "answer": "F",
+    "evidence": "**Adoption Date:** November 9, 2021.",
+    "reasoning": "The F-2021-004 adoption-date line states November 9, 2021."
+  },
+  {
+    "id": "VOAC-013",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What subject is stated for Ordinance F-2021-004?",
+    "options": {
+      "A": "Adjusted the municipal sales tax rate to fund the Drasswell Pond Flood Mitigation Capital Program.",
+      "B": "Second revision to the assessment ratio for property tax calculation.",
+      "C": "Changed the affordable housing income threshold used to qualify for density bonuses in Zone R-2.",
+      "D": "Established mandatory ground-floor commercial use along Cornrath Avenue and Drasswell Road in Zone C-3.",
+      "E": "Established the Drasswell Common Flood Proofing Certification Program and changed the renewal period for flood proofing certificates.",
+      "F": "Omnibus zoning amendment; three specific measurable changes are called out: Gorrath Ridge Maximum Building Height, Lake Orvaine Reach Shoreline Setback, and Pellgate Flats Height Overlay."
+    },
+    "answer": "A",
+    "evidence": "**Subject:** Adjusted the municipal sales tax rate to fund the Drasswell Pond Flood Mitigation Capital Program.",
+    "reasoning": "The subject field for F-2021-004 states this funding purpose."
+  },
+  {
+    "id": "VOAC-014",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What council vote is listed for Ordinance C-2005-001?",
+    "options": {
+      "A": "7\u20132 in favor",
+      "B": "9\u20130 (unanimous)",
+      "C": "6\u20133 in favor",
+      "D": "8\u20131 in favor",
+      "E": "5\u20134 in favor",
+      "F": "6\u20133 in favor"
+    },
+    "answer": "B",
+    "evidence": "**Council Vote:** 9\u20130 (unanimous).",
+    "reasoning": "The C-2005-001 vote field states 9\u20130 and marks it unanimous."
+  },
+  {
+    "id": "VOAC-015",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "How many years elapsed between the January 1, 2008 effective date of T-2007-001 and the January 1, 2010 effective date of T-2009-003?",
+    "options": {
+      "A": "5 years",
+      "B": "7 years",
+      "C": "2 years",
+      "D": "3 years",
+      "E": "1 year",
+      "F": "4 years"
+    },
+    "answer": "C",
+    "evidence": "**Effective Date:** January 1, 2008. **Effective Date:** January 1, 2010.",
+    "reasoning": "Both dates are stated in the document; subtracting 2008 from 2010 gives 2 years."
+  },
+  {
+    "id": "VOAC-016",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "Combining the municipal sales tax rate with the unchanged provincial rate, what combined rate applies as of FY2024?",
+    "options": {
+      "A": "1.473%",
+      "B": "6.000%",
+      "C": "7.218%",
+      "D": "7.473%",
+      "E": "1.218%",
+      "F": "0.255 percentage-point increase"
+    },
+    "answer": "D",
+    "evidence": "The same FY2024 fiscal provisions state that the municipal sales tax rate of 1.473% is added to the Drenmoor Provincial Sales Tax of 6.000%, and that the combined rate is 7.473%.",
+    "reasoning": "The municipal rate of 1.473% and provincial rate of 6.000% combine to 7.473%."
+  },
+  {
+    "id": "VOAC-017",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What is the numerical increase from the old municipal sales tax rate to the new municipal sales tax rate under F-2021-004?",
+    "options": {
+      "A": "1.218 percentage points",
+      "B": "1.473 percentage points",
+      "C": "6.000 percentage points",
+      "D": "7.218 percentage points",
+      "E": "0.255 percentage points",
+      "F": "7.473 percentage points"
+    },
+    "answer": "E",
+    "evidence": "**OLD Municipal Sales Tax Value, superseded by Ordinance F-2021-004:** Before January 1, 2022, Municipal Sales Tax Rate = 1.218%. **NEW Municipal Sales Tax Value, effective January 1, 2022:** Municipal Sales Tax Rate = 1.473%.",
+    "reasoning": "Subtracting 1.218% from 1.473% gives an increase of 0.255 percentage points, matching the sunset-provision wording."
+  },
+  {
+    "id": "VOAC-018",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What is the stated current minimum habitable floor when the base flood elevation is 97.4 m AMSL and the required increment is 0.8 m?",
+    "options": {
+      "A": "97.4 m AMSL",
+      "B": "97.9 m AMSL",
+      "C": "0.8 m",
+      "D": "0.5 m",
+      "E": "55 meters",
+      "F": "98.2 m AMSL"
+    },
+    "answer": "F",
+    "evidence": "**NEW Value, codified by Ordinance SP-2019-001:** Lowest habitable floor = base flood elevation (97.4 m AMSL) + 0.8 m = 98.2 m AMSL.",
+    "reasoning": "Adding the stated 0.8 m to the stated base flood elevation of 97.4 m AMSL yields 98.2 m AMSL."
+  },
+  {
+    "id": "VOAC-019",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "By how much did the minimum habitable floor standard increase from the old 97.9 m AMSL value to the current 98.2 m AMSL value?",
+    "options": {
+      "A": "0.3 m",
+      "B": "0.5 m",
+      "C": "0.8 m",
+      "D": "7 years",
+      "E": "14 square meters",
+      "F": "55 meters"
+    },
+    "answer": "A",
+    "evidence": "For the minimum base flood elevation standard, the old value was base flood elevation + 0.5 m = 97.9 m AMSL under the 2012 administrative policy, and the new value codified by the ordinance is base flood elevation (97.4 m AMSL) + 0.8 m = 98.2 m AMSL.",
+    "reasoning": "The difference between 98.2 m AMSL and 97.9 m AMSL is 0.3 m."
+  },
+  {
+    "id": "VOAC-020",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "Which set contains exactly the councillors who dissented on both Z-2017-009 and F-2021-004?",
+    "options": {
+      "A": "Rund Pallister, Prinna Valcourt, Marthyl Dunnegan, Oresten Bluffe",
+      "B": "Prinna Valcourt, Marthyl Dunnegan, Rund Pallister",
+      "C": "Prinna Valcourt, Marthyl Dunnegan, Oresten Bluffe",
+      "D": "Rund Pallister, Oresten Bluffe, Emmelyn Foscroft",
+      "E": "Prinna Valcourt, Marthyl Dunnegan, Cael Drossmund",
+      "F": "Colwick Durrath, Dolvane Prescroft, Brixton Hallvane"
+    },
+    "answer": "B",
+    "evidence": "**Dissenting Votes:** Councillors Rund Pallister, Prinna Valcourt, Marthyl Dunnegan, Oresten Bluffe. **Dissenting Votes:** Councillors Prinna Valcourt, Marthyl Dunnegan, Rund Pallister.",
+    "reasoning": "Intersecting the two dissenting-vote lists leaves Prinna Valcourt, Marthyl Dunnegan, and Rund Pallister."
+  },
+  {
+    "id": "VOAC-021",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "Which pair of ordinances is listed with the same 7\u20132 council vote?",
+    "options": {
+      "A": "C-2005-001 and R-2014-007",
+      "B": "T-2009-003 and F-2021-004",
+      "C": "T-2007-001 and SP-2019-001",
+      "D": "Z-2017-009 and F-2021-004",
+      "E": "C-2005-001 and T-2009-003",
+      "F": "R-2014-007 and Z-2017-009"
+    },
+    "answer": "C",
+    "evidence": "**Council Vote:** 7\u20132 in favor. **Council Vote:** 7\u20132 in favor.",
+    "reasoning": "T-2007-001 and SP-2019-001 each show a 7\u20132 council vote."
+  },
+  {
+    "id": "VOAC-022",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "Which pair of ordinances is listed with the same 6\u20133 council vote?",
+    "options": {
+      "A": "T-2007-001 and SP-2019-001",
+      "B": "C-2005-001 and Z-2017-009",
+      "C": "R-2014-007 and C-2005-001",
+      "D": "T-2009-003 and F-2021-004",
+      "E": "SP-2019-001 and Z-2017-009",
+      "F": "R-2014-007 and T-2007-001"
+    },
+    "answer": "D",
+    "evidence": "**Council Vote:** 6\u20133 in favor. **Council Vote:** 6\u20133 in favor.",
+    "reasoning": "The vote lines for T-2009-003 and F-2021-004 both state 6\u20133 in favor."
+  },
+  {
+    "id": "VOAC-023",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What is the difference between the R-2 standard maximum density and the affordable-units maximum density under Exception R-2.1(a)?",
+    "options": {
+      "A": "24 dwelling units per hectare",
+      "B": "31 dwelling units per hectare",
+      "C": "34 dwelling units per hectare",
+      "D": "15% affordable units",
+      "E": "7 dwelling units per hectare",
+      "F": "80% of occupants"
+    },
+    "answer": "E",
+    "evidence": "The standard under Rule R-2.1 is a maximum of 24 dwelling units per hectare of net lot area. Exception R-2.1(a) provides that projects that include at least 15% affordable units, defined as affordable to households earning \u2264 60% of municipal median household income, i.e., \u2264 $35,246 based on 2019 census, may develop at up to 31 dwelling units per hectare.",
+    "reasoning": "Subtracting the standard 24 dwelling units per hectare from 31 gives 7 dwelling units per hectare."
+  },
+  {
+    "id": "VOAC-024",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What is the difference between the R-2 senior-housing maximum density and the R-2 affordable-units maximum density?",
+    "options": {
+      "A": "7 dwelling units per hectare",
+      "B": "24 dwelling units per hectare",
+      "C": "31 dwelling units per hectare",
+      "D": "34 dwelling units per hectare",
+      "E": "15% affordable units",
+      "F": "3 dwelling units per hectare"
+    },
+    "answer": "F",
+    "evidence": "Exception R-2.1(a) provides that projects that include at least 15% affordable units, defined as affordable to households earning \u2264 60% of municipal median household income, i.e., \u2264 $35,246 based on 2019 census, may develop at up to 31 dwelling units per hectare. Exception R-2.1(b) separately provides that senior housing developments, where \u2265 80% of occupants are age 65 or older, may develop at up to 34 dwelling units per hectare.",
+    "reasoning": "Subtracting the affordable-units maximum of 31 from the senior-housing maximum of 34 gives 3 dwelling units per hectare."
+  },
+  {
+    "id": "VOAC-025",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "Which adoption-date sequence orders the ordinances from earliest to latest?",
+    "options": {
+      "A": "C-2005-001; T-2007-001; T-2009-003; R-2014-007; Z-2017-009; SP-2019-001; F-2021-004",
+      "B": "T-2007-001; C-2005-001; T-2009-003; R-2014-007; Z-2017-009; SP-2019-001; F-2021-004",
+      "C": "C-2005-001; T-2009-003; T-2007-001; R-2014-007; Z-2017-009; SP-2019-001; F-2021-004",
+      "D": "C-2005-001; T-2007-001; R-2014-007; T-2009-003; Z-2017-009; SP-2019-001; F-2021-004",
+      "E": "C-2005-001; T-2007-001; T-2009-003; Z-2017-009; R-2014-007; SP-2019-001; F-2021-004",
+      "F": "C-2005-001; T-2007-001; T-2009-003; R-2014-007; SP-2019-001; Z-2017-009; F-2021-004"
+    },
+    "answer": "A",
+    "evidence": "**Adoption Date:** February 15, 2005. **Adoption Date:** March 6, 2007. **Adoption Date:** September 22, 2009. **Adoption Date:** June 17, 2014. **Adoption Date:** October 3, 2017. **Adoption Date:** April 30, 2019. **Adoption Date:** November 9, 2021.",
+    "reasoning": "Sorting the stated adoption dates chronologically gives C-2005-001, T-2007-001, T-2009-003, R-2014-007, Z-2017-009, SP-2019-001, and F-2021-004."
+  },
+  {
+    "id": "VOAC-026",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "Which two measurable sub-changes under Z-2017-009 lowered maximum building heights?",
+    "options": {
+      "A": "Lake Orvaine Reach Shoreline Setback and Pellgate Flats Height Overlay",
+      "B": "Gorrath Ridge Maximum Building Height and Pellgate Flats Height Overlay",
+      "C": "Gorrath Ridge Maximum Building Height and Lake Orvaine Reach Shoreline Setback",
+      "D": "C-3 Ground-Floor Commercial Requirement and Pellgate Flats Height Overlay",
+      "E": "SP-2019-001 Certificate Renewal Period and Gorrath Ridge Maximum Building Height",
+      "F": "R-2 Maximum Density and Lake Orvaine Reach Shoreline Setback"
+    },
+    "answer": "B",
+    "evidence": "The measurable old and new values created by Ordinance Z-2017-009 are therefore preserved separately. For Gorrath Ridge parcels above 350 m elevation, the old value was 9.5 meters and the new value is 8.1 meters. For Lake Orvaine Reach shoreline setback, the old value was 25.0 meters from ordinary high-water mark and the new value is 38.5 meters from ordinary high-water mark. For Pellgate Flats height, the old value was 28.0 meters and the new value is 21.0 meters (6 stories).",
+    "reasoning": "Among the three Z-2017-009 changes, the Gorrath Ridge and Pellgate Flats values are maximum heights that decreased from old to new."
+  },
+  {
+    "id": "VOAC-027",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What permanent municipal sales tax base plus scheduled increase equals the current municipal sales tax rate?",
+    "options": {
+      "A": "6.000% provincial rate + 1.473% municipal rate = 7.473%",
+      "B": "7.218% old combined rate + 0.255 percentage-point increase = 7.473%",
+      "C": "1.218% base rate + 0.255 percentage-point increase = 1.473%",
+      "D": "1.218% old municipal rate + 6.000% provincial rate = 7.218%",
+      "E": "65% + 8 percentage points = 73%",
+      "F": "97.4 m AMSL + 0.8 m = 98.2 m AMSL"
+    },
+    "answer": "C",
+    "evidence": "The 0.255 percentage-point increase is scheduled to expire on December 31, 2029, unless renewed by Council. Base rate of 1.218% remains permanent. **Current Operative Municipal Sales Tax Value as of FY2024:** The current operative municipal sales tax rate as of FY2024 is 1.473%.",
+    "reasoning": "The document states the permanent base rate is 1.218% and the increase is 0.255 percentage points, which together produce the current 1.473% rate."
+  },
+  {
+    "id": "VOAC-028",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "Which values together make up the current SP-2019-001 minimum habitable floor calculation?",
+    "options": {
+      "A": "97.4 m AMSL base flood elevation plus 0.5 m",
+      "B": "97.9 m AMSL plus 0.8 m",
+      "C": "98.2 m AMSL plus 0.5 m",
+      "D": "97.4 m AMSL base flood elevation plus 0.8 m",
+      "E": "55 meters plus 14 square meters",
+      "F": "5 years plus 7 years"
+    },
+    "answer": "D",
+    "evidence": "**NEW Value, codified by Ordinance SP-2019-001:** Lowest habitable floor = base flood elevation (97.4 m AMSL) + 0.8 m = 98.2 m AMSL.",
+    "reasoning": "The current calculation combines the stated base flood elevation of 97.4 m AMSL with the stated 0.8 m increment."
+  },
+  {
+    "id": "VOAC-029",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What prior condition did Ordinance C-2005-001 displace when it created the C-3 active-use requirement?",
+    "options": {
+      "A": "The assessment ratio was 71% of fair market value.",
+      "B": "Flood Proofing Certificates were renewed every 5 years.",
+      "C": "The shoreline setback was 25.0 meters from ordinary high-water mark.",
+      "D": "The municipal sales tax rate was 1.218%.",
+      "E": "Residential and commercial ground-floor uses were permitted without the stated restriction.",
+      "F": "The standard R-3 maximum building height was 28.0 meters or 8 stories."
+    },
+    "answer": "E",
+    "evidence": "The ordinance created a mandatory active-use requirement for those frontages and displaced the prior condition under which residential and commercial ground-floor uses were permitted without the restriction stated below.",
+    "reasoning": "The sentence explains that the new active-use rule displaced the prior unrestricted ground-floor use condition."
+  },
+  {
+    "id": "VOAC-030",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What is the effect of the C-2005-001 grandfathering rule on a legally established residential ground-floor use as of December 31, 2004?",
+    "options": {
+      "A": "It may occupy up to 12% of total street frontage width.",
+      "B": "It must be active commercial, dining, or civic use.",
+      "C": "It is prohibited at ground floor on all frontages.",
+      "D": "It may proceed only with a Veltharrow Shoreline Development Permit.",
+      "E": "It is exempt from per-project elevation review if current.",
+      "F": "It may continue as a legal nonconforming use but may not expand the residential footprint."
+    },
+    "answer": "F",
+    "evidence": "A property with a legally established residential ground-floor use as of December 31, 2004, prior to Ordinance C-2005-001 coming into effect, may continue as a legal nonconforming use but may not expand the residential footprint.",
+    "reasoning": "The grandfathering sentence states both the continued legal nonconforming status and the no-expansion limit."
+  },
+  {
+    "id": "VOAC-031",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "According to the Compendium, why are Gorrath Ridge parcels above 350 meters elevation subject to an 8.1-meter maximum?",
+    "options": {
+      "A": "Because of the Gorrath Ridgeline View Protection Policy.",
+      "B": "Because of aircraft approach path proximity.",
+      "C": "Because the provincial rate remained 6.000%.",
+      "D": "Because of a Veltharrow Shoreline Development Permit.",
+      "E": "Because they hold a valid Flood Proofing Certificate.",
+      "F": "Because the residential footprint may not expand."
+    },
+    "answer": "A",
+    "evidence": "Exception R-1.2(b) states that structures on Gorrath Ridge parcels above 350 meters elevation are subject to a reduced maximum of 8.1 meters due to the Gorrath Ridgeline View Protection Policy, adopted with Ordinance Z-2017-009.",
+    "reasoning": "The R-1 exception attributes the reduced maximum to the Gorrath Ridgeline View Protection Policy."
+  },
+  {
+    "id": "VOAC-032",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What reason does the Compendium give for the 21.0-meter Pellgate Flats height limit?",
+    "options": {
+      "A": "Gorrath Ridgeline View Protection Policy.",
+      "B": "Aircraft approach path proximity.",
+      "C": "Drasswell Pond Flood Mitigation Capital Program.",
+      "D": "Provincial Environmental Authority permit.",
+      "E": "Residential ground-floor grandfathering.",
+      "F": "Municipal Zoning Map VTH-ZM-2023."
+    },
+    "answer": "B",
+    "evidence": "Exception R-3.2(a) states that in Pellgate Flats, the Pellgate Special Height Overlay, established by Ordinance Z-2017-009, Section 14.7, limits all structures to 21.0 meters (6 stories) due to aircraft approach path proximity.",
+    "reasoning": "The exception explicitly links the Pellgate height limit to aircraft approach path proximity."
+  },
+  {
+    "id": "VOAC-033",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What program was the municipal sales tax adjustment in Ordinance F-2021-004 intended to fund?",
+    "options": {
+      "A": "The Drasswell Common Flood Proofing Certification Program.",
+      "B": "The Gorrath Ridgeline View Protection Policy.",
+      "C": "The Drasswell Pond Flood Mitigation Capital Program.",
+      "D": "The Orvaine Provincial Flood Authority's 2016 Floodplain Mapping.",
+      "E": "Municipal Zoning Map VTH-ZM-2023.",
+      "F": "The Veltharrow Shoreline Development Permit program."
+    },
+    "answer": "C",
+    "evidence": "**Subject:** Adjusted the municipal sales tax rate to fund the Drasswell Pond Flood Mitigation Capital Program.",
+    "reasoning": "The subject line states that the tax adjustment funds the Drasswell Pond Flood Mitigation Capital Program."
+  },
+  {
+    "id": "VOAC-034",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "Why is the 71% assessment ratio from T-2007-001 not operative in FY2024?",
+    "options": {
+      "A": "It was superseded by Ordinance C-2005-001.",
+      "B": "It was scheduled to expire on December 31, 2029.",
+      "C": "It was only a grandfathering cutoff date.",
+      "D": "It was superseded by Ordinance T-2009-003.",
+      "E": "It was an affordable housing threshold.",
+      "F": "It was replaced by a 7-year renewal period."
+    },
+    "answer": "D",
+    "evidence": "The 71% assessment ratio established by Ordinance T-2007-001 is not the current operative FY2024 assessment ratio. It was superseded by Ordinance T-2009-003.",
+    "reasoning": "The document directly explains that the 71% value is not operative because T-2009-003 superseded it."
+  },
+  {
+    "id": "VOAC-035",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What change did Ordinance T-2009-003 make to the assessment ratio?",
+    "options": {
+      "A": "It replaced the 65% value with the 71% value effective January 1, 2008.",
+      "B": "It replaced the 50% affordable threshold with 60% effective August 1, 2014.",
+      "C": "It replaced a 25.0-meter shoreline setback with 38.5 meters.",
+      "D": "It replaced a 5-year renewal period with 7 years.",
+      "E": "It replaced the 71% value with the 73% value effective January 1, 2010.",
+      "F": "It replaced a 1.218% sales tax rate with 1.473%."
+    },
+    "answer": "E",
+    "evidence": "The ordinance replaced the 71% value that had been effective January 1, 2008 under Ordinance T-2007-001 with the 73% value effective January 1, 2010.",
+    "reasoning": "T-2009-003 is described as replacing the 71% assessment ratio with 73% as of January 1, 2010."
+  },
+  {
+    "id": "VOAC-036",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What does the document say Ordinance R-2014-007 did not replace?",
+    "options": {
+      "A": "The full text of all C-3 ground-floor use requirements.",
+      "B": "The full text of all FY2024 property tax provisions.",
+      "C": "The full text of the Drasswell Common Flood Proofing Certification Program.",
+      "D": "The full text of the Veltharrow Comprehensive Zoning Code.",
+      "E": "The full text of the municipal sales tax provisions.",
+      "F": "The full text of all R-2 development standards."
+    },
+    "answer": "F",
+    "evidence": "The ordinance did not replace the full text of all R-2 development standards; it changed the qualifying income threshold for affordable units used to determine eligibility for the density-bonus provision.",
+    "reasoning": "The explanation sentence expressly distinguishes the threshold change from replacing all R-2 standards."
+  },
+  {
+    "id": "VOAC-037",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What effect does SP-2019-001 give to a current valid Flood Proofing Certificate for a completed program property?",
+    "options": {
+      "A": "The property is exempt from per-project elevation review.",
+      "B": "The property may exceed a 21.0-meter height limit by 3.1 meters.",
+      "C": "The property may continue a residential ground-floor use but not expand it.",
+      "D": "The property may develop at up to 31 dwelling units per hectare.",
+      "E": "The property may apply a 1.218% permanent base rate.",
+      "F": "The property is treated as a legal nonconforming shoreline structure."
+    },
+    "answer": "A",
+    "evidence": "The current SP-1 rule states that properties that have completed the Drasswell Common Flood Proofing Certification Program, administered under Ordinance SP-2019-001, and hold a valid Flood Proofing Certificate are exempt from per-project elevation review, provided their certificate is current.",
+    "reasoning": "The SP-1 rule states that completion plus a current valid certificate creates an exemption from per-project elevation review."
+  },
+  {
+    "id": "VOAC-038",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What is the effect of the SP-1 accessory-structure exception for structures under 14 square meters?",
+    "options": {
+      "A": "They may extend up to 3.1 meters above the height limit.",
+      "B": "They are exempt from elevation requirements.",
+      "C": "They may occupy up to 12% of total street frontage width.",
+      "D": "They may develop at up to 34 dwelling units per hectare.",
+      "E": "They may be placed within the PO-1 setback with both permits.",
+      "F": "They may not expand the residential footprint."
+    },
+    "answer": "B",
+    "evidence": "Accessory structures under 14 square meters are exempt from elevation requirements.",
+    "reasoning": "The exception sentence directly states that under-14-square-meter accessory structures are exempt from elevation requirements."
+  },
+  {
+    "id": "VOAC-039",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What does the F-2021-004 sunset provision do to the 0.255 percentage-point increase?",
+    "options": {
+      "A": "It makes the 1.473% municipal sales tax rate permanent as the base rate.",
+      "B": "It changes the provincial rate from 6.000% to 7.473%.",
+      "C": "It schedules the increase to expire on December 31, 2029 unless renewed by Council.",
+      "D": "It backdates the combined rate to July 1, 2005.",
+      "E": "It replaces a 7-year certificate renewal period with 5 years.",
+      "F": "It exempts sales tax from FY2024 revenue provisions."
+    },
+    "answer": "C",
+    "evidence": "The 0.255 percentage-point increase is scheduled to expire on December 31, 2029, unless renewed by Council.",
+    "reasoning": "The sunset provision sentence states when and under what condition the increase expires."
+  },
+  {
+    "id": "VOAC-040",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What does the C-3 lobby exception allow on Cornrath Avenue and Drasswell Road frontages?",
+    "options": {
+      "A": "Residential ground-floor uses may occupy 100% of the frontage if established after July 1, 2005.",
+      "B": "No residential units, parking entrances, or blank walls are permitted on these frontages at ground level.",
+      "C": "Water-dependent structures may be placed within 38.5 meters with two permits.",
+      "D": "Lobby entrances for upper-floor office or residential uses may occupy up to 12% of total street frontage width.",
+      "E": "The current SP-1 rule applies within 55 meters of a SP-1 zone boundary.",
+      "F": "Accessory structures under 14 square meters are exempt from elevation requirements."
+    },
+    "answer": "D",
+    "evidence": "Lobby entrances for upper-floor office or residential uses may occupy up to 12% of total street frontage width.",
+    "reasoning": "The C-3 rule sentence identifies the allowed lobby use and the 12% frontage cap."
+  },
+  {
+    "id": "VOAC-041",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What does the R-3 rooftop enclosure exception allow if the setback condition is met?",
+    "options": {
+      "A": "All structures in Pellgate Flats may reach 28.0 meters.",
+      "B": "Gorrath Ridge parcels above 350 meters may reach 9.5 meters.",
+      "C": "Residential units may occupy ground-floor frontages on Cornrath Avenue.",
+      "D": "Flood Proofing Certificates may be renewed every 5 years.",
+      "E": "Rooftop mechanical, stair, and elevator enclosures may extend up to 3.1 meters above the height limit.",
+      "F": "The provincial rate may change from 6.000% to 7.218%."
+    },
+    "answer": "E",
+    "evidence": "Exception R-3.2(b) states that rooftop mechanical, stair, and elevator enclosures may extend up to 3.1 meters above the height limit, provided they are set back at least 3.0 meters from all exterior wall planes.",
+    "reasoning": "The exception allows specified rooftop enclosures to exceed the height limit by up to 3.1 meters when set back at least 3.0 meters."
+  },
+  {
+    "id": "VOAC-042",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What is the effect of the PO-1 natural-disaster replacement exception?",
+    "options": {
+      "A": "A new non-water-dependent structure may be built at 25.0 meters from the high-water mark.",
+      "B": "A property may avoid all permits if it is within 38.5 meters of the high-water mark.",
+      "C": "A rooftop enclosure may extend 3.1 meters if it is set back 3.0 meters.",
+      "D": "A legally established residential ground-floor use may expand after December 31, 2004.",
+      "E": "A current Flood Proofing Certificate may be renewed every 5 years.",
+      "F": "A legally existing structure within the setback that was damaged by a declared natural disaster may be restored or replaced if the replacement footprint does not exceed the original footprint."
+    },
+    "answer": "F",
+    "evidence": "Exception PO-1.1(b) states that restoration or replacement of legally existing structures within the setback that were damaged by a declared natural disaster may proceed, provided the replacement footprint does not exceed the original footprint.",
+    "reasoning": "The exception states both the disaster-damage condition and the no-larger-footprint condition for proceeding."
+  },
+  {
+    "id": "VOAC-043",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "As of FY2024, which assessment ratio currently applies rather than the T-2007-001 interim value?",
+    "options": {
+      "A": "73% of fair market value, rather than 71%",
+      "B": "71% of fair market value, rather than 65%",
+      "C": "65% of fair market value, rather than 73%",
+      "D": "73.0 mills, rather than 14.73 mills",
+      "E": "60% of municipal median household income, rather than 50%",
+      "F": "1.473%, rather than 1.218%"
+    },
+    "answer": "A",
+    "evidence": "The 71% assessment ratio established by Ordinance T-2007-001 is not the current operative FY2024 assessment ratio. It was superseded by Ordinance T-2009-003. The current operative FY2024 assessment ratio is 73% of fair market value, as established by Ordinance T-2009-003 and referenced in the FY2024 property tax provisions.",
+    "reasoning": "The comparison requires distinguishing the superseded 71% interim ratio from the current 73% ratio."
+  },
+  {
+    "id": "VOAC-044",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which statement correctly compares the pre-2008 assessment ratio with the FY2024 operative ratio?",
+    "options": {
+      "A": "Pre-2008 was 71%; FY2024 operative is 65%.",
+      "B": "Pre-2008 was 65%; FY2024 operative is 73%.",
+      "C": "Pre-2008 was 73%; FY2024 operative is 71%.",
+      "D": "Pre-2008 was 73.0%; FY2024 operative is 14.73%.",
+      "E": "Pre-2008 was 1.218%; FY2024 operative is 1.473%.",
+      "F": "Pre-2008 was 50%; FY2024 operative is 60%."
+    },
+    "answer": "B",
+    "evidence": "For completeness, the supersession sequence is stated separately: before Ordinance T-2007-001, the assessment ratio was 65% of fair market value; under Ordinance T-2007-001, effective January 1, 2008, the assessment ratio was 71% of fair market value; under Ordinance T-2009-003, effective January 1, 2010, the assessment ratio became 73% of fair market value; and as of the FY2024 reference the operative assessment ratio remains 73% of fair market value.",
+    "reasoning": "The sequence states 65% before T-2007-001 and 73% as the FY2024 operative ratio."
+  },
+  {
+    "id": "VOAC-045",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which comparison correctly describes the Lake Orvaine Reach shoreline setback after Z-2017-009?",
+    "options": {
+      "A": "It changed from 38.5 meters to 25.0 meters from the ordinary high-water mark.",
+      "B": "It changed from 9.5 meters to 8.1 meters above 350 meters elevation.",
+      "C": "It changed from 25.0 meters to 38.5 meters from the ordinary high-water mark.",
+      "D": "It changed from 28.0 meters to 21.0 meters due to aircraft approach path proximity.",
+      "E": "It changed from 97.9 m AMSL to 98.2 m AMSL.",
+      "F": "It changed from every 5 years to every 7 years."
+    },
+    "answer": "C",
+    "evidence": "For Lake Orvaine Reach shoreline setback, the old value was 25.0 meters from ordinary high-water mark and the new value is 38.5 meters from ordinary high-water mark.",
+    "reasoning": "The old and new shoreline setback values are 25.0 meters and 38.5 meters respectively."
+  },
+  {
+    "id": "VOAC-046",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which comparison correctly describes the Gorrath Ridge maximum building height change for R-1 parcels above 350 m elevation?",
+    "options": {
+      "A": "It changed from 8.1 meters to 9.5 meters.",
+      "B": "It changed from 28.0 meters to 21.0 meters.",
+      "C": "It changed from 25.0 meters to 38.5 meters.",
+      "D": "It changed from 9.5 meters to 8.1 meters.",
+      "E": "It changed from 97.9 m AMSL to 98.2 m AMSL.",
+      "F": "It changed from 5 years to 7 years."
+    },
+    "answer": "D",
+    "evidence": "For Gorrath Ridge parcels above 350 m elevation, the old value was 9.5 meters and the new value is 8.1 meters.",
+    "reasoning": "The comparison asks for the old and new Gorrath values, which the document preserves separately."
+  },
+  {
+    "id": "VOAC-047",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which comparison correctly describes Pellgate Flats under the Pellgate Special Height Overlay?",
+    "options": {
+      "A": "The old R-3 height was 21.0 meters; the current overlay limit is 28.0 meters (8 stories).",
+      "B": "The old shoreline setback was 25.0 meters; the current setback is 38.5 meters.",
+      "C": "The old Gorrath height was 9.5 meters; the current value is 8.1 meters.",
+      "D": "The old minimum standard was 97.9 m AMSL; the current standard is 98.2 m AMSL.",
+      "E": "The old R-3 height was 28.0 meters; the current overlay limit is 21.0 meters (6 stories).",
+      "F": "The old municipal rate was 1.218%; the current rate is 1.473%."
+    },
+    "answer": "E",
+    "evidence": "For Pellgate Flats height, the old value was 28.0 meters and the new value is 21.0 meters (6 stories).",
+    "reasoning": "The Pellgate comparison distinguishes the old 28.0-meter R-3 value from the current 21.0-meter overlay cap."
+  },
+  {
+    "id": "VOAC-048",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which statement correctly contrasts the current municipal sales tax rate with the old municipal sales tax rate?",
+    "options": {
+      "A": "Current: 7.473%; old: 7.218%.",
+      "B": "Current: 6.000%; old: 1.218%.",
+      "C": "Current: 1.218%; old: 1.473%.",
+      "D": "Current: 0.255%; old: 1.218%.",
+      "E": "Current: 73%; old: 71%.",
+      "F": "Current: 1.473%; old: 1.218%."
+    },
+    "answer": "F",
+    "evidence": "For Ordinance F-2021-004, the current operative municipal sales tax rate as of FY2024 is 1.473%; the old municipal sales tax rate was 1.218%.",
+    "reasoning": "The summary directly contrasts the current municipal rate with the old municipal rate."
+  },
+  {
+    "id": "VOAC-049",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which statement correctly contrasts the current combined sales tax rate with the old combined rate?",
+    "options": {
+      "A": "Current: 7.473%; old: 7.218%.",
+      "B": "Current: 1.473%; old: 1.218%.",
+      "C": "Current: 6.000%; old: 7.218%.",
+      "D": "Current: 7.218%; old: 7.473%.",
+      "E": "Current: 0.255%; old: 6.000%.",
+      "F": "Current: 73%; old: 65%."
+    },
+    "answer": "A",
+    "evidence": "For Ordinance F-2021-004, the current operative municipal sales tax rate as of FY2024 is 1.473%; the old municipal sales tax rate was 1.218%. The unchanged provincial rate is 6.000%. The current operative combined rate is 7.473%; the old combined rate was 7.218%.",
+    "reasoning": "The sentence identifies the current combined rate as 7.473% and the old combined rate as 7.218%."
+  },
+  {
+    "id": "VOAC-050",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which statement correctly compares the current and old Flood Proofing Certificate renewal periods?",
+    "options": {
+      "A": "Current: every 5 years; old: every 7 years.",
+      "B": "Current: every 7 years; old: every 5 years.",
+      "C": "Current: 98.2 m AMSL; old: 97.9 m AMSL.",
+      "D": "Current: 55 meters; old: 14 square meters.",
+      "E": "Current: 8.1 meters; old: 9.5 meters.",
+      "F": "Current: 1.473%; old: 1.218%."
+    },
+    "answer": "B",
+    "evidence": "For Ordinance SP-2019-001, the current operative Flood Proofing Certificate renewal period is every 7 years; the old renewal period was every 5 years.",
+    "reasoning": "The summary sentence gives the current and old renewal periods in that order."
+  },
+  {
+    "id": "VOAC-051",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which statement correctly compares the current and old minimum habitable floor standards?",
+    "options": {
+      "A": "Current: 97.9 m AMSL; old: 98.2 m AMSL.",
+      "B": "Current: 97.4 m AMSL; old: 98.2 m AMSL.",
+      "C": "Current: 98.2 m AMSL; old: 97.9 m AMSL.",
+      "D": "Current: 0.8 m; old: 0.5 m AMSL.",
+      "E": "Current: every 7 years; old: every 5 years.",
+      "F": "Current: 38.5 meters; old: 25.0 meters."
+    },
+    "answer": "C",
+    "evidence": "The current operative minimum habitable floor standard is base flood elevation (97.4 m AMSL) + 0.8 m = 98.2 m AMSL; the old standard under the 2012 administrative policy was base flood elevation + 0.5 m = 97.9 m AMSL.",
+    "reasoning": "The comparison identifies 98.2 m AMSL as current and 97.9 m AMSL as old."
+  },
+  {
+    "id": "VOAC-052",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which date is the C-2005-001 grandfathering cutoff, rather than the ordinance effective date?",
+    "options": {
+      "A": "July 1, 2005",
+      "B": "February 15, 2005",
+      "C": "January 1, 2008",
+      "D": "December 31, 2004",
+      "E": "January 1, 2018",
+      "F": "January 1, 2022"
+    },
+    "answer": "D",
+    "evidence": "**Grandfathering Cutoff Date:** Residential ground-floor uses legally established as of December 31, 2004 are legal nonconforming uses. **Effective Date:** July 1, 2005.",
+    "reasoning": "The question distinguishes the grandfathering cutoff date from the separate effective date of July 1, 2005."
+  },
+  {
+    "id": "VOAC-053",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which ordinance became effective on January 1, 2018, rather than January 1, 2022?",
+    "options": {
+      "A": "Ordinance F-2021-004",
+      "B": "Ordinance T-2009-003",
+      "C": "Ordinance T-2007-001",
+      "D": "Ordinance C-2005-001",
+      "E": "Ordinance Z-2017-009",
+      "F": "Ordinance SP-2019-001"
+    },
+    "answer": "E",
+    "evidence": "For Ordinance Z-2017-009: **Effective Date:** January 1, 2018. For Ordinance F-2021-004: **Effective Date:** January 1, 2022.",
+    "reasoning": "The effective-date fields show Z-2017-009 as January 1, 2018 and F-2021-004 as January 1, 2022."
+  },
+  {
+    "id": "VOAC-054",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which rule is associated with the standard 28.0-meter or 8-story limit and the 21.0-meter Pellgate Flats overlay cap?",
+    "options": {
+      "A": "R-1 maximum building height on Gorrath Ridge parcels above 350 m elevation",
+      "B": "PO-1 shoreline setback in Lake Orvaine Reach",
+      "C": "SP-1 flood mitigation requirements for adjacent properties",
+      "D": "C-3 ground-floor commercial requirement",
+      "E": "R-2 maximum density for affordable units",
+      "F": "R-3 maximum building height under the Pellgate Special Height Overlay"
+    },
+    "answer": "F",
+    "evidence": "The current R-3 rule states that the standard maximum building height is 28.0 meters or 8 stories, whichever is less. Exception R-3.2(a) states that in Pellgate Flats, the Pellgate Special Height Overlay, established by Ordinance Z-2017-009, Section 14.7, limits all structures to 21.0 meters (6 stories) due to aircraft approach path proximity.",
+    "reasoning": "The 28.0-meter standard and 21.0-meter overlay cap are both part of the R-3 Pellgate height rule."
+  },
+  {
+    "id": "VOAC-055",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which vote was unanimous, in contrast to the 5\u20134 vote on Z-2017-009?",
+    "options": {
+      "A": "The 9\u20130 vote on C-2005-001",
+      "B": "The 7\u20132 vote on T-2007-001",
+      "C": "The 6\u20133 vote on T-2009-003",
+      "D": "The 8\u20131 vote on R-2014-007",
+      "E": "The 7\u20132 vote on SP-2019-001",
+      "F": "The 6\u20133 vote on F-2021-004"
+    },
+    "answer": "A",
+    "evidence": "**Council Vote:** 9\u20130 (unanimous). **Council Vote:** 5\u20134 in favor.",
+    "reasoning": "C-2005-001 is marked 9\u20130 unanimous, while Z-2017-009 is listed as 5\u20134."
+  },
+  {
+    "id": "VOAC-056",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which statement correctly distinguishes the R-2 standard maximum density from the senior-housing maximum density?",
+    "options": {
+      "A": "Standard: 31 dwelling units per hectare; senior housing: up to 24 dwelling units per hectare.",
+      "B": "Standard: 24 dwelling units per hectare; senior housing: up to 34 dwelling units per hectare.",
+      "C": "Standard: 34 dwelling units per hectare; senior housing: up to 31 dwelling units per hectare.",
+      "D": "Standard: 15% affordable units; senior housing: \u2265 80% affordable units.",
+      "E": "Standard: 60% of municipal median household income; senior housing: \u2264 $35,246.",
+      "F": "Standard: 28.0 meters; senior housing: 21.0 meters."
+    },
+    "answer": "B",
+    "evidence": "The standard under Rule R-2.1 is a maximum of 24 dwelling units per hectare of net lot area. Exception R-2.1(b) separately provides that senior housing developments, where \u2265 80% of occupants are age 65 or older, may develop at up to 34 dwelling units per hectare.",
+    "reasoning": "The R-2 rule gives 24 dwelling units per hectare as standard and 34 as the senior-housing exception maximum."
+  },
+  {
+    "id": "VOAC-057",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A C-3 property has a residential ground-floor use on Cornrath Avenue that was legally established as of December 31, 2004. Under the current rule, what may it do?",
+    "options": {
+      "A": "Operate as unrestricted residential and commercial ground-floor use because July 1, 2005 has passed.",
+      "B": "Use up to 12% of frontage for residential units at ground level.",
+      "C": "Continue as a legal nonconforming use, but not expand the residential footprint.",
+      "D": "Convert the entire ground floor to parking entrances and blank walls.",
+      "E": "Claim the Flood Proofing Certificate exemption from per-project elevation review.",
+      "F": "Apply the old 25.0-meter shoreline setback."
+    },
+    "answer": "C",
+    "evidence": "A property with a legally established residential ground-floor use as of December 31, 2004, prior to Ordinance C-2005-001 coming into effect, may continue as a legal nonconforming use but may not expand the residential footprint.",
+    "reasoning": "Because the use existed by the cutoff date, the grandfathering rule allows continuation but bars expansion."
+  },
+  {
+    "id": "VOAC-058",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A C-3 property proposes a new ground-floor residential unit on Cornrath Avenue under FY2024 rules and has no legal residential ground-floor use as of December 31, 2004. Which rule governs?",
+    "options": {
+      "A": "Residential units are permitted because there was no mandatory ground-floor requirement prior to July 1, 2005.",
+      "B": "Residential units may occupy up to 12% of total street frontage width.",
+      "C": "Residential units may continue indefinitely if established by January 1, 2022.",
+      "D": "Residential units are prohibited at ground floor on that frontage.",
+      "E": "Residential units are allowed if the property is within 55 meters of SP-1.",
+      "F": "Residential units may be approved under the Provincial Environmental Authority permit."
+    },
+    "answer": "D",
+    "evidence": "100% of ground-floor street frontage on Cornrath Avenue and Drasswell Road must be active commercial, dining, or civic use. Residential units are prohibited at ground floor on these frontages.",
+    "reasoning": "Because the proposal lacks grandfathering, the current active-use rule prohibits ground-floor residential units on Cornrath Avenue in C-3."
+  },
+  {
+    "id": "VOAC-059",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A C-3 building on Drasswell Road proposes lobby entrances for upper-floor residential uses occupying 12% of total street frontage width. Under the current C-3 rule, what is the outcome?",
+    "options": {
+      "A": "The lobby entrances are prohibited because 100% of frontage must be commercial with no exceptions.",
+      "B": "The lobby entrances are allowed only if established as of December 31, 2004.",
+      "C": "The lobby entrances are allowed only if they are water-dependent structures.",
+      "D": "The lobby entrances must follow the 38.5-meter shoreline setback.",
+      "E": "The lobby entrances are allowed because they are within the 12% cap.",
+      "F": "The lobby entrances require a Flood Proofing Certificate renewed every 7 years."
+    },
+    "answer": "E",
+    "evidence": "Lobby entrances for upper-floor office or residential uses may occupy up to 12% of total street frontage width.",
+    "reasoning": "The scenario matches the allowed use and does not exceed the stated 12% frontage limit."
+  },
+  {
+    "id": "VOAC-060",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A C-3 building on Cornrath Avenue proposes lobby entrances for upper-floor office uses occupying 15% of total street frontage width. Which outcome follows from the Compendium?",
+    "options": {
+      "A": "The proposal qualifies because projects with at least 15% affordable units may develop at up to 31 dwelling units per hectare.",
+      "B": "The proposal qualifies because the old value allowed no mandatory ground-floor use requirement.",
+      "C": "The proposal is allowed because 15% is less than 60% of municipal median household income.",
+      "D": "The proposal is allowed because 15% is less than the 0.255 percentage-point increase.",
+      "E": "The proposal is allowed because the combined sales tax rate is 7.473%.",
+      "F": "The proposal exceeds the 12% lobby cap."
+    },
+    "answer": "F",
+    "evidence": "Lobby entrances for upper-floor office or residential uses may occupy up to 12% of total street frontage width.",
+    "reasoning": "The proposal uses 15%, which is greater than the stated 12% maximum for lobby entrances."
+  },
+  {
+    "id": "VOAC-061",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "An R-2 project includes at least 15% affordable units affordable to households earning \u2264 60% of municipal median household income. What maximum density may it use under Exception R-2.1(a)?",
+    "options": {
+      "A": "Up to 31 dwelling units per hectare.",
+      "B": "24 dwelling units per hectare.",
+      "C": "Up to 34 dwelling units per hectare.",
+      "D": "28.0 meters or 8 stories.",
+      "E": "21.0 meters (6 stories).",
+      "F": "Up to 12% of total street frontage width."
+    },
+    "answer": "A",
+    "evidence": "Exception R-2.1(a) provides that projects that include at least 15% affordable units, defined as affordable to households earning \u2264 60% of municipal median household income, i.e., \u2264 $35,246 based on 2019 census, may develop at up to 31 dwelling units per hectare.",
+    "reasoning": "The project satisfies both the affordable-unit share and income-threshold conditions, so the 31 dwelling units per hectare maximum applies."
+  },
+  {
+    "id": "VOAC-062",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "An R-2 senior housing development has \u2265 80% of occupants age 65 or older. What maximum density does the current R-2 rule allow?",
+    "options": {
+      "A": "24 dwelling units per hectare.",
+      "B": "Up to 34 dwelling units per hectare.",
+      "C": "Up to 31 dwelling units per hectare.",
+      "D": "28.0 meters or 8 stories.",
+      "E": "21.0 meters (6 stories).",
+      "F": "60% of municipal median household income."
+    },
+    "answer": "B",
+    "evidence": "Exception R-2.1(b) separately provides that senior housing developments, where \u2265 80% of occupants are age 65 or older, may develop at up to 34 dwelling units per hectare.",
+    "reasoning": "Because the scenario meets the stated senior-housing occupancy condition, the 34 dwelling units per hectare maximum applies."
+  },
+  {
+    "id": "VOAC-063",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A non-accessory structure on a Gorrath Ridge R-1 parcel above 350 meters elevation is proposed at the standard R-1 height of 9.5 meters. Under the current rule, what happens?",
+    "options": {
+      "A": "It is allowed because the standard R-1 maximum is 9.5 meters.",
+      "B": "It is allowed if it is set back at least 3.0 meters from exterior wall planes.",
+      "C": "It is not allowed at 9.5 meters because the reduced maximum is 8.1 meters.",
+      "D": "It is allowed because accessory structures are limited to 4.2 meters.",
+      "E": "It is allowed if it has a current Flood Proofing Certificate.",
+      "F": "It is allowed because the old value under Z-2017-009 was 9.5 meters."
+    },
+    "answer": "C",
+    "evidence": "Exception R-1.2(b) states that structures on Gorrath Ridge parcels above 350 meters elevation are subject to a reduced maximum of 8.1 meters due to the Gorrath Ridgeline View Protection Policy, adopted with Ordinance Z-2017-009.",
+    "reasoning": "The parcel is above 350 meters, so the Gorrath exception supersedes the standard 9.5-meter R-1 height with an 8.1-meter maximum."
+  },
+  {
+    "id": "VOAC-064",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A new non-water-dependent structure is proposed in Zone PO-1 at 25.0 meters from the ordinary high-water mark of Lake Orvaine. Under the current PO-1 rule, what is the outcome?",
+    "options": {
+      "A": "It is allowed because the old shoreline setback was 25.0 meters.",
+      "B": "It is allowed if it meets the 21.0-meter Pellgate height limit.",
+      "C": "It is allowed if the municipal sales tax rate is 1.473%.",
+      "D": "It is prohibited because no structure may be constructed within 38.5 meters of the ordinary high-water mark.",
+      "E": "It is allowed because the replacement footprint does not exceed the original footprint.",
+      "F": "It is exempt because accessory structures under 14 square meters are exempt from elevation requirements."
+    },
+    "answer": "D",
+    "evidence": "The current PO-1 rule states that no structure shall be constructed within 38.5 meters of the ordinary high-water mark of Lake Orvaine.",
+    "reasoning": "A new non-water-dependent structure at 25.0 meters lies within the current 38.5-meter no-structure setback and does not fit the stated water-dependent exception."
+  },
+  {
+    "id": "VOAC-065",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A dock is proposed within the PO-1 shoreline setback and has both a Provincial Environmental Authority permit and a Veltharrow Shoreline Development Permit. How does the Compendium treat it?",
+    "options": {
+      "A": "It is prohibited under any circumstance within 38.5 meters.",
+      "B": "It may proceed only if damaged by a declared natural disaster.",
+      "C": "It may proceed only if the replacement footprint does not exceed the original footprint.",
+      "D": "It must comply with the 55-meter SP-1 adjacent-property elevation rule.",
+      "E": "It may be placed within the setback as a water-dependent structure.",
+      "F": "It may occupy up to 12% of total street frontage width."
+    },
+    "answer": "E",
+    "evidence": "Exception PO-1.1(a) states that water-dependent structures, including docks, boat launches, and pump stations, may be placed within the setback subject to Provincial Environmental Authority permit and Veltharrow Shoreline Development Permit.",
+    "reasoning": "A dock is listed as water-dependent, and the scenario includes the two permits required by the exception."
+  },
+  {
+    "id": "VOAC-066",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A legally existing structure within the PO-1 setback was damaged by a declared natural disaster, and the replacement footprint does not exceed the original footprint. What result follows?",
+    "options": {
+      "A": "The structure must be removed because all structures are barred within 38.5 meters.",
+      "B": "The replacement may proceed only if the footprint expands beyond the original footprint.",
+      "C": "The structure qualifies for the R-2 density bonus.",
+      "D": "The structure is governed by the 0.255 percentage-point sales tax increase.",
+      "E": "The structure must use the 25.0-meter old shoreline setback.",
+      "F": "Restoration or replacement may proceed."
+    },
+    "answer": "F",
+    "evidence": "Exception PO-1.1(b) states that restoration or replacement of legally existing structures within the setback that were damaged by a declared natural disaster may proceed, provided the replacement footprint does not exceed the original footprint.",
+    "reasoning": "The facts match both conditions of the disaster-replacement exception: declared natural disaster damage and no larger footprint."
+  },
+  {
+    "id": "VOAC-067",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A main R-3 structure in Pellgate Flats is proposed at 28.0 meters under FY2024 rules. Which outcome follows from the Pellgate Special Height Overlay?",
+    "options": {
+      "A": "It is not allowed because the overlay limits all structures to 21.0 meters (6 stories).",
+      "B": "It is allowed because the standard R-3 maximum is 28.0 meters or 8 stories.",
+      "C": "It is allowed if the project has at least 15% affordable units.",
+      "D": "It is allowed because the old value under Z-2017-009 was 28.0 meters.",
+      "E": "It is allowed if the structure is above 350 meters elevation.",
+      "F": "It is allowed if the combined sales tax rate is 7.473%."
+    },
+    "answer": "A",
+    "evidence": "Exception R-3.2(a) states that in Pellgate Flats, the Pellgate Special Height Overlay, established by Ordinance Z-2017-009, Section 14.7, limits all structures to 21.0 meters (6 stories) due to aircraft approach path proximity.",
+    "reasoning": "Pellgate Flats is governed by the special overlay, so the 21.0-meter cap applies rather than the 28.0-meter standard."
+  },
+  {
+    "id": "VOAC-068",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A rooftop elevator enclosure in Pellgate Flats extends 3.1 meters above the applicable height limit and is set back at least 3.0 meters from all exterior wall planes. What does the R-3 exception allow?",
+    "options": {
+      "A": "The enclosure is prohibited because the height limit has no exceptions.",
+      "B": "The enclosure may extend up to 3.1 meters above the height limit.",
+      "C": "The enclosure may extend only if it is a residential ground-floor use established as of December 31, 2004.",
+      "D": "The enclosure may extend only if it is a water-dependent structure.",
+      "E": "The enclosure may use the old 28.0-meter Pellgate height as the current limit.",
+      "F": "The enclosure is exempt only if it is under 14 square meters."
+    },
+    "answer": "B",
+    "evidence": "Exception R-3.2(b) states that rooftop mechanical, stair, and elevator enclosures may extend up to 3.1 meters above the height limit, provided they are set back at least 3.0 meters from all exterior wall planes.",
+    "reasoning": "The enclosure type, 3.1-meter extension, and 3.0-meter setback all match the exception conditions."
+  },
+  {
+    "id": "VOAC-069",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A new construction project on a property within 55 meters of a SP-1 zone boundary has no current Flood Proofing Certificate. What lowest habitable floor standard must it satisfy?",
+    "options": {
+      "A": "At least 97.4 m AMSL.",
+      "B": "At least 97.9 m AMSL.",
+      "C": "At least 98.2 m AMSL.",
+      "D": "At least 0.5 m AMSL.",
+      "E": "At least 38.5 meters from ordinary high-water mark.",
+      "F": "Every 7 years."
+    },
+    "answer": "C",
+    "evidence": "The current SP-1 rule states that any new construction on properties within 55 meters of a SP-1 zone boundary must elevate the lowest habitable floor to at least 0.8 meters above the 100-year flood elevation as established by the Orvaine Provincial Flood Authority's 2016 Floodplain Mapping. The base flood elevation for Drasswell Common is 97.4 meters AMSL, and the minimum habitable floor is 98.2 meters AMSL.",
+    "reasoning": "Because the property is within 55 meters and lacks the certificate exemption, the stated minimum habitable floor is 98.2 m AMSL."
+  },
+  {
+    "id": "VOAC-070",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A property has completed the Drasswell Common Flood Proofing Certification Program and holds a current valid Flood Proofing Certificate. How is per-project elevation review treated?",
+    "options": {
+      "A": "The property must renew the certificate every 5 years before any exemption applies.",
+      "B": "The property must elevate the lowest habitable floor to 97.9 m AMSL under the old policy.",
+      "C": "The property must use the PO-1 38.5-meter shoreline setback.",
+      "D": "The property is exempt from per-project elevation review.",
+      "E": "The property may build residential units at ground floor on Cornrath Avenue.",
+      "F": "The property is limited to 21.0 meters because of aircraft approach path proximity."
+    },
+    "answer": "D",
+    "evidence": "The current SP-1 rule states that properties that have completed the Drasswell Common Flood Proofing Certification Program, administered under Ordinance SP-2019-001, and hold a valid Flood Proofing Certificate are exempt from per-project elevation review, provided their certificate is current.",
+    "reasoning": "The scenario satisfies completion, validity, and current-certificate conditions, so the exemption applies."
+  },
+  {
+    "id": "VOAC-071",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the full name of Ordinance C-2005-001?",
+    "options": {
+      "A": "Veltharrow Ground-Floor Commercial Use Ordinance of 2005",
+      "B": "Veltharrow Comprehensive Zoning Amendment Ordinance of 2005",
+      "C": "Cornrath Central Business Improvement District Ordinance of 2005",
+      "D": "Cornrath Central Ground-Floor Commercial Activation Ordinance of 2005",
+      "E": "Cornrath Central Residential Displacement Ordinance of 2005",
+      "F": "Veltharrow Municipal Sales Tax Rate Adjustment Ordinance of 2005"
+    },
+    "answer": "D",
+    "evidence": "Full Name: **Cornrath Central Ground-Floor Commercial Activation Ordinance of 2005**.",
+    "reasoning": "The Compendium records each ordinance by exact full name. Options B\u2013F either use wrong subject matter or wrong year references."
+  },
+  {
+    "id": "VOAC-072",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "On what date did Ordinance T-2009-003 take effect?",
+    "options": {
+      "A": "September 22, 2009",
+      "B": "January 1, 2008",
+      "C": "January 1, 2010",
+      "D": "March 6, 2007",
+      "E": "January 1, 2009",
+      "F": "September 1, 2010"
+    },
+    "answer": "C",
+    "evidence": "Ordinance T-2009-003 effective date: **January 1, 2010**.",
+    "reasoning": "The adoption date (September 22, 2009) is option A; January 1, 2008 is the effective date of the prior ordinance T-2007-001. All options use plausible dates from the document."
+  },
+  {
+    "id": "VOAC-073",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "Who sponsored Ordinance R-2014-007?",
+    "options": {
+      "A": "Mayor Colwick Durrath",
+      "B": "Chief Assessor Brixton Hallvane",
+      "C": "Councillor Emmelyn Foscroft",
+      "D": "Mayor Haldric Ovenspoor",
+      "E": "Director of Planning Ysabel Frondtke",
+      "F": "Director of Public Works Cael Drossmund"
+    },
+    "answer": "C",
+    "evidence": "Sponsor: **Councillor Emmelyn Foscroft**, Drasswell Ward, Seat 4B.",
+    "reasoning": "The Compendium. Colwick Durrath sponsored C-2005-001; Cael Drossmund administers SP-2019-001. The others held no sponsor role for this ordinance."
+  },
+  {
+    "id": "VOAC-074",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What council vote passed Ordinance Z-2017-009, and how is this described in the Compendium?",
+    "options": {
+      "A": "7\u20132 in favor; described as a strong majority",
+      "B": "6\u20133 in favor; described as a clear majority",
+      "C": "8\u20131 in favor; described as near-unanimous",
+      "D": "9\u20130; described as unanimous",
+      "E": "5\u20134 in favor; described as a contentious vote reflecting policy disagreement",
+      "F": "5\u20134 in favor; described as the narrowest margin of any included ordinance"
+    },
+    "answer": "F",
+    "evidence": "Council Vote: **5\u20134 in favor**, the **narrowest margin of any included ordinance**.",
+    "reasoning": "The Compendium uses the exact phrase 'narrowest margin of any included ordinance.' Option F alters the quoted description."
+  },
+  {
+    "id": "VOAC-075",
+    "type": "definition",
+    "bloom": "Remember",
+    "question": "What is the old assessment ratio value that Ordinance T-2007-001 superseded?",
+    "options": {
+      "A": "73% of fair market value",
+      "B": "71% of fair market value",
+      "C": "68% of fair market value",
+      "D": "60% of fair market value",
+      "E": "65% of fair market value",
+      "F": "70% of fair market value"
+    },
+    "answer": "E",
+    "evidence": "OLD Value superseded by Ordinance T-2007-001: Assessment ratio = **65% of fair market value**.",
+    "reasoning": "The Compendium's T-2007-001 entry. 71% is the value T-2007-001 created; 73% is the current value under T-2009-003."
+  },
+  {
+    "id": "VOAC-076",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "Placing the three assessment-ratio ordinances in chronological order by effective date, what is the correct sequence of ratios?",
+    "options": {
+      "A": "65% \u2192 73% \u2192 71%",
+      "B": "65% \u2192 71% \u2192 73%",
+      "C": "71% \u2192 73% \u2192 65%",
+      "D": "73% \u2192 71% \u2192 65%",
+      "E": "65% \u2192 73% \u2192 71%",
+      "F": "71% \u2192 65% \u2192 73%"
+    },
+    "answer": "B",
+    "evidence": "Pre-2008: **65%** (superseded by T-2007-001); Jan 1, 2008: **71%** (T-2007-001); Jan 1, 2010: **73%** (T-2009-003, current).",
+    "reasoning": "The Compendium traces the full sequence in T-2009-003's supersession statement."
+  },
+  {
+    "id": "VOAC-077",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What is the combined number of council-vote members who dissented across Ordinances Z-2017-009 and F-2021-004?",
+    "options": {
+      "A": "5 dissenters total",
+      "B": "7 dissenters total",
+      "C": "8 dissenters total",
+      "D": "4 dissenters total",
+      "E": "6 dissenters total",
+      "F": "3 dissenters total"
+    },
+    "answer": "B",
+    "evidence": "Z-2017-009 dissented by **4** councillors (Pallister, Valcourt, Dunnegan, Bluffe); F-2021-004 dissented by **3** councillors (Valcourt, Dunnegan, Pallister). Combined: **7**.",
+    "reasoning": "Both votes are in the Compendium. Note that Valcourt, Dunnegan, and Pallister dissented on both \u2014 the question asks for total count across both votes, not unique persons."
+  },
+  {
+    "id": "VOAC-078",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "What is the net change in the affordable-housing income threshold expressed in percentage points, comparing the old value under Ordinance R-2014-007 to the new value?",
+    "options": {
+      "A": "+5 percentage points (from 55% to 60%)",
+      "B": "+10 percentage points (from 60% to 70%)",
+      "C": "+10 percentage points (from 50% to 60%)",
+      "D": "\u221210 percentage points (from 60% to 50%)",
+      "E": "+5 percentage points (from 50% to 55%)",
+      "F": "+15 percentage points (from 45% to 60%)"
+    },
+    "answer": "C",
+    "evidence": "Old: \u2264 **50%** of municipal median; New: \u2264 **60%** of municipal median; change = **+10 percentage points**.",
+    "reasoning": "Compendium R-2014-007 entry. Option A assumes the old value was 55%; option E invents a 55% new value."
+  },
+  {
+    "id": "VOAC-079",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "How many total measurable sub-changes does the Compendium identify within Ordinance Z-2017-009?",
+    "options": {
+      "A": "One: only the Gorrath Ridge height change",
+      "B": "Two: Gorrath Ridge height and PO-1 setback",
+      "C": "Three: Gorrath Ridge height, PO-1 setback, and Pellgate Flats height",
+      "D": "Four: including an additional sales tax provision",
+      "E": "Three: PO-1 setback, Pellgate Flats height, and Cornrath Square sight-line rule",
+      "F": "Two: Pellgate Flats height and Gorrath Ridge height only"
+    },
+    "answer": "C",
+    "evidence": "Z-2017-009 sub-changes: **Sub-Change A** (Gorrath Ridge height), **Sub-Change B** (Lake Orvaine Reach setback), **Sub-Change C** (Pellgate Flats height). Three total.",
+    "reasoning": "The Compendium's Z-2017-009 section. Options D and E introduce sub-changes not listed in the Compendium."
+  },
+  {
+    "id": "VOAC-080",
+    "type": "reorganisation",
+    "bloom": "Understand",
+    "question": "Ordinance SP-2019-001 changed two distinct values. Which pair correctly states both old and new values across both sub-changes?",
+    "options": {
+      "A": "Certificate renewal: 5 yr \u2192 10 yr; flood elevation standard: +0.5 m \u2192 +0.8 m",
+      "B": "Certificate renewal: 7 yr \u2192 5 yr; flood elevation standard: +0.8 m \u2192 +0.5 m",
+      "C": "Certificate renewal: 3 yr \u2192 7 yr; flood elevation standard: +0.5 m \u2192 +0.8 m",
+      "D": "Certificate renewal: 5 yr \u2192 7 yr; flood elevation standard: +0.5 m \u2192 +0.8 m above base flood elevation",
+      "E": "Certificate renewal: 5 yr \u2192 7 yr; flood elevation standard: +0.3 m \u2192 +0.8 m",
+      "F": "Certificate renewal: 5 yr \u2192 7 yr; flood elevation standard: 97.4 m \u2192 98.2 m (no freeboard stated)"
+    },
+    "answer": "D",
+    "evidence": "SP-2019-001 changed: (1) certificate renewal from **5 years to 7 years**; (2) minimum habitable floor standard from base flood elevation + **0.5 m** to + **0.8 m**.",
+    "reasoning": "The Compendium's SP-2019-001 section. Option B inverts both changes; C invents a 3-year original period; E invents a 0.3 m old freeboard."
+  },
+  {
+    "id": "VOAC-081",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "Why is Ordinance T-2007-001 described as an 'interim revision' in the Compendium?",
+    "options": {
+      "A": "Because its effective date was later than its adoption date",
+      "B": "Because its 71% assessment ratio was subsequently superseded by Ordinance T-2009-003",
+      "C": "Because it was adopted on an emergency basis without a full Council vote",
+      "D": "Because it reduced the assessment ratio from 73% to 71%",
+      "E": "Because it applied only to commercial properties, not residential",
+      "F": "Because Chief Assessor Prescroft retired before its provisions took full effect"
+    },
+    "answer": "B",
+    "evidence": "The Compendium notes T-2007-001 'was an interim revision' and 'expressly replaced the pre-2008 assessment ratio\u2026 subject to the subsequent further change made by Ordinance **T-2009-003**.'",
+    "reasoning": "T-2007-001 created 71% which was quickly superseded by T-2009-003's 73%. Its interim character refers to this supersession sequence, not to emergency adoption or property-type scope."
+  },
+  {
+    "id": "VOAC-082",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "The Compendium states that the old value under Ordinance C-2005-001 permitted residential and commercial uses at ground level without restriction. What is the current operative restriction, and what exception exists for pre-2005 uses?",
+    "options": {
+      "A": "100% active commercial frontage required; residential use established before July 1, 2005 is grandfathered",
+      "B": "100% active commercial frontage required; residential use established as of February 15, 2005 is grandfathered",
+      "C": "80% active commercial frontage required; residential use established before July 1, 2005 is permitted to continue and expand",
+      "D": "100% active commercial frontage required; no grandfathering exists \u2014 all residential use was prohibited on adoption",
+      "E": "75% active commercial frontage required; residential use established before January 1, 2005 is grandfathered",
+      "F": "100% active commercial frontage required; residential use established as of December 31, 2004 is a legal nonconforming use"
+    },
+    "answer": "F",
+    "evidence": "Current: **100% ground-floor active commercial** on Cornrath Ave and Drasswell Rd. Grandfathering: residential uses legally established as of **December 31, 2004** are legal nonconforming.",
+    "reasoning": "Compendium C-2005-001. The grandfathering cutoff is December 31, 2004, not the adoption date (February 15, 2005) or effective date (July 1, 2005)."
+  },
+  {
+    "id": "VOAC-083",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What does the Compendium record as the FY2024 operative status of Ordinance T-2007-001's 71% assessment ratio?",
+    "options": {
+      "A": "It remains operative because T-2009-003 only applies to new developments",
+      "B": "It is operative only for properties assessed before January 1, 2010",
+      "C": "It was reverted to after a failed Council review of T-2009-003 in 2015",
+      "D": "It is operative for commercial properties; T-2009-003 applies only to residential",
+      "E": "It is still operative for properties in Gorrath Ward only",
+      "F": "It is not the FY2024 operative ratio because it was superseded by Ordinance T-2009-003"
+    },
+    "answer": "F",
+    "evidence": "The Compendium states: 'The 71% assessment ratio\u2026 is **not the current operative FY2024 assessment ratio** because it was **superseded by Ordinance T-2009-003**.'",
+    "reasoning": "T-2009-003 replaced the 71% value universally with 73% effective January 1, 2010. No property-type or ward-based exceptions exist in the record."
+  },
+  {
+    "id": "VOAC-084",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "What was the old value for the Pellgate Flats R-3 maximum building height before Ordinance Z-2017-009, and what reason does the Compendium give for the change?",
+    "options": {
+      "A": "Old: 21.0 m; reason: shoreline preservation",
+      "B": "Old: 9.5 m; reason: ridgeline view protection",
+      "C": "Old: 38.0 m; reason: aircraft approach path proximity",
+      "D": "Old: 45.0 m; reason: downtown sight-line protection",
+      "E": "Old: 28.0 m; reason: aircraft approach path proximity",
+      "F": "Old: 28.0 m; reason: flood mitigation requirements"
+    },
+    "answer": "E",
+    "evidence": "OLD Value: maximum building height in R-3 in Pellgate Flats = **28.0 meters**. Reason: **aircraft approach path proximity**.",
+    "reasoning": "Compendium Z-2017-009 Sub-Change C. 9.5 m is the R-1 standard; 21.0 m is the new value, not the old. Shoreline and flood reasons apply to PO-1/SP-1."
+  },
+  {
+    "id": "VOAC-085",
+    "type": "explanation",
+    "bloom": "Understand",
+    "question": "The Compendium identifies who administered Ordinance T-2007-001 at the time of passage. What is that officer's relationship to the current Chief Assessor?",
+    "options": {
+      "A": "Dolvane Prescroft was the Mayor who signed the ordinance into law",
+      "B": "Dolvane Prescroft was a co-administrator alongside Brixton Hallvane",
+      "C": "Brixton Hallvane administered the ordinance; Prescroft was the later successor",
+      "D": "Dolvane Prescroft was the predecessor to Brixton Hallvane as Chief Assessor",
+      "E": "The Compendium does not record the administering officer for T-2007-001",
+      "F": "Dolvane Prescroft was the Municipal Manager; Hallvane later assumed the assessor role independently"
+    },
+    "answer": "D",
+    "evidence": "Administering Officer at Time of Passage: **Chief Assessor Dolvane Prescroft, predecessor to Brixton Hallvane**.",
+    "reasoning": "Compendium T-2007-001 section. The current Chief Assessor is Hallvane; Prescroft preceded him in the same role."
+  },
+  {
+    "id": "VOAC-086",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which ordinance in the Compendium was passed with the largest Council majority (greatest vote differential)?",
+    "options": {
+      "A": "Ordinance Z-2017-009 at 5\u20134",
+      "B": "Ordinance T-2009-003 at 6\u20133",
+      "C": "Ordinance R-2014-007 at 8\u20131",
+      "D": "Ordinance SP-2019-001 at 7\u20132",
+      "E": "Ordinance T-2007-001 at 7\u20132",
+      "F": "Ordinance C-2005-001 at 9\u20130"
+    },
+    "answer": "F",
+    "evidence": "Ordinance C-2005-001 passed **9\u20130 (unanimous)**, the largest possible majority on a 9-member Council.",
+    "reasoning": "Compendium. A 9\u20130 margin = 9 differential. R-2014-007 (8\u20131) = 7 differential. T-2007-001 (7\u20132) = 5 differential. C-2005-001's unanimous vote is uniquely the largest."
+  },
+  {
+    "id": "VOAC-087",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which pair of ordinances in the Compendium both passed with a 6\u20133 Council vote?",
+    "options": {
+      "A": "T-2009-003 and F-2021-004",
+      "B": "R-2014-007 and C-2005-001",
+      "C": "Z-2017-009 and F-2021-004",
+      "D": "T-2009-003 and C-2005-001",
+      "E": "SP-2019-001 and T-2009-003",
+      "F": "T-2007-001 and SP-2019-001"
+    },
+    "answer": "A",
+    "evidence": "Both **Ordinance T-2009-003** and **Ordinance F-2021-004** passed with **6\u20133 Council votes**.",
+    "reasoning": "Compendium vote record: T-2009-003=6\u20133; F-2021-004=6\u20133. T-2007-001 and SP-2019-001 both passed 7\u20132 (option A covers the 7\u20132 pair). Z-2017-009=5\u20134."
+  },
+  {
+    "id": "VOAC-088",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Comparing Ordinance T-2009-003 and Ordinance F-2021-004, which characteristic do they share?",
+    "options": {
+      "A": "Both were adopted in odd-numbered years and both passed 7\u20132",
+      "B": "Both concern property assessment ratios",
+      "C": "Both passed 6\u20133 in favor",
+      "D": "Both passed 6\u20133 in favor and both have sunset provisions",
+      "E": "Both name Councillor Prinna Valcourt as a dissenting voter",
+      "F": "Both concern sales tax adjustments for flood programs"
+    },
+    "answer": "C",
+    "evidence": "T-2009-003 Council Vote: **6\u20133 in favor**. F-2021-004 Council Vote: **6\u20133 in favor**.",
+    "reasoning": "Compendium vote records. T-2009-003 has no sunset provision; F-2021-004 does \u2014 so option C is partly false. T-2009-003 is about property assessment, not sales tax."
+  },
+  {
+    "id": "VOAC-089",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Among all ordinances in the Compendium, which has the longest gap between adoption date and effective date?",
+    "options": {
+      "A": "C-2005-001: adopted February 15, 2005; effective July 1, 2005 \u2014 approximately 4.5 months",
+      "B": "R-2014-007: adopted June 17, 2014; effective August 1, 2014 \u2014 approximately 1.5 months",
+      "C": "Z-2017-009: adopted October 3, 2017; effective January 1, 2018 \u2014 approximately 3 months",
+      "D": "T-2007-001: adopted March 6, 2007; effective January 1, 2008 \u2014 approximately 9.8 months",
+      "E": "SP-2019-001: adopted April 30, 2019; effective September 1, 2019 \u2014 approximately 4 months",
+      "F": "F-2021-004: adopted November 9, 2021; effective January 1, 2022 \u2014 approximately 1.7 months"
+    },
+    "answer": "D",
+    "evidence": "T-2007-001 was adopted **March 6, 2007** and effective **January 1, 2008** \u2014 a gap of approximately **9.8 months**, the longest of any ordinance in the Compendium.",
+    "reasoning": "Comparing all six gaps: T-2007-001 (~9.8 mo) > C-2005-001 (~4.5 mo) > SP-2019-001 (~4 mo) > Z-2017-009 (~3 mo) > F-2021-004 (~1.7 mo) > R-2014-007 (~1.5 mo)."
+  },
+  {
+    "id": "VOAC-090",
+    "type": "comparison",
+    "bloom": "Analyse",
+    "question": "Which councillor voted against BOTH Ordinance Z-2017-009 AND Ordinance F-2021-004, and which ward do they represent?",
+    "options": {
+      "A": "Prinna Valcourt, Cornrath Ward",
+      "B": "Emmelyn Foscroft, Drasswell Ward",
+      "C": "Tove Hasseldorf, Fellwick Ward",
+      "D": "Linne Orvak, Gorrath Ward",
+      "E": "Jorvyn Crellweiss, Gorrath Ward",
+      "F": "Oresten Bluffe, Cornrath Ward"
+    },
+    "answer": "A",
+    "evidence": "Z-2017-009 dissenters: Pallister, **Valcourt**, Dunnegan, Bluffe. F-2021-004 dissenters: **Valcourt**, Dunnegan, Pallister. **Prinna Valcourt** appears in both lists and represents **Cornrath Ward** (Seat 1A).",
+    "reasoning": "Both ordinance entries in the Compendium. Three councillors dissented on both (Valcourt, Dunnegan, Pallister); the question specifies Valcourt as the focus because her ward makes her distinct among the answer options."
+  },
+  {
+    "id": "VOAC-091",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A property owner calculated their assessed value using the 71% ratio in 2011. Under the rules operative since January 1, 2010, what correction must they make?",
+    "options": {
+      "A": "No correction; 71% was still operative until 2015",
+      "B": "Use 65% \u2014 the original pre-2007 ratio",
+      "C": "Use 71% \u2014 T-2009-003 only applies from 2015 onward",
+      "D": "Use 73% \u2014 the ratio established by Ordinance T-2009-003 effective January 1, 2010",
+      "E": "Use 73% \u2014 only for commercial property; 71% continues for residential",
+      "F": "Use 75% \u2014 an inflation adjustment applies after 2010"
+    },
+    "answer": "D",
+    "evidence": "Ordinance T-2009-003, effective **January 1, 2010**, established the **73%** assessment ratio. Any calculation using 71% after that date is incorrect.",
+    "reasoning": "Compendium T-2009-003 and FY2024 operative status summary. 2011 is after January 1, 2010; the 71% ratio was fully superseded."
+  },
+  {
+    "id": "VOAC-092",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A property's ground-floor residential use on Cornrath Avenue was legally established on January 15, 2005. What is its status under Ordinance C-2005-001?",
+    "options": {
+      "A": "Legal nonconforming use, because it predates the effective date of July 1, 2005",
+      "B": "Legal nonconforming use, because it predates the adoption date of February 15, 2005",
+      "C": "Prohibited only if the owner cannot prove the use was in operation before February 15, 2005",
+      "D": "Permitted as of right because all uses established before July 1, 2005 are grandfathered",
+      "E": "Legal nonconforming use, because it predates the grandfathering cutoff of June 30, 2005",
+      "F": "Prohibited \u2014 the grandfathering cutoff is December 31, 2004, and January 15, 2005 is after that date"
+    },
+    "answer": "F",
+    "evidence": "The grandfathering cutoff is **December 31, 2004**. A use established January 15, 2005 is after the cutoff and is **not grandfathered** \u2014 it is prohibited.",
+    "reasoning": "Compendium C-2005-001. The cutoff is the calendar end of 2004, not the adoption or effective date of the ordinance."
+  },
+  {
+    "id": "VOAC-093",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A developer claims a Zone R-2 density bonus using the affordable-housing provision. Their units are priced for households earning $36,000. Under the current threshold (post-R-2014-007), does this qualify?",
+    "options": {
+      "A": "No, because $36,000 exceeds the current threshold of \u2264 $35,246 (\u2264 60% of $58,743)",
+      "B": "Yes, because $36,000 is below the $58,743 median household income",
+      "C": "Yes, because $36,000 is below the old threshold of \u2264 50% of median income",
+      "D": "Yes, because $36,000 qualifies under the 2014 median income figures even if not the 2019 figures",
+      "E": "No, because the income threshold was not changed by R-2014-007 and remains at \u2264 $29,372 (\u2264 50%)",
+      "F": "Yes, because density bonuses require only 15% of units to be affordable, with no dollar cap"
+    },
+    "answer": "A",
+    "evidence": "$36,000 > **$35,246** (\u2264 60% of $58,743 municipal median). The units **do not qualify** under the current threshold.",
+    "reasoning": "Compendium R-2014-007. The new value is \u2264 60% of $58,743 = \u2264 $35,246. $36,000 exceeds this limit by $754."
+  },
+  {
+    "id": "VOAC-094",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A citizen asks: if the 0.255 percentage-point increase in municipal sales tax under Ordinance F-2021-004 is not renewed by Council before December 31, 2029, what combined rate applies from January 1, 2030?",
+    "options": {
+      "A": "7.473% \u2014 the increase automatically renews unless Council votes to repeal it",
+      "B": "6.000% \u2014 only the provincial rate survives",
+      "C": "1.218% \u2014 only the municipal base rate survives",
+      "D": "7.255% \u2014 a partial sunset reduces only 0.218 percentage points",
+      "E": "7.218% \u2014 the base 1.218% municipal rate plus 6.000% provincial",
+      "F": "7.000% \u2014 a standard sunset rate applies"
+    },
+    "answer": "E",
+    "evidence": "After the sunset of the 0.255 pp increase, the permanent base rate of **1.218%** municipal + **6.000%** provincial = **7.218% combined**.",
+    "reasoning": "Compendium F-2021-004. The sunset provision explicitly states the base rate of 1.218% remains permanent. The provincial rate is unchanged at 6.000%."
+  },
+  {
+    "id": "VOAC-095",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "Under Ordinance Z-2017-009, the Lake Orvaine Reach shoreline setback increased from 25.0 m to 38.5 m. A structure built in 2015 sits 28.0 meters from the ordinary high-water mark. What is its status under the current rules?",
+    "options": {
+      "A": "Fully compliant, because 28.0 m exceeds the old 25.0 m setback that applied when it was built",
+      "B": "Legal nonconforming, because it complied with the pre-overlay setback of 25.0 m but now falls within the 38.5 m zone",
+      "C": "Prohibited outright and must be demolished immediately",
+      "D": "Compliant, because the 38.5 m setback only applies to new construction after January 1, 2018",
+      "E": "Legal nonconforming, but only if damaged by a declared natural disaster may it be replaced in kind",
+      "F": "Non-compliant and ineligible for any permit because the structure was not water-dependent"
+    },
+    "answer": "B",
+    "evidence": "The structure was 28.0 m from the high-water mark, which complied with the pre-2018 setback of 25.0 m. After the new setback of 38.5 m (Ordinance Z-2017-009, effective Jan 1, 2018), it is now within the setback zone \u2014 making it a **legal nonconforming** structure.",
+    "reasoning": "Compendium Z-2017-009 Sub-Change B and Rule PO-1.1. Existing structures within the setback are nonconforming; replacement after a declared disaster is specifically allowed in kind (Exception PO-1.1(b))."
+  },
+  {
+    "id": "VOAC-096",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "The Compendium records the minimum habitable floor elevation under Ordinance SP-2019-001 as base flood elevation (97.4 m AMSL) + 0.8 m. What was the equivalent expression under the 2012 administrative policy?",
+    "options": {
+      "A": "97.4 m AMSL + 0.8 m = 98.2 m AMSL",
+      "B": "97.4 m AMSL + 0.5 m = 97.9 m AMSL",
+      "C": "97.4 m AMSL + 0.3 m = 97.7 m AMSL",
+      "D": "96.9 m AMSL + 0.5 m = 97.4 m AMSL",
+      "E": "97.0 m AMSL + 1.0 m = 98.0 m AMSL",
+      "F": "97.4 m AMSL + 1.0 m = 98.4 m AMSL"
+    },
+    "answer": "B",
+    "evidence": "Under the 2012 administrative policy: lowest habitable floor = base flood elevation **+ 0.5 m** = **97.9 m AMSL**.",
+    "reasoning": "Compendium SP-2019-001 sub-change. The 2012 standard used a 0.5 m freeboard; the current standard raised it to 0.8 m. Option A is the current (new) value."
+  },
+  {
+    "id": "VOAC-097",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "Councillor Emmelyn Foscroft sponsored Ordinance R-2014-007. Which seat and ward does she represent, and when does her current term end?",
+    "options": {
+      "A": "Seat 4A, Drasswell Ward, term ends January 7, 2028",
+      "B": "Seat 3B, Gorrath Ward, term ends January 5, 2026",
+      "C": "Seat 2A, Fellwick Ward, term ends January 5, 2026",
+      "D": "Seat 4B, Drasswell Ward, term ends January 7, 2028",
+      "E": "Seat 4B, Drasswell Ward, term ends January 5, 2026",
+      "F": "Seat 1A, Cornrath Ward, term ends January 5, 2026"
+    },
+    "answer": "E",
+    "evidence": "Emmelyn Foscroft holds **Seat 4B**, represents **Drasswell Ward**, with term end **January 5, 2026**.",
+    "reasoning": "Compendium R-2014-007 names her as Drasswell Ward, Seat 4B. The legislative roster confirms her term end. Option A is Seat 4A (Rund Pallister). Option D uses the wrong term-end year."
+  },
+  {
+    "id": "VOAC-098",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "Under Ordinance F-2021-004, the combined sales tax rate changed. A retailer wants to know the increase in combined tax on a $1,000 purchase. What is the additional tax charged compared to the pre-2022 rate?",
+    "options": {
+      "A": "$2.550 more",
+      "B": "$0.473 more",
+      "C": "$1.218 more",
+      "D": "$1.473 more",
+      "E": "$0.255 more",
+      "F": "$6.000 more"
+    },
+    "answer": "A",
+    "evidence": "The combined rate increased by **0.255 percentage points** (from 7.218% to 7.473%). On a $1,000 purchase: $1,000 \u00d7 0.00255 = **$2.55 more**.",
+    "reasoning": "Compendium F-2021-004. The 0.255 pp increase is the municipal portion only. $2.55 is the tax increment on a $1,000 purchase \u2014 not the full municipal tax, not the provincial portion."
+  },
+  {
+    "id": "VOAC-099",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A flood proofing certificate was issued under the predecessor administrative policy (pre-SP-2019-001) and was due for renewal in September 2022. Under the new ordinance, when must it now be renewed?",
+    "options": {
+      "A": "September 2027 \u2014 the new 7-year period applies from the original issue date",
+      "B": "September 2022 \u2014 the old renewal date still governs certificates issued before the ordinance",
+      "C": "September 2024 \u2014 the new 7-year period resets from the ordinance effective date (September 1, 2019)",
+      "D": "September 2026 \u2014 renewal is extended by 2 years under a transition provision",
+      "E": "September 2029 \u2014 the 7-year period runs from the effective date of SP-2019-001",
+      "F": "The certificate is automatically expired and must be re-issued under the new program"
+    },
+    "answer": "A",
+    "evidence": "Under Ordinance SP-2019-001, **Flood Proofing Certificates are renewed every 7 years**. The new period applies to existing certificates: if the certificate was due in September 2022, the 7-year period likely runs from its original issuance. If originally issued September 2020 (= 5 yr cycle \u2192 Sept 2022 renewal under old rules), the new 7-year period would shift renewal to September 2027.",
+    "reasoning": "SP-2019-001 changed the renewal period from 5 to 7 years. Under the new rule, a certificate originally issued in 2020 renews in 2027 (7 years), not 2022 (old 5-year cycle)."
+  },
+  {
+    "id": "VOAC-100",
+    "type": "application",
+    "bloom": "Apply",
+    "question": "A building in Zone C-3 has a ground-floor residential use legally established on March 1, 2003 (pre-C-2005-001). The owner wants to expand the residential footprint by 15%. Is this permitted?",
+    "options": {
+      "A": "Yes, because the use predates the effective date of C-2005-001 by more than two years",
+      "B": "Yes, but only if the expansion does not exceed 12% of total street frontage width",
+      "C": "No, because the grandfathering protection expired ten years after the ordinance effective date (2015)",
+      "D": "Yes, because the grandfathering cutoff of December 31, 2004 protects all pre-2005 uses from any restriction",
+      "E": "No, because legal nonconforming residential uses in C-3 may not expand their residential footprint",
+      "F": "Yes, because an expansion of 15% falls within a 20% allowance for nonconforming residential uses"
+    },
+    "answer": "E",
+    "evidence": "A property with a legally established residential ground-floor use as of December 31, 2004 **may continue as a legal nonconforming use but may not expand the residential footprint**.",
+    "reasoning": "Compendium C-2005-001 operative-status summary. The nonconforming status protects continued operation, not growth. The 12% figure applies to lobby entrances for upper-floor uses, not residential footprint expansion."
+  }
+]
