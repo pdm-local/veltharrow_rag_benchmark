@@ -39,10 +39,10 @@ everything you need to get numbers close to mine on your own machine.
 > synthetic, provably-unseen documents and judge-free MCQ accuracy, scaled across many more
 > models and retrieval configurations.
 
-Made by Daniel Mihai Pocatilu at [pdm.ai](https://www.pdmzerotrustbusiness.com), 27 October 2026.
+Made by Daniel-Mihai Pocatilu at [pdm.ai](https://www.pdmzerotrustbusiness.com), 27 October 2026.
 
 - Demo: https://www.pdmzerotrustbusiness.com/projects/government/
-- Paper: https://www.pdmzerotrustbusiness.com/papers/2026-10-veltharrow.pdf
+- Paper: https://www.pdmzerotrustbusiness.com/papers/2026-10-veltharrow.pdf, DOI [10.5281/zenodo.24084989](https://doi.org/10.5281/zenodo.24084989)
 
 ---
 
@@ -434,13 +434,15 @@ python3 tools/merge_results.py \
 ## Citation
 
 ```bibtex
-@techreport{pocatilu2026veltharrow,
-  title       = {Recognition and Grounded Answering: Retrieval-Augmented Small Language
-                 Models on a Fictional Municipal Corpus},
-  author      = {Pocatilu, Daniel Mihai},
-  institution = {pdm.ai},
-  year        = {2026},
-  url         = {https://www.pdmzerotrustbusiness.com/papers/2026-10-veltharrow.pdf}
+@misc{pocatilu2026veltharrow,
+  title     = {Recognition and Grounded Answering: Retrieval-Augmented Small Language
+               Models on a Fictional Municipal Corpus},
+  author    = {Pocatilu, Daniel-Mihai},
+  year      = {2026},
+  publisher = {Zenodo},
+  version   = {1.0},
+  doi       = {10.5281/zenodo.24084989},
+  url       = {https://doi.org/10.5281/zenodo.24084989}
 }
 ```
 
@@ -448,7 +450,7 @@ python3 tools/merge_results.py \
 
 ## Maintainer
 
-Daniel Mihai Pocatilu, pdm.ai (https://www.pdmzerotrustbusiness.com)
+Daniel-Mihai Pocatilu, pdm.ai (https://www.pdmzerotrustbusiness.com)
 
 ---
 
